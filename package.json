@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "name": "@icons/material",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "case <case@casesandberg.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@case/eslint-config": "^0.3.3",
+    "change-case": "^3.0.1",
+    "fs-extra": "^4.0.1"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "eslintConfig": {
+    "extends": "@case"
+  },
+}
