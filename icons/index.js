@@ -1,2 +1,2 @@
 
-export * from './AccountBoxIcon'
+export * from './ZipBoxIcon'

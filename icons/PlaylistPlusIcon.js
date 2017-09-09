@@ -1,0 +1,19 @@
+import React from 'react'
+
+const DEFAULT_SIZE = 24
+
+export const PlaylistPlusIcon = ({
+  fill = 'currentColor',
+  width = DEFAULT_SIZE,
+  height = DEFAULT_SIZE,
+  style = {},
+  ...props
+}) => (
+  <svg
+    viewBox={ `0 0 ${ DEFAULT_SIZE } ${ DEFAULT_SIZE }` }
+    style={{ fill, width, height, ...style }}
+    { ...props }
+  >
+    <path d="M2,16H10V14H2M18,14V10H16V14H12V16H16V20H18V16H22V14M14,6H2V8H14M14,10H2V12H14V10Z" />
+  </svg>
+)

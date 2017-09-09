@@ -10,12 +10,13 @@
   "devDependencies": {
     "@case/eslint-config": "^0.3.3",
     "change-case": "^3.0.1",
-    "fs-extra": "^4.0.1"
+    "fs-extra": "^4.0.1",
+    "mdi-svg": "^2.0.46"
   },
   "peerDependencies": {
     "react": "*"
   },
   "eslintConfig": {
     "extends": "@case"
-  },
+  }
 }

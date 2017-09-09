@@ -3,7 +3,7 @@ const process = require('process')
 const changeCase = require('change-case')
 
 const EXIT = 1
-const iconsFrom = './tmp/'
+const iconsFrom = './node_modules/mdi-svg/svg/'
 const iconsTo = './icons/'
 
 const createFileString = (name, paths) =>
@@ -36,7 +36,7 @@ export * from './${ name }'
 fs.readdir(iconsFrom)
   .then(fs.writeFileSync(`${ iconsTo }/index.js`, ''))
   .then((files) => {
-    files.forEach((filename) => {
+    for (const filename of files) {
       fs.readFile(iconsFrom + filename, 'utf-8')
         .then((content) => {
           // eslint-disable-next-line no-unused-vars
@@ -51,7 +51,7 @@ fs.readdir(iconsFrom)
                 })
             })
         })
-    })
+    }
   })
   .catch((err) => {
     console.log(err)
