@@ -28,31 +28,35 @@ export const ${ name } = ({
 )
 `
 
-const createIndexString = (name, index) =>
-  `${ index }
-export * from './${ name }'
-`
+const createIndexString = (name) => `export * from './${ name }'`
 
 fs.readdir(iconsFrom)
-  .then(fs.writeFileSync(`${ iconsTo }/index.js`, ''))
   .then((files) => {
-    for (const filename of files) {
-      fs.readFile(iconsFrom + filename, 'utf-8')
-        .then((content) => {
-          // eslint-disable-next-line no-unused-vars
-          const [match, paths] = content.match(/<svg .+?>(.+?)<\/svg>/)
-          const name = `${ changeCase.pascalCase(filename.replace('.svg', '')) }Icon`
-
-          fs.writeFile(`${ iconsTo }${ name }.js`, createFileString(name, paths))
-            .then(() => {
-              fs.readFile(`${ iconsTo }/index.js`, 'utf-8')
-                .then((index) => {
-                  fs.writeFileSync(`${ iconsTo }/index.js`, createIndexString(name, index))
-                })
-            })
-        })
-    }
+    const fileContents = files.map((filename) => fs.readFile(iconsFrom + filename, 'utf-8'))
+    return Promise.all(fileContents)
+      .then((contents) => ({
+        names: files,
+        contents,
+      }))
   })
+  .then((files) => Promise.all(
+    files.names.map((filename, i) => {
+      const content = files.contents[i]
+      // eslint-disable-next-line no-unused-vars
+      const [match, paths] = content.match(/<svg .+?>(.+?)<\/svg>/)
+      const name = `${ changeCase.pascalCase(filename.replace('.svg', '')) }Icon`
+
+      return fs.writeFile(`${ iconsTo }${ name }.js`, createFileString(name, paths))
+    })
+  ))
+  .then(fs.writeFileSync(`${ iconsTo }/index.js`, ''))
+  .then(() =>
+    fs.readdir(iconsTo)
+      .then((files) => {
+        const file = files.map((fileName) => createIndexString(fileName))
+        return fs.writeFile(`${ iconsTo }/index.js`, `${ file.join('\n') }\n`)
+      })
+  )
   .catch((err) => {
     console.log(err)
     process.exit(EXIT)
