@@ -28,7 +28,7 @@ export default ({
 )
 `
 
-const createIndexString = (name) => `export { default as ${ name } } from './${ name }'`
+const createIndexString = (file) => `export { default as ${ file.replace('.js', '') } } from './${ file }'`
 
 fs.removeSync(iconsTo)
 fs.ensureDirSync(iconsTo)
