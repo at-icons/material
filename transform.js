@@ -3,7 +3,9 @@ const process = require('process')
 const changeCase = require('change-case')
 
 const EXIT = 1
-const iconsFrom = './node_modules/mdi-svg/svg'
+const README = './README.md'
+const README_HEADER = '# Material Icons\n\n> materialdesignicons.com\n\n|   | Name\n:-: | :----------:\n'
+const iconsFrom = './svg'
 const iconsTo = './icons'
 
 const createFileString = (name, paths) =>
@@ -30,6 +32,19 @@ export default ({
 
 const createIndexString = (file) => `export { default as ${ file.replace('.js', '') } } from './${ file }'`
 
+const createMarkdownString = (file) => {
+  const name = file.replace('.js', '')
+
+  return `![](svg/${ changeCase.paramCase(name) }.svg) | \`${ name }\``
+}
+
+fs.removeSync(README)
+fs.writeFileSync(README, '')
+
+fs.removeSync(iconsFrom)
+fs.ensureDirSync(iconsFrom)
+fs.copySync('./node_modules/mdi-svg/svg', iconsFrom)
+
 fs.removeSync(iconsTo)
 fs.ensureDirSync(iconsTo)
 fs.writeFileSync(`${ iconsTo }/index.js`, '')
@@ -53,6 +68,13 @@ fs.readdir(iconsFrom)
       return fs.writeFile(`${ iconsTo }/${ name }.js`, createFileString(name, paths))
     })
   ))
+  .then(() =>
+    fs.readdir(iconsTo)
+      .then((files) => {
+        const file = files.map((fileName) => createMarkdownString(fileName))
+        return fs.writeFile(README, `${ README_HEADER }${ file.join('\n') }\n`)
+      })
+  )
   .then(() =>
     fs.readdir(iconsTo)
       .then((files) => {
