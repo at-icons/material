@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const CurrencyEthIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,
@@ -14,6 +14,6 @@ export const CurrencyEthIcon = ({
     style={{ fill, width, height, ...style }}
     { ...props }
   >
-    <path d="M12,1.75L5.75,12.25L12,16L18.25,12.25L12,1.75M5.75,13.5L12,22.25L18.25,13.5L12,17.25L5.75,13.5Z" />
+    <path d="M6,5H18V7H6M7,11H17V13H7M5.5,17H18.5V19H5.5" />
   </svg>
 )

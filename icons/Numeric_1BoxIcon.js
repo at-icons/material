@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const Numeric_1BoxIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,

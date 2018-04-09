@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const TelevisionIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,
@@ -14,6 +14,6 @@ export const TelevisionIcon = ({
     style={{ fill, width, height, ...style }}
     { ...props }
   >
-    <path d="M20,17H4V5H20M20,3H4C2.89,3 2,3.89 2,5V17C2,18.1 2.9,19 4,19H8V21H16V19H20C21.1,19 22,18.1 22,17V5C22,3.89 21.1,3 20,3Z" />
+    <path d="M21,17H3V5H21M21,3H3C1.9,3 1,3.9 1,5V17C1,18.1 1.9,19 3,19H8V21H16V19H21C22.1,19 23,18.1 23,17V5C23,3.9 22.1,3 21,3Z" />
   </svg>
 )

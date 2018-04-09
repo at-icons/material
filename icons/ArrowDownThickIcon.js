@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const ArrowDownThickIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,

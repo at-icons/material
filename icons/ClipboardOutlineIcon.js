@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const ClipboardOutlineIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,
@@ -14,6 +14,6 @@ export const ClipboardOutlineIcon = ({
     style={{ fill, width, height, ...style }}
     { ...props }
   >
-    <path d="M7,8V6H5V19H19V6H17V8H7M9,4C9,2.34 10.34,1 12,1C13.66,1 15,2.34 15,4H19C20.1,4 21,4.9 21,6V19C21,20.1 20.1,21 19,21H5C3.9,21 3,20.1 3,19V6C3,4.9 3.9,4 5,4H9M12,3C11.45,3 11,3.45 11,4C11,4.55 11.45,5 12,5C12.55,5 13,4.55 13,4C13,3.45 12.55,3 12,3Z" />
+    <path d="M19,3H14.82C14.4,1.84 13.3,1 12,1C10.7,1 9.6,1.84 9.18,3H5C3.9,3 3,3.9 3,5V19C3,20.1 3.9,21 5,21H19C20.1,21 21,20.1 21,19V5C21,3.9 20.1,3 19,3M12,3C12.55,3 13,3.45 13,4C13,4.55 12.55,5 12,5C11.45,5 11,4.55 11,4C11,3.45 11.45,3 12,3M7,7H17V5H19V19H5V5H7V7Z" />
   </svg>
 )

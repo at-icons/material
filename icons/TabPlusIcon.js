@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const TabPlusIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,
@@ -14,6 +14,6 @@ export const TabPlusIcon = ({
     style={{ fill, width, height, ...style }}
     { ...props }
   >
-    <path d="M19,19V9H12V5H5V19H19M19,3C20.1,3 21,3.9 21,5V19C21,20.1 20.1,21 19,21H5C3.9,21 3,20.1 3,19V5C3,3.89 3.9,3 5,3H19M7,13H10V10H12V13H15V15H12V18H10V15H7V13Z" />
+    <path d="M3,3C1.9,3 1,3.9 1,5V19C1,20.1 1.9,21 3,21H21C22.1,21 23,20.1 23,19V5C23,3.9 22.1,3 21,3H3M3,5H13V9H21V19H3V5M10,10V13H7V15H10V18H12V15H15V13H12V10H10Z" />
   </svg>
 )

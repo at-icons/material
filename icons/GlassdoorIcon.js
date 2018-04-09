@@ -2,7 +2,7 @@ import React from 'react'
 
 const DEFAULT_SIZE = 24
 
-export const GlassdoorIcon = ({
+export default ({
   fill = 'currentColor',
   width = DEFAULT_SIZE,
   height = DEFAULT_SIZE,
@@ -14,6 +14,6 @@ export const GlassdoorIcon = ({
     style={{ fill, width, height, ...style }}
     { ...props }
   >
-    <path d="M18,6H16V15C16,16 15.82,16.64 15,16.95L9.5,19V6C9.5,5.3 9.74,4.1 11,4.24L18,5V3.79L9,2.11C8.64,2.04 8.36,2 8,2C6.72,2 6,2.78 6,4V20.37C6,21.95 7.37,22.26 8,22L17,18.32C18,17.91 18,17 18,16V6Z" />
+    <path d="M8,2C6.34,2 5,3.34 5,5V16.5H8V5H19C19,3.34 17.66,2 16,2H8M16,7.5V19H5C5,20.66 6.34,22 8,22H16C17.66,22 19,20.66 19,19V7.5H16Z" />
   </svg>
 )
