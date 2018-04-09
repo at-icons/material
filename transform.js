@@ -36,7 +36,7 @@ const createMarkdownString = (file) => {
   const name = file.replace('.js', '')
   const oldFileName = changeCase.paramCase(name).replace('-icon', '')
 
-  return `<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/${ oldFileName }.svg" width="24" height="24"> | \`${ name }\``
+  return `<img src="https://unpkg.com/@icons/material/svg/${ oldFileName }.svg" width="24" height="24"> | \`${ name }\``
 }
 
 fs.removeSync(README)
