@@ -9,6 +9,10 @@
   },
   "author": "case <case@casesandberg.com>",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/at-icons/material.git"
+  },
   "devDependencies": {
     "@case/eslint-config": "^0.3.3",
     "babel-cli": "^6.24.0",
