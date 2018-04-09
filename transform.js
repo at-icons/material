@@ -4,7 +4,20 @@ const changeCase = require('change-case')
 
 const EXIT = 1
 const README = './README.md'
-const README_HEADER = '# Material Icons\n\n> materialdesignicons.com\n\n|   | Name\n:-: | :----------:\n'
+const README_HEADER = `# Material Icons
+
+> materialdesignicons.com
+
+\`\`\`sh
+npm install @icons/material --save
+\`\`\`
+
+\`\`\`js
+import { AccountCheckIcon } from '@icons/material'
+\`\`\`
+
+|   | Name
+:-: | :----------:\n`
 const iconsFrom = './svg'
 const iconsTo = './icons'
 

@@ -2,6 +2,14 @@
 
 > materialdesignicons.com
 
+```sh
+npm install @icons/material --save
+```
+
+```js
+import { AccountCheckIcon } from '@icons/material'
+```
+
 |   | Name
 :-: | :----------:
 <img src="https://unpkg.com/@icons/material/svg/access-point.svg" width="24" height="24"> | `AccessPointIcon`
