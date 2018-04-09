@@ -34,8 +34,9 @@ const createIndexString = (file) => `export { default as ${ file.replace('.js', 
 
 const createMarkdownString = (file) => {
   const name = file.replace('.js', '')
+  const oldFileName = changeCase.paramCase(name).replace('-icon', '')
 
-  return `![](https://raw.githubusercontent.com/at-icons/material/master/svg/${ changeCase.paramCase(name) }.svg) | \`${ name }\``
+  return `![](https://raw.githubusercontent.com/at-icons/material/master/svg/${ oldFileName }.svg) | \`${ name }\``
 }
 
 fs.removeSync(README)
