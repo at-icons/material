@@ -4,2247 +4,2247 @@
 
 |   | Name
 :-: | :----------:
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/access-point.svg) | `AccessPointIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/access-point-network.svg) | `AccessPointNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-alert.svg) | `AccountAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-box.svg) | `AccountBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-box-outline.svg) | `AccountBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-card-details.svg) | `AccountCardDetailsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-check.svg) | `AccountCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-circle.svg) | `AccountCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-convert.svg) | `AccountConvertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-edit.svg) | `AccountEditIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-group.svg) | `AccountGroupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-heart.svg) | `AccountHeartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account.svg) | `AccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-key.svg) | `AccountKeyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-location.svg) | `AccountLocationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-minus.svg) | `AccountMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple.svg) | `AccountMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-minus.svg) | `AccountMultipleMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-outline.svg) | `AccountMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-plus.svg) | `AccountMultiplePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-plus-outline.svg) | `AccountMultiplePlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-network.svg) | `AccountNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-off.svg) | `AccountOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-outline.svg) | `AccountOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-plus.svg) | `AccountPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-plus-outline.svg) | `AccountPlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-remove.svg) | `AccountRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-search.svg) | `AccountSearchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-settings.svg) | `AccountSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-settings-variant.svg) | `AccountSettingsVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-star.svg) | `AccountStarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/account-switch.svg) | `AccountSwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/accusoft.svg) | `AccusoftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/adjust.svg) | `AdjustIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/air-conditioner.svg) | `AirConditionerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airballoon.svg) | `AirballoonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airplane.svg) | `AirplaneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airplane-landing.svg) | `AirplaneLandingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airplane-off.svg) | `AirplaneOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airplane-takeoff.svg) | `AirplaneTakeoffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airplay.svg) | `AirplayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/airport.svg) | `AirportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-bell.svg) | `AlarmBellIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-check.svg) | `AlarmCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm.svg) | `AlarmIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-light.svg) | `AlarmLightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-multiple.svg) | `AlarmMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-off.svg) | `AlarmOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-plus.svg) | `AlarmPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-snooze.svg) | `AlarmSnoozeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/album.svg) | `AlbumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-box.svg) | `AlertBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-circle.svg) | `AlertCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-circle-outline.svg) | `AlertCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-decagram.svg) | `AlertDecagramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert.svg) | `AlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-octagon.svg) | `AlertOctagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-octagram.svg) | `AlertOctagramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alert-outline.svg) | `AlertOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alien.svg) | `AlienIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/all-inclusive.svg) | `AllInclusiveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/allo.svg) | `AlloIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alpha.svg) | `AlphaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/alphabetical.svg) | `AlphabeticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/altimeter.svg) | `AltimeterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/amazon-clouddrive.svg) | `AmazonClouddriveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/amazon.svg) | `AmazonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ambulance.svg) | `AmbulanceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/amplifier.svg) | `AmplifierIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/anchor.svg) | `AnchorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/android-debug-bridge.svg) | `AndroidDebugBridgeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/android-head.svg) | `AndroidHeadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/android.svg) | `AndroidIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/android-studio.svg) | `AndroidStudioIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/angular.svg) | `AngularIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/angularjs.svg) | `AngularjsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/animation.svg) | `AnimationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/anvil.svg) | `AnvilIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-finder.svg) | `AppleFinderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple.svg) | `AppleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-ios.svg) | `AppleIosIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-caps.svg) | `AppleKeyboardCapsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-command.svg) | `AppleKeyboardCommandIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-control.svg) | `AppleKeyboardControlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-option.svg) | `AppleKeyboardOptionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-shift.svg) | `AppleKeyboardShiftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-mobileme.svg) | `AppleMobilemeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apple-safari.svg) | `AppleSafariIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/application.svg) | `ApplicationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/approval.svg) | `ApprovalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/apps.svg) | `AppsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/archive.svg) | `ArchiveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-bring-forward.svg) | `ArrangeBringForwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-bring-to-front.svg) | `ArrangeBringToFrontIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-send-backward.svg) | `ArrangeSendBackwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-send-to-back.svg) | `ArrangeSendToBackIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-all.svg) | `ArrowAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-bottom-left.svg) | `ArrowBottomLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-bottom-right.svg) | `ArrowBottomRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-all.svg) | `ArrowCollapseAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-down.svg) | `ArrowCollapseDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-horizontal.svg) | `ArrowCollapseHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse.svg) | `ArrowCollapseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-left.svg) | `ArrowCollapseLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-right.svg) | `ArrowCollapseRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-up.svg) | `ArrowCollapseUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-vertical.svg) | `ArrowCollapseVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-box.svg) | `ArrowDownBoldBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-box-outline.svg) | `ArrowDownBoldBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-circle.svg) | `ArrowDownBoldCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-circle-outline.svg) | `ArrowDownBoldCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-hexagon-outline.svg) | `ArrowDownBoldHexagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold.svg) | `ArrowDownBoldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-box.svg) | `ArrowDownBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-drop-circle.svg) | `ArrowDownDropCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-drop-circle-outline.svg) | `ArrowDownDropCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down.svg) | `ArrowDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-thick.svg) | `ArrowDownThickIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-all.svg) | `ArrowExpandAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-down.svg) | `ArrowExpandDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-horizontal.svg) | `ArrowExpandHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand.svg) | `ArrowExpandIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-left.svg) | `ArrowExpandLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-right.svg) | `ArrowExpandRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-up.svg) | `ArrowExpandUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-vertical.svg) | `ArrowExpandVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-box.svg) | `ArrowLeftBoldBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-box-outline.svg) | `ArrowLeftBoldBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-circle.svg) | `ArrowLeftBoldCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-circle-outline.svg) | `ArrowLeftBoldCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-hexagon-outline.svg) | `ArrowLeftBoldHexagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold.svg) | `ArrowLeftBoldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-box.svg) | `ArrowLeftBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-drop-circle.svg) | `ArrowLeftDropCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-drop-circle-outline.svg) | `ArrowLeftDropCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left.svg) | `ArrowLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-thick.svg) | `ArrowLeftThickIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-box.svg) | `ArrowRightBoldBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-box-outline.svg) | `ArrowRightBoldBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-circle.svg) | `ArrowRightBoldCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-circle-outline.svg) | `ArrowRightBoldCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-hexagon-outline.svg) | `ArrowRightBoldHexagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold.svg) | `ArrowRightBoldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-box.svg) | `ArrowRightBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-drop-circle.svg) | `ArrowRightDropCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-drop-circle-outline.svg) | `ArrowRightDropCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right.svg) | `ArrowRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-thick.svg) | `ArrowRightThickIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-top-left.svg) | `ArrowTopLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-top-right.svg) | `ArrowTopRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-box.svg) | `ArrowUpBoldBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-box-outline.svg) | `ArrowUpBoldBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-circle.svg) | `ArrowUpBoldCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-circle-outline.svg) | `ArrowUpBoldCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-hexagon-outline.svg) | `ArrowUpBoldHexagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold.svg) | `ArrowUpBoldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-box.svg) | `ArrowUpBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-drop-circle.svg) | `ArrowUpDropCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-drop-circle-outline.svg) | `ArrowUpDropCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up.svg) | `ArrowUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-thick.svg) | `ArrowUpThickIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/artist.svg) | `ArtistIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/assistant.svg) | `AssistantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/asterisk.svg) | `AsteriskIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/at.svg) | `AtIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/atlassian.svg) | `AtlassianIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/atom.svg) | `AtomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/attachment.svg) | `AttachmentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/audiobook.svg) | `AudiobookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/augmented-reality.svg) | `AugmentedRealityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/auto-fix.svg) | `AutoFixIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/auto-upload.svg) | `AutoUploadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/autorenew.svg) | `AutorenewIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/av-timer.svg) | `AvTimerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/azure.svg) | `AzureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/baby-buggy.svg) | `BabyBuggyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/baby.svg) | `BabyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/backburger.svg) | `BackburgerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/backspace.svg) | `BackspaceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/backup-restore.svg) | `BackupRestoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/badminton.svg) | `BadmintonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bandcamp.svg) | `BandcampIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bank.svg) | `BankIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/barcode.svg) | `BarcodeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/barcode-scan.svg) | `BarcodeScanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/barley.svg) | `BarleyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/barrel.svg) | `BarrelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/baseball-bat.svg) | `BaseballBatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/baseball.svg) | `BaseballIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/basecamp.svg) | `BasecampIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/basket-fill.svg) | `BasketFillIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/basket.svg) | `BasketIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/basket-unfill.svg) | `BasketUnfillIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/basketball.svg) | `BasketballIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-alert.svg) | `BatteryAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging.svg) | `BatteryChargingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-outline.svg) | `BatteryChargingOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-alert.svg) | `BatteryChargingWirelessAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless.svg) | `BatteryChargingWirelessIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-outline.svg) | `BatteryChargingWirelessOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-10.svg) | `BatteryChargingWireless_10Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-20.svg) | `BatteryChargingWireless_20Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-30.svg) | `BatteryChargingWireless_30Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-40.svg) | `BatteryChargingWireless_40Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-50.svg) | `BatteryChargingWireless_50Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-60.svg) | `BatteryChargingWireless_60Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-70.svg) | `BatteryChargingWireless_70Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-80.svg) | `BatteryChargingWireless_80Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-90.svg) | `BatteryChargingWireless_90Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-100.svg) | `BatteryCharging_100Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-10.svg) | `BatteryCharging_10Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-20.svg) | `BatteryCharging_20Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-30.svg) | `BatteryCharging_30Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-40.svg) | `BatteryCharging_40Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-50.svg) | `BatteryCharging_50Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-60.svg) | `BatteryCharging_60Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-70.svg) | `BatteryCharging_70Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-80.svg) | `BatteryCharging_80Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-90.svg) | `BatteryCharging_90Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery.svg) | `BatteryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-minus.svg) | `BatteryMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-negative.svg) | `BatteryNegativeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-outline.svg) | `BatteryOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-plus.svg) | `BatteryPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-positive.svg) | `BatteryPositiveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-unknown.svg) | `BatteryUnknownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-10.svg) | `Battery_10Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-20.svg) | `Battery_20Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-30.svg) | `Battery_30Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-40.svg) | `Battery_40Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-50.svg) | `Battery_50Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-60.svg) | `Battery_60Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-70.svg) | `Battery_70Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-80.svg) | `Battery_80Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/battery-90.svg) | `Battery_90Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/beach.svg) | `BeachIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/beaker.svg) | `BeakerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/beats.svg) | `BeatsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bed-empty.svg) | `BedEmptyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/beer.svg) | `BeerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/behance.svg) | `BehanceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell.svg) | `BellIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell-off.svg) | `BellOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell-outline.svg) | `BellOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell-plus.svg) | `BellPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell-ring.svg) | `BellRingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell-ring-outline.svg) | `BellRingOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bell-sleep.svg) | `BellSleepIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/beta.svg) | `BetaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bible.svg) | `BibleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bike.svg) | `BikeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bing.svg) | `BingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/binoculars.svg) | `BinocularsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bio.svg) | `BioIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/biohazard.svg) | `BiohazardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bitbucket.svg) | `BitbucketIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bitcoin.svg) | `BitcoinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/black-mesa.svg) | `BlackMesaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blackberry.svg) | `BlackberryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blender.svg) | `BlenderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blinds.svg) | `BlindsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/block-helper.svg) | `BlockHelperIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blogger.svg) | `BloggerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-audio.svg) | `BluetoothAudioIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-connect.svg) | `BluetoothConnectIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth.svg) | `BluetoothIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-off.svg) | `BluetoothOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-settings.svg) | `BluetoothSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-transfer.svg) | `BluetoothTransferIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blur.svg) | `BlurIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blur-linear.svg) | `BlurLinearIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blur-off.svg) | `BlurOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/blur-radial.svg) | `BlurRadialIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bomb.svg) | `BombIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bomb-off.svg) | `BombOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bone.svg) | `BoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book.svg) | `BookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-minus.svg) | `BookMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-multiple.svg) | `BookMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-multiple-variant.svg) | `BookMultipleVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-open.svg) | `BookOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-open-page-variant.svg) | `BookOpenPageVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-open-variant.svg) | `BookOpenVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-plus.svg) | `BookPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-secure.svg) | `BookSecureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-unsecure.svg) | `BookUnsecureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/book-variant.svg) | `BookVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-check.svg) | `BookmarkCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark.svg) | `BookmarkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-music.svg) | `BookmarkMusicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-outline.svg) | `BookmarkOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-plus.svg) | `BookmarkPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-plus-outline.svg) | `BookmarkPlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-remove.svg) | `BookmarkRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/boombox.svg) | `BoomboxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bootstrap.svg) | `BootstrapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-all.svg) | `BorderAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-all-variant.svg) | `BorderAllVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-bottom.svg) | `BorderBottomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-bottom-variant.svg) | `BorderBottomVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-color.svg) | `BorderColorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-horizontal.svg) | `BorderHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-inside.svg) | `BorderInsideIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-left.svg) | `BorderLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-left-variant.svg) | `BorderLeftVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-none.svg) | `BorderNoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-none-variant.svg) | `BorderNoneVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-outside.svg) | `BorderOutsideIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-right.svg) | `BorderRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-right-variant.svg) | `BorderRightVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-style.svg) | `BorderStyleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-top.svg) | `BorderTopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-top-variant.svg) | `BorderTopVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/border-vertical.svg) | `BorderVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bottle-wine.svg) | `BottleWineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bow-tie.svg) | `BowTieIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bowl.svg) | `BowlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bowling.svg) | `BowlingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/box-cutter.svg) | `BoxCutterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/box.svg) | `BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/box-shadow.svg) | `BoxShadowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bridge.svg) | `BridgeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-check.svg) | `BriefcaseCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-download.svg) | `BriefcaseDownloadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase.svg) | `BriefcaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-outline.svg) | `BriefcaseOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-upload.svg) | `BriefcaseUploadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-auto.svg) | `BrightnessAutoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-1.svg) | `Brightness_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-2.svg) | `Brightness_2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-3.svg) | `Brightness_3Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-4.svg) | `Brightness_4Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-5.svg) | `Brightness_5Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-6.svg) | `Brightness_6Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-7.svg) | `Brightness_7Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/broom.svg) | `BroomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/brush.svg) | `BrushIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/buffer.svg) | `BufferIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bug.svg) | `BugIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bulletin-board.svg) | `BulletinBoardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bullhorn.svg) | `BullhornIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bullseye.svg) | `BullseyeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bus-articulated-end.svg) | `BusArticulatedEndIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bus-articulated-front.svg) | `BusArticulatedFrontIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bus-double-decker.svg) | `BusDoubleDeckerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bus.svg) | `BusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bus-school.svg) | `BusSchoolIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/bus-side.svg) | `BusSideIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cached.svg) | `CachedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cake.svg) | `CakeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cake-layered.svg) | `CakeLayeredIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cake-variant.svg) | `CakeVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calculator.svg) | `CalculatorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-blank.svg) | `CalendarBlankIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-check.svg) | `CalendarCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-clock.svg) | `CalendarClockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-edit.svg) | `CalendarEditIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar.svg) | `CalendarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-multiple-check.svg) | `CalendarMultipleCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-multiple.svg) | `CalendarMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-plus.svg) | `CalendarPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-question.svg) | `CalendarQuestionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-range.svg) | `CalendarRangeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-remove.svg) | `CalendarRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-text.svg) | `CalendarTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-today.svg) | `CalendarTodayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/call-made.svg) | `CallMadeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/call-merge.svg) | `CallMergeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/call-missed.svg) | `CallMissedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/call-received.svg) | `CallReceivedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/call-split.svg) | `CallSplitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder-box.svg) | `CamcorderBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder-box-off.svg) | `CamcorderBoxOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder.svg) | `CamcorderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder-off.svg) | `CamcorderOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-burst.svg) | `CameraBurstIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-enhance.svg) | `CameraEnhanceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-front.svg) | `CameraFrontIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-front-variant.svg) | `CameraFrontVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-gopro.svg) | `CameraGoproIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera.svg) | `CameraIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-iris.svg) | `CameraIrisIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-center.svg) | `CameraMeteringCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-matrix.svg) | `CameraMeteringMatrixIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-partial.svg) | `CameraMeteringPartialIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-spot.svg) | `CameraMeteringSpotIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-off.svg) | `CameraOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-party-mode.svg) | `CameraPartyModeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-rear.svg) | `CameraRearIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-rear-variant.svg) | `CameraRearVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-switch.svg) | `CameraSwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/camera-timer.svg) | `CameraTimerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cancel.svg) | `CancelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/candle.svg) | `CandleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/candycane.svg) | `CandycaneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cannabis.svg) | `CannabisIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-battery.svg) | `CarBatteryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-connected.svg) | `CarConnectedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-convertible.svg) | `CarConvertibleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-estate.svg) | `CarEstateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-hatchback.svg) | `CarHatchbackIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car.svg) | `CarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-pickup.svg) | `CarPickupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-side.svg) | `CarSideIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-sports.svg) | `CarSportsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/car-wash.svg) | `CarWashIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/caravan.svg) | `CaravanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cards.svg) | `CardsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cards-outline.svg) | `CardsOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cards-playing-outline.svg) | `CardsPlayingOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cards-variant.svg) | `CardsVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/carrot.svg) | `CarrotIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cart.svg) | `CartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cart-off.svg) | `CartOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cart-outline.svg) | `CartOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cart-plus.svg) | `CartPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/case-sensitive-alt.svg) | `CaseSensitiveAltIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cash.svg) | `CashIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cash-multiple.svg) | `CashMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cash-usd.svg) | `CashUsdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cash-100.svg) | `Cash_100Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cast-connected.svg) | `CastConnectedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cast.svg) | `CastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cast-off.svg) | `CastOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/castle.svg) | `CastleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cat.svg) | `CatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cctv.svg) | `CctvIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ceiling-light.svg) | `CeilingLightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-android.svg) | `CellphoneAndroidIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-basic.svg) | `CellphoneBasicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-dock.svg) | `CellphoneDockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone.svg) | `CellphoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-iphone.svg) | `CellphoneIphoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-link.svg) | `CellphoneLinkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-link-off.svg) | `CellphoneLinkOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-settings.svg) | `CellphoneSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-wireless.svg) | `CellphoneWirelessIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/certificate.svg) | `CertificateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chair-school.svg) | `ChairSchoolIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-arc.svg) | `ChartArcIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-areaspline.svg) | `ChartAreasplineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-bar.svg) | `ChartBarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-bar-stacked.svg) | `ChartBarStackedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-bubble.svg) | `ChartBubbleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-donut.svg) | `ChartDonutIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-donut-variant.svg) | `ChartDonutVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-gantt.svg) | `ChartGanttIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-histogram.svg) | `ChartHistogramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-line.svg) | `ChartLineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-line-stacked.svg) | `ChartLineStackedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-line-variant.svg) | `ChartLineVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-pie.svg) | `ChartPieIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-scatterplot-hexbin.svg) | `ChartScatterplotHexbinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chart-timeline.svg) | `ChartTimelineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/check-all.svg) | `CheckAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/check-circle.svg) | `CheckCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/check-circle-outline.svg) | `CheckCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/check.svg) | `CheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/check-outline.svg) | `CheckOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank-circle.svg) | `CheckboxBlankCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank-circle-outline.svg) | `CheckboxBlankCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank.svg) | `CheckboxBlankIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank-outline.svg) | `CheckboxBlankOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-intermediate.svg) | `CheckboxIntermediateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked-circle.svg) | `CheckboxMarkedCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked-circle-outline.svg) | `CheckboxMarkedCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked.svg) | `CheckboxMarkedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked-outline.svg) | `CheckboxMarkedOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank-circle.svg) | `CheckboxMultipleBlankCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank-circle-outline.svg) | `CheckboxMultipleBlankCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank.svg) | `CheckboxMultipleBlankIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank-outline.svg) | `CheckboxMultipleBlankOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked-circle.svg) | `CheckboxMultipleMarkedCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked-circle-outline.svg) | `CheckboxMultipleMarkedCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked.svg) | `CheckboxMultipleMarkedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked-outline.svg) | `CheckboxMultipleMarkedOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/checkerboard.svg) | `CheckerboardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chemical-weapon.svg) | `ChemicalWeaponIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chess-bishop.svg) | `ChessBishopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chess-king.svg) | `ChessKingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chess-knight.svg) | `ChessKnightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chess-pawn.svg) | `ChessPawnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chess-queen.svg) | `ChessQueenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chess-rook.svg) | `ChessRookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-down.svg) | `ChevronDoubleDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-left.svg) | `ChevronDoubleLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-right.svg) | `ChevronDoubleRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-up.svg) | `ChevronDoubleUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-down.svg) | `ChevronDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-left.svg) | `ChevronLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-right.svg) | `ChevronRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-up.svg) | `ChevronUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chili-hot.svg) | `ChiliHotIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chili-medium.svg) | `ChiliMediumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chili-mild.svg) | `ChiliMildIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/chip.svg) | `ChipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/church.svg) | `ChurchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/circle.svg) | `CircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/circle-outline.svg) | `CircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cisco-webex.svg) | `CiscoWebexIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/city.svg) | `CityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-account.svg) | `ClipboardAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-alert.svg) | `ClipboardAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-arrow-down.svg) | `ClipboardArrowDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-arrow-left.svg) | `ClipboardArrowLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-check.svg) | `ClipboardCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-check-outline.svg) | `ClipboardCheckOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-flow.svg) | `ClipboardFlowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard.svg) | `ClipboardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-outline.svg) | `ClipboardOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-plus.svg) | `ClipboardPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-pulse.svg) | `ClipboardPulseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-pulse-outline.svg) | `ClipboardPulseOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-text.svg) | `ClipboardTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clippy.svg) | `ClippyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock-alert.svg) | `ClockAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock-end.svg) | `ClockEndIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock-fast.svg) | `ClockFastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock.svg) | `ClockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock-in.svg) | `ClockInIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock-out.svg) | `ClockOutIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clock-start.svg) | `ClockStartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-box.svg) | `CloseBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-box-outline.svg) | `CloseBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-circle.svg) | `CloseCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-circle-outline.svg) | `CloseCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close.svg) | `CloseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-network.svg) | `CloseNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-octagon.svg) | `CloseOctagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-octagon-outline.svg) | `CloseOctagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/close-outline.svg) | `CloseOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/closed-caption.svg) | `ClosedCaptionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-braces.svg) | `CloudBracesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-check.svg) | `CloudCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-circle.svg) | `CloudCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-download.svg) | `CloudDownloadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud.svg) | `CloudIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-off-outline.svg) | `CloudOffOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-outline.svg) | `CloudOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-print.svg) | `CloudPrintIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-print-outline.svg) | `CloudPrintOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-sync.svg) | `CloudSyncIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-tags.svg) | `CloudTagsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-upload.svg) | `CloudUploadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/clover.svg) | `CloverIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-array.svg) | `CodeArrayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-braces.svg) | `CodeBracesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-brackets.svg) | `CodeBracketsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-equal.svg) | `CodeEqualIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-greater-than.svg) | `CodeGreaterThanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-greater-than-or-equal.svg) | `CodeGreaterThanOrEqualIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-less-than.svg) | `CodeLessThanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-less-than-or-equal.svg) | `CodeLessThanOrEqualIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-not-equal.svg) | `CodeNotEqualIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-not-equal-variant.svg) | `CodeNotEqualVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-parentheses.svg) | `CodeParenthesesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-string.svg) | `CodeStringIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-tags-check.svg) | `CodeTagsCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/code-tags.svg) | `CodeTagsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/codepen.svg) | `CodepenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/coffee.svg) | `CoffeeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/coffee-outline.svg) | `CoffeeOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/coffee-to-go.svg) | `CoffeeToGoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/coin.svg) | `CoinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/coins.svg) | `CoinsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/collage.svg) | `CollageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/color-helper.svg) | `ColorHelperIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-account.svg) | `CommentAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-account-outline.svg) | `CommentAccountOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-alert.svg) | `CommentAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-alert-outline.svg) | `CommentAlertOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-check.svg) | `CommentCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-check-outline.svg) | `CommentCheckOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment.svg) | `CommentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-multiple.svg) | `CommentMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-multiple-outline.svg) | `CommentMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-outline.svg) | `CommentOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-plus-outline.svg) | `CommentPlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-processing.svg) | `CommentProcessingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-processing-outline.svg) | `CommentProcessingOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-question.svg) | `CommentQuestionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-question-outline.svg) | `CommentQuestionOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-remove.svg) | `CommentRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-remove-outline.svg) | `CommentRemoveOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text.svg) | `CommentTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text-multiple.svg) | `CommentTextMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text-multiple-outline.svg) | `CommentTextMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text-outline.svg) | `CommentTextOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/compare.svg) | `CompareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/compass.svg) | `CompassIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/compass-outline.svg) | `CompassOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/console.svg) | `ConsoleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/console-line.svg) | `ConsoleLineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/console-network.svg) | `ConsoleNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/contact-mail.svg) | `ContactMailIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/contacts.svg) | `ContactsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-copy.svg) | `ContentCopyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-cut.svg) | `ContentCutIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-duplicate.svg) | `ContentDuplicateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-paste.svg) | `ContentPasteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-save-all.svg) | `ContentSaveAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-save.svg) | `ContentSaveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-save-outline.svg) | `ContentSaveOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/content-save-settings.svg) | `ContentSaveSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/contrast-box.svg) | `ContrastBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/contrast-circle.svg) | `ContrastCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/contrast.svg) | `ContrastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cookie.svg) | `CookieIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/copyright.svg) | `CopyrightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/corn.svg) | `CornIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/counter.svg) | `CounterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cow.svg) | `CowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crane.svg) | `CraneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/creation.svg) | `CreationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card.svg) | `CreditCardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-multiple.svg) | `CreditCardMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-off.svg) | `CreditCardOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-plus.svg) | `CreditCardPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-scan.svg) | `CreditCardScanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crop-free.svg) | `CropFreeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crop.svg) | `CropIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crop-landscape.svg) | `CropLandscapeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crop-portrait.svg) | `CropPortraitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crop-rotate.svg) | `CropRotateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crop-square.svg) | `CropSquareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crosshairs-gps.svg) | `CrosshairsGpsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crosshairs.svg) | `CrosshairsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/crown.svg) | `CrownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cube.svg) | `CubeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cube-outline.svg) | `CubeOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cube-send.svg) | `CubeSendIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cube-unfolded.svg) | `CubeUnfoldedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cup.svg) | `CupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cup-off.svg) | `CupOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cup-water.svg) | `CupWaterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/curling.svg) | `CurlingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-bdt.svg) | `CurrencyBdtIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-btc.svg) | `CurrencyBtcIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-chf.svg) | `CurrencyChfIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-cny.svg) | `CurrencyCnyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-eth.svg) | `CurrencyEthIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-eur.svg) | `CurrencyEurIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-gbp.svg) | `CurrencyGbpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-inr.svg) | `CurrencyInrIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-jpy.svg) | `CurrencyJpyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-krw.svg) | `CurrencyKrwIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-kzt.svg) | `CurrencyKztIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-ngn.svg) | `CurrencyNgnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-rub.svg) | `CurrencyRubIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-sign.svg) | `CurrencySignIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-try.svg) | `CurrencyTryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-twd.svg) | `CurrencyTwdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-usd.svg) | `CurrencyUsdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/currency-usd-off.svg) | `CurrencyUsdOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-default.svg) | `CursorDefaultIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-default-outline.svg) | `CursorDefaultOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-move.svg) | `CursorMoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-pointer.svg) | `CursorPointerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-text.svg) | `CursorTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/database.svg) | `DatabaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/database-minus.svg) | `DatabaseMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/database-plus.svg) | `DatabasePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/database-search.svg) | `DatabaseSearchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/debug-step-into.svg) | `DebugStepIntoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/debug-step-out.svg) | `DebugStepOutIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/debug-step-over.svg) | `DebugStepOverIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/decagram.svg) | `DecagramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/decagram-outline.svg) | `DecagramOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/decimal-decrease.svg) | `DecimalDecreaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/decimal-increase.svg) | `DecimalIncreaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete-circle.svg) | `DeleteCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete-empty.svg) | `DeleteEmptyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete-forever.svg) | `DeleteForeverIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete.svg) | `DeleteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete-restore.svg) | `DeleteRestoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete-sweep.svg) | `DeleteSweepIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delete-variant.svg) | `DeleteVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/delta.svg) | `DeltaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/deskphone.svg) | `DeskphoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/desktop-classic.svg) | `DesktopClassicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/desktop-mac.svg) | `DesktopMacIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/desktop-tower.svg) | `DesktopTowerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/details.svg) | `DetailsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/developer-board.svg) | `DeveloperBoardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/deviantart.svg) | `DeviantartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dialpad.svg) | `DialpadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/diamond.svg) | `DiamondIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d10.svg) | `DiceD10Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d12.svg) | `DiceD12Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d20.svg) | `DiceD20Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d4.svg) | `DiceD4Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d6.svg) | `DiceD6Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d8.svg) | `DiceD8Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-multiple.svg) | `DiceMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-1.svg) | `Dice_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-2.svg) | `Dice_2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-3.svg) | `Dice_3Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-4.svg) | `Dice_4Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-5.svg) | `Dice_5Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dice-6.svg) | `Dice_6Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dictionary.svg) | `DictionaryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dip-switch.svg) | `DipSwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/directions-fork.svg) | `DirectionsForkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/directions.svg) | `DirectionsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/discord.svg) | `DiscordIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/disk-alert.svg) | `DiskAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/disk.svg) | `DiskIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/disqus.svg) | `DisqusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/disqus-outline.svg) | `DisqusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/division-box.svg) | `DivisionBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/division.svg) | `DivisionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dna.svg) | `DnaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dns.svg) | `DnsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/do-not-disturb.svg) | `DoNotDisturbIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/do-not-disturb-off.svg) | `DoNotDisturbOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/docker.svg) | `DockerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dolby.svg) | `DolbyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/domain.svg) | `DomainIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/donkey.svg) | `DonkeyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/door-closed.svg) | `DoorClosedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/door.svg) | `DoorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/door-open.svg) | `DoorOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/doorbell-video.svg) | `DoorbellVideoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dots-horizontal-circle.svg) | `DotsHorizontalCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dots-horizontal.svg) | `DotsHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dots-vertical-circle.svg) | `DotsVerticalCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dots-vertical.svg) | `DotsVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/douban.svg) | `DoubanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/download.svg) | `DownloadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/download-network.svg) | `DownloadNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drag-horizontal.svg) | `DragHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drag.svg) | `DragIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drag-vertical.svg) | `DragVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drawing-box.svg) | `DrawingBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drawing.svg) | `DrawingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dribbble-box.svg) | `DribbbleBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dribbble.svg) | `DribbbleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drone.svg) | `DroneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dropbox.svg) | `DropboxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/drupal.svg) | `DrupalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/duck.svg) | `DuckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/dumbbell.svg) | `DumbbellIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ear-hearing.svg) | `EarHearingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/earth-box.svg) | `EarthBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/earth-box-off.svg) | `EarthBoxOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/earth.svg) | `EarthIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/earth-off.svg) | `EarthOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/edge.svg) | `EdgeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eject.svg) | `EjectIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/elephant.svg) | `ElephantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/elevation-decline.svg) | `ElevationDeclineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/elevation-rise.svg) | `ElevationRiseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/elevator.svg) | `ElevatorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email-alert.svg) | `EmailAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email.svg) | `EmailIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email-open.svg) | `EmailOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email-open-outline.svg) | `EmailOpenOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email-outline.svg) | `EmailOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email-secure.svg) | `EmailSecureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/email-variant.svg) | `EmailVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emby.svg) | `EmbyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-cool.svg) | `EmoticonCoolIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-dead.svg) | `EmoticonDeadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-devil.svg) | `EmoticonDevilIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-excited.svg) | `EmoticonExcitedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-happy.svg) | `EmoticonHappyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon.svg) | `EmoticonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-neutral.svg) | `EmoticonNeutralIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-poop.svg) | `EmoticonPoopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-sad.svg) | `EmoticonSadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-tongue.svg) | `EmoticonTongueIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/engine.svg) | `EngineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/engine-outline.svg) | `EngineOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/equal-box.svg) | `EqualBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/equal.svg) | `EqualIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eraser.svg) | `EraserIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eraser-variant.svg) | `EraserVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/escalator.svg) | `EscalatorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ethereum.svg) | `EthereumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ethernet-cable.svg) | `EthernetCableIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ethernet-cable-off.svg) | `EthernetCableOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ethernet.svg) | `EthernetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/etsy.svg) | `EtsyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ev-station.svg) | `EvStationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eventbrite.svg) | `EventbriteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/evernote.svg) | `EvernoteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/exclamation.svg) | `ExclamationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/exit-to-app.svg) | `ExitToAppIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/export.svg) | `ExportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye.svg) | `EyeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-off.svg) | `EyeOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-off-outline.svg) | `EyeOffOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-outline.svg) | `EyeOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-plus.svg) | `EyePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-plus-outline.svg) | `EyePlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-settings.svg) | `EyeSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eye-settings-outline.svg) | `EyeSettingsOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eyedropper.svg) | `EyedropperIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/eyedropper-variant.svg) | `EyedropperVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/face.svg) | `FaceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/face-profile.svg) | `FaceProfileIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/facebook-box.svg) | `FacebookBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/facebook.svg) | `FacebookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/facebook-messenger.svg) | `FacebookMessengerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/factory.svg) | `FactoryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fan.svg) | `FanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fan-off.svg) | `FanOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fast-forward.svg) | `FastForwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fast-forward-outline.svg) | `FastForwardOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fax.svg) | `FaxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/feather.svg) | `FeatherIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ferry.svg) | `FerryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-account.svg) | `FileAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-chart.svg) | `FileChartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-check.svg) | `FileCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-cloud.svg) | `FileCloudIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-compare.svg) | `FileCompareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-delimited.svg) | `FileDelimitedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-document-box.svg) | `FileDocumentBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-document.svg) | `FileDocumentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-excel-box.svg) | `FileExcelBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-excel.svg) | `FileExcelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-export.svg) | `FileExportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-find.svg) | `FileFindIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-hidden.svg) | `FileHiddenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file.svg) | `FileIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-image.svg) | `FileImageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-import.svg) | `FileImportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-lock.svg) | `FileLockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-multiple.svg) | `FileMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-music.svg) | `FileMusicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-outline.svg) | `FileOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-pdf-box.svg) | `FilePdfBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-pdf.svg) | `FilePdfIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-percent.svg) | `FilePercentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-plus.svg) | `FilePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-powerpoint-box.svg) | `FilePowerpointBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-powerpoint.svg) | `FilePowerpointIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-presentation-box.svg) | `FilePresentationBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-question.svg) | `FileQuestionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-restore.svg) | `FileRestoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-send.svg) | `FileSendIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-tree.svg) | `FileTreeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-video.svg) | `FileVideoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-word-box.svg) | `FileWordBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-word.svg) | `FileWordIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/file-xml.svg) | `FileXmlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/film.svg) | `FilmIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filmstrip.svg) | `FilmstripIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filmstrip-off.svg) | `FilmstripOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filter.svg) | `FilterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filter-outline.svg) | `FilterOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filter-remove.svg) | `FilterRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filter-remove-outline.svg) | `FilterRemoveOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/filter-variant.svg) | `FilterVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/finance.svg) | `FinanceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/find-replace.svg) | `FindReplaceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fingerprint.svg) | `FingerprintIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fire.svg) | `FireIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fire-truck.svg) | `FireTruckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/firefox.svg) | `FirefoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fish.svg) | `FishIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flag-checkered.svg) | `FlagCheckeredIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flag.svg) | `FlagIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flag-outline.svg) | `FlagOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flag-triangle.svg) | `FlagTriangleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flag-variant.svg) | `FlagVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flag-variant-outline.svg) | `FlagVariantOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flash-auto.svg) | `FlashAutoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flash-circle.svg) | `FlashCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flash.svg) | `FlashIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flash-off.svg) | `FlashOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flash-outline.svg) | `FlashOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flash-red-eye.svg) | `FlashRedEyeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flashlight.svg) | `FlashlightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flashlight-off.svg) | `FlashlightOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flask-empty.svg) | `FlaskEmptyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flask-empty-outline.svg) | `FlaskEmptyOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flask.svg) | `FlaskIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flask-outline.svg) | `FlaskOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flattr.svg) | `FlattrIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flip-to-back.svg) | `FlipToBackIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flip-to-front.svg) | `FlipToFrontIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/floor-plan.svg) | `FloorPlanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/floppy.svg) | `FloppyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/flower.svg) | `FlowerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-account.svg) | `FolderAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-download.svg) | `FolderDownloadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-google-drive.svg) | `FolderGoogleDriveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder.svg) | `FolderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-image.svg) | `FolderImageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-key.svg) | `FolderKeyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-key-network.svg) | `FolderKeyNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-lock.svg) | `FolderLockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-lock-open.svg) | `FolderLockOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-move.svg) | `FolderMoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-multiple.svg) | `FolderMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-multiple-image.svg) | `FolderMultipleImageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-multiple-outline.svg) | `FolderMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-network.svg) | `FolderNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-open.svg) | `FolderOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-outline.svg) | `FolderOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-plus.svg) | `FolderPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-remove.svg) | `FolderRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-star.svg) | `FolderStarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/folder-upload.svg) | `FolderUploadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/font-awesome.svg) | `FontAwesomeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/food-apple.svg) | `FoodAppleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/food-croissant.svg) | `FoodCroissantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/food-fork-drink.svg) | `FoodForkDrinkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/food.svg) | `FoodIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/food-off.svg) | `FoodOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/food-variant.svg) | `FoodVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/football-australian.svg) | `FootballAustralianIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/football-helmet.svg) | `FootballHelmetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/football.svg) | `FootballIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/forklift.svg) | `ForkliftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-bottom.svg) | `FormatAlignBottomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-center.svg) | `FormatAlignCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-justify.svg) | `FormatAlignJustifyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-left.svg) | `FormatAlignLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-middle.svg) | `FormatAlignMiddleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-right.svg) | `FormatAlignRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-top.svg) | `FormatAlignTopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-annotation-plus.svg) | `FormatAnnotationPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-bold.svg) | `FormatBoldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-clear.svg) | `FormatClearIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-color-fill.svg) | `FormatColorFillIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-color-text.svg) | `FormatColorTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-center.svg) | `FormatFloatCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-left.svg) | `FormatFloatLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-none.svg) | `FormatFloatNoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-right.svg) | `FormatFloatRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-font.svg) | `FormatFontIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-decrease.svg) | `FormatHeaderDecreaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-equal.svg) | `FormatHeaderEqualIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-increase.svg) | `FormatHeaderIncreaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-pound.svg) | `FormatHeaderPoundIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-1.svg) | `FormatHeader_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-2.svg) | `FormatHeader_2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-3.svg) | `FormatHeader_3Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-4.svg) | `FormatHeader_4Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-5.svg) | `FormatHeader_5Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-6.svg) | `FormatHeader_6Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-horizontal-align-center.svg) | `FormatHorizontalAlignCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-horizontal-align-left.svg) | `FormatHorizontalAlignLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-horizontal-align-right.svg) | `FormatHorizontalAlignRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-indent-decrease.svg) | `FormatIndentDecreaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-indent-increase.svg) | `FormatIndentIncreaseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-italic.svg) | `FormatItalicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-line-spacing.svg) | `FormatLineSpacingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-line-style.svg) | `FormatLineStyleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-line-weight.svg) | `FormatLineWeightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-bulleted.svg) | `FormatListBulletedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-bulleted-type.svg) | `FormatListBulletedTypeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-checks.svg) | `FormatListChecksIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-numbers.svg) | `FormatListNumbersIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-page-break.svg) | `FormatPageBreakIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-paint.svg) | `FormatPaintIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-paragraph.svg) | `FormatParagraphIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-pilcrow.svg) | `FormatPilcrowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-quote-close.svg) | `FormatQuoteCloseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-quote-open.svg) | `FormatQuoteOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-rotate-90.svg) | `FormatRotate_90Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-section.svg) | `FormatSectionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-size.svg) | `FormatSizeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-strikethrough.svg) | `FormatStrikethroughIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-strikethrough-variant.svg) | `FormatStrikethroughVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-subscript.svg) | `FormatSubscriptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-superscript.svg) | `FormatSuperscriptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-text.svg) | `FormatTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-textdirection-l-to-r.svg) | `FormatTextdirectionLToRIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-textdirection-r-to-l.svg) | `FormatTextdirectionRToLIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-title.svg) | `FormatTitleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-underline.svg) | `FormatUnderlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-vertical-align-bottom.svg) | `FormatVerticalAlignBottomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-vertical-align-center.svg) | `FormatVerticalAlignCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-vertical-align-top.svg) | `FormatVerticalAlignTopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-inline.svg) | `FormatWrapInlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-square.svg) | `FormatWrapSquareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-tight.svg) | `FormatWrapTightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-top-bottom.svg) | `FormatWrapTopBottomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/forum.svg) | `ForumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/forum-outline.svg) | `ForumOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/forward.svg) | `ForwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/foursquare.svg) | `FoursquareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fridge-filled-bottom.svg) | `FridgeFilledBottomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fridge-filled.svg) | `FridgeFilledIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fridge-filled-top.svg) | `FridgeFilledTopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fridge.svg) | `FridgeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fuel.svg) | `FuelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fullscreen-exit.svg) | `FullscreenExitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/fullscreen.svg) | `FullscreenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/function.svg) | `FunctionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/function-variant.svg) | `FunctionVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gamepad.svg) | `GamepadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gamepad-variant.svg) | `GamepadVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/garage-alert.svg) | `GarageAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/garage.svg) | `GarageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/garage-open.svg) | `GarageOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gas-cylinder.svg) | `GasCylinderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gas-station.svg) | `GasStationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gate.svg) | `GateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gauge-empty.svg) | `GaugeEmptyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gauge-full.svg) | `GaugeFullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gauge.svg) | `GaugeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gauge-low.svg) | `GaugeLowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gavel.svg) | `GavelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gender-female.svg) | `GenderFemaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gender-male-female.svg) | `GenderMaleFemaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gender-male.svg) | `GenderMaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gender-transgender.svg) | `GenderTransgenderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-double-tap.svg) | `GestureDoubleTapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture.svg) | `GestureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-down.svg) | `GestureSwipeDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-left.svg) | `GestureSwipeLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-right.svg) | `GestureSwipeRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-up.svg) | `GestureSwipeUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-tap.svg) | `GestureTapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-two-double-tap.svg) | `GestureTwoDoubleTapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-two-tap.svg) | `GestureTwoTapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ghost.svg) | `GhostIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gift.svg) | `GiftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/git.svg) | `GitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/github-box.svg) | `GithubBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/github-circle.svg) | `GithubCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/github-face.svg) | `GithubFaceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glass-cocktail.svg) | `GlassCocktailIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glass-flute.svg) | `GlassFluteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glass-mug.svg) | `GlassMugIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glass-stange.svg) | `GlassStangeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glass-tulip.svg) | `GlassTulipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glass-wine.svg) | `GlassWineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glassdoor.svg) | `GlassdoorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/glasses.svg) | `GlassesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gmail.svg) | `GmailIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gnome.svg) | `GnomeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/golf.svg) | `GolfIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gondola.svg) | `GondolaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-analytics.svg) | `GoogleAnalyticsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-assistant.svg) | `GoogleAssistantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-cardboard.svg) | `GoogleCardboardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-chrome.svg) | `GoogleChromeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles-communities.svg) | `GoogleCirclesCommunitiesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles-extended.svg) | `GoogleCirclesExtendedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles-group.svg) | `GoogleCirclesGroupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles.svg) | `GoogleCirclesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-controller.svg) | `GoogleControllerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-controller-off.svg) | `GoogleControllerOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-drive.svg) | `GoogleDriveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-earth.svg) | `GoogleEarthIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-glass.svg) | `GoogleGlassIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-home.svg) | `GoogleHomeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google.svg) | `GoogleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-keep.svg) | `GoogleKeepIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-maps.svg) | `GoogleMapsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-nearby.svg) | `GoogleNearbyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-pages.svg) | `GooglePagesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-photos.svg) | `GooglePhotosIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-physical-web.svg) | `GooglePhysicalWebIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-play.svg) | `GooglePlayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-plus-box.svg) | `GooglePlusBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-plus.svg) | `GooglePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-translate.svg) | `GoogleTranslateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/google-wallet.svg) | `GoogleWalletIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gpu.svg) | `GpuIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/gradient.svg) | `GradientIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/graphql.svg) | `GraphqlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/grease-pencil.svg) | `GreasePencilIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/grid.svg) | `GridIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/grid-large.svg) | `GridLargeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/grid-off.svg) | `GridOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/group.svg) | `GroupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-acoustic.svg) | `GuitarAcousticIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-electric.svg) | `GuitarElectricIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-pick.svg) | `GuitarPickIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-pick-outline.svg) | `GuitarPickOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/guy-fawkes-mask.svg) | `GuyFawkesMaskIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hackernews.svg) | `HackernewsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hamburger.svg) | `HamburgerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hand-pointing-right.svg) | `HandPointingRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hanger.svg) | `HangerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hangouts.svg) | `HangoutsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/harddisk.svg) | `HarddiskIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headphones-box.svg) | `HeadphonesBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headphones.svg) | `HeadphonesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headphones-off.svg) | `HeadphonesOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headphones-settings.svg) | `HeadphonesSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headset-dock.svg) | `HeadsetDockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headset.svg) | `HeadsetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/headset-off.svg) | `HeadsetOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-box.svg) | `HeartBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-box-outline.svg) | `HeartBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-broken.svg) | `HeartBrokenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-half-full.svg) | `HeartHalfFullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-half.svg) | `HeartHalfIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-half-outline.svg) | `HeartHalfOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart.svg) | `HeartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-off.svg) | `HeartOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-outline.svg) | `HeartOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/heart-pulse.svg) | `HeartPulseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/help-box.svg) | `HelpBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/help-circle.svg) | `HelpCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/help-circle-outline.svg) | `HelpCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/help.svg) | `HelpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/help-network.svg) | `HelpNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hexagon.svg) | `HexagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hexagon-multiple.svg) | `HexagonMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hexagon-outline.svg) | `HexagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/high-definition-box.svg) | `HighDefinitionBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/high-definition.svg) | `HighDefinitionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/highway.svg) | `HighwayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/history.svg) | `HistoryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hockey-puck.svg) | `HockeyPuckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hockey-sticks.svg) | `HockeySticksIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hololens.svg) | `HololensIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-account.svg) | `HomeAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-alert.svg) | `HomeAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-assistant.svg) | `HomeAssistantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-automation.svg) | `HomeAutomationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-circle.svg) | `HomeCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-currency-usd.svg) | `HomeCurrencyUsdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-heart.svg) | `HomeHeartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home.svg) | `HomeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-map-marker.svg) | `HomeMapMarkerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-modern.svg) | `HomeModernIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-outline.svg) | `HomeOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/home-variant.svg) | `HomeVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hook.svg) | `HookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hook-off.svg) | `HookOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hops.svg) | `HopsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hospital-building.svg) | `HospitalBuildingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hospital.svg) | `HospitalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hospital-marker.svg) | `HospitalMarkerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hot-tub.svg) | `HotTubIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hotel.svg) | `HotelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/houzz-box.svg) | `HouzzBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/houzz.svg) | `HouzzIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/hulu.svg) | `HuluIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-child.svg) | `HumanChildIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-female.svg) | `HumanFemaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-greeting.svg) | `HumanGreetingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-handsdown.svg) | `HumanHandsdownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-handsup.svg) | `HumanHandsupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human.svg) | `HumanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-male-female.svg) | `HumanMaleFemaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-male.svg) | `HumanMaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/human-pregnant.svg) | `HumanPregnantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/humble-bundle.svg) | `HumbleBundleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ice-cream.svg) | `IceCreamIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-album.svg) | `ImageAlbumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-area-close.svg) | `ImageAreaCloseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-area.svg) | `ImageAreaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-broken.svg) | `ImageBrokenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-broken-variant.svg) | `ImageBrokenVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-black-white.svg) | `ImageFilterBlackWhiteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-center-focus.svg) | `ImageFilterCenterFocusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-center-focus-weak.svg) | `ImageFilterCenterFocusWeakIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-drama.svg) | `ImageFilterDramaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-frames.svg) | `ImageFilterFramesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-hdr.svg) | `ImageFilterHdrIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter.svg) | `ImageFilterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-none.svg) | `ImageFilterNoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-tilt-shift.svg) | `ImageFilterTiltShiftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-vintage.svg) | `ImageFilterVintageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image.svg) | `ImageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-multiple.svg) | `ImageMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-off.svg) | `ImageOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/image-plus.svg) | `ImagePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/import.svg) | `ImportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/inbox-arrow-down.svg) | `InboxArrowDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/inbox-arrow-up.svg) | `InboxArrowUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/inbox.svg) | `InboxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/inbox-multiple.svg) | `InboxMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/incognito.svg) | `IncognitoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/infinity.svg) | `InfinityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/information.svg) | `InformationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/information-outline.svg) | `InformationOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/information-variant.svg) | `InformationVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/instagram.svg) | `InstagramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/instapaper.svg) | `InstapaperIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/internet-explorer.svg) | `InternetExplorerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/invert-colors.svg) | `InvertColorsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/itunes.svg) | `ItunesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/jeepney.svg) | `JeepneyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/jira.svg) | `JiraIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/jquery.svg) | `JqueryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/jsfiddle.svg) | `JsfiddleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/json.svg) | `JsonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/karate.svg) | `KarateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keg.svg) | `KegIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/kettle.svg) | `KettleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/key-change.svg) | `KeyChangeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/key.svg) | `KeyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/key-minus.svg) | `KeyMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/key-plus.svg) | `KeyPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/key-remove.svg) | `KeyRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/key-variant.svg) | `KeyVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-backspace.svg) | `KeyboardBackspaceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-caps.svg) | `KeyboardCapsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-close.svg) | `KeyboardCloseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard.svg) | `KeyboardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-off.svg) | `KeyboardOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-return.svg) | `KeyboardReturnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-tab.svg) | `KeyboardTabIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-variant.svg) | `KeyboardVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/kickstarter.svg) | `KickstarterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/kodi.svg) | `KodiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/label.svg) | `LabelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/label-outline.svg) | `LabelOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ladybug.svg) | `LadybugIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lambda.svg) | `LambdaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lamp.svg) | `LampIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lan-connect.svg) | `LanConnectIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lan-disconnect.svg) | `LanDisconnectIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lan.svg) | `LanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lan-pending.svg) | `LanPendingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-c.svg) | `LanguageCIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-cpp.svg) | `LanguageCppIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-csharp.svg) | `LanguageCsharpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-css3.svg) | `LanguageCss3Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-go.svg) | `LanguageGoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-html5.svg) | `LanguageHtml5Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-javascript.svg) | `LanguageJavascriptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-lua.svg) | `LanguageLuaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-php.svg) | `LanguagePhpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-python.svg) | `LanguagePythonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-python-text.svg) | `LanguagePythonTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-r.svg) | `LanguageRIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-swift.svg) | `LanguageSwiftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/language-typescript.svg) | `LanguageTypescriptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-chromebook.svg) | `LaptopChromebookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/laptop.svg) | `LaptopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-mac.svg) | `LaptopMacIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-off.svg) | `LaptopOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-windows.svg) | `LaptopWindowsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lastfm.svg) | `LastfmIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lastpass.svg) | `LastpassIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/launch.svg) | `LaunchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lava-lamp.svg) | `LavaLampIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/layers.svg) | `LayersIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/layers-off.svg) | `LayersOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lead-pencil.svg) | `LeadPencilIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/leaf.svg) | `LeafIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-off.svg) | `LedOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-on.svg) | `LedOnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-outline.svg) | `LedOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-strip.svg) | `LedStripIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-variant-off.svg) | `LedVariantOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-variant-on.svg) | `LedVariantOnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/led-variant-outline.svg) | `LedVariantOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/library-books.svg) | `LibraryBooksIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/library.svg) | `LibraryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/library-music.svg) | `LibraryMusicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/library-plus.svg) | `LibraryPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lifebuoy.svg) | `LifebuoyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb.svg) | `LightbulbIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb-on.svg) | `LightbulbOnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb-on-outline.svg) | `LightbulbOnOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb-outline.svg) | `LightbulbOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/link.svg) | `LinkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/link-off.svg) | `LinkOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/link-variant.svg) | `LinkVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/link-variant-off.svg) | `LinkVariantOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/linkedin-box.svg) | `LinkedinBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/linkedin.svg) | `LinkedinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/linux.svg) | `LinuxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/loading.svg) | `LoadingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock.svg) | `LockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-open.svg) | `LockOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-open-outline.svg) | `LockOpenOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-outline.svg) | `LockOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-pattern.svg) | `LockPatternIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-plus.svg) | `LockPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-reset.svg) | `LockResetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lock-smart.svg) | `LockSmartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/locker.svg) | `LockerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/locker-multiple.svg) | `LockerMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/login.svg) | `LoginIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/login-variant.svg) | `LoginVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/logout.svg) | `LogoutIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/logout-variant.svg) | `LogoutVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/looks.svg) | `LooksIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/loop.svg) | `LoopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/loupe.svg) | `LoupeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/lumx.svg) | `LumxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnet.svg) | `MagnetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnet-on.svg) | `MagnetOnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnify.svg) | `MagnifyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-minus.svg) | `MagnifyMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-minus-outline.svg) | `MagnifyMinusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-plus.svg) | `MagnifyPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-plus-outline.svg) | `MagnifyPlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mail-ru.svg) | `MailRuIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mailbox.svg) | `MailboxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map.svg) | `MapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-circle.svg) | `MapMarkerCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker.svg) | `MapMarkerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-minus.svg) | `MapMarkerMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-multiple.svg) | `MapMarkerMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-off.svg) | `MapMarkerOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-outline.svg) | `MapMarkerOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-plus.svg) | `MapMarkerPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-radius.svg) | `MapMarkerRadiusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/margin.svg) | `MarginIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/markdown.svg) | `MarkdownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/marker-check.svg) | `MarkerCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/marker.svg) | `MarkerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/material-ui.svg) | `MaterialUiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/math-compass.svg) | `MathCompassIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/matrix.svg) | `MatrixIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/maxcdn.svg) | `MaxcdnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/medical-bag.svg) | `MedicalBagIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/medium.svg) | `MediumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/memory.svg) | `MemoryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu-down.svg) | `MenuDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu-down-outline.svg) | `MenuDownOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu.svg) | `MenuIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu-left.svg) | `MenuLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu-right.svg) | `MenuRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu-up.svg) | `MenuUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/menu-up-outline.svg) | `MenuUpOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-alert.svg) | `MessageAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-bulleted.svg) | `MessageBulletedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-bulleted-off.svg) | `MessageBulletedOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-draw.svg) | `MessageDrawIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message.svg) | `MessageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-image.svg) | `MessageImageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-outline.svg) | `MessageOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-plus.svg) | `MessagePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-processing.svg) | `MessageProcessingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-reply.svg) | `MessageReplyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-reply-text.svg) | `MessageReplyTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-settings.svg) | `MessageSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-settings-variant.svg) | `MessageSettingsVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-text.svg) | `MessageTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-text-outline.svg) | `MessageTextOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/message-video.svg) | `MessageVideoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/meteor.svg) | `MeteorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/metronome.svg) | `MetronomeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/metronome-tick.svg) | `MetronomeTickIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/micro-sd.svg) | `MicroSdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone.svg) | `MicrophoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-minus.svg) | `MicrophoneMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-off.svg) | `MicrophoneOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-outline.svg) | `MicrophoneOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-plus.svg) | `MicrophonePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-settings.svg) | `MicrophoneSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-variant.svg) | `MicrophoneVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-variant-off.svg) | `MicrophoneVariantOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microscope.svg) | `MicroscopeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/microsoft.svg) | `MicrosoftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minecraft.svg) | `MinecraftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minus-box.svg) | `MinusBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minus-box-outline.svg) | `MinusBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minus-circle.svg) | `MinusCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minus-circle-outline.svg) | `MinusCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minus.svg) | `MinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/minus-network.svg) | `MinusNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mixcloud.svg) | `MixcloudIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mixed-reality.svg) | `MixedRealityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mixer.svg) | `MixerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/monitor.svg) | `MonitorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/monitor-multiple.svg) | `MonitorMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/more.svg) | `MoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/motorbike.svg) | `MotorbikeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mouse.svg) | `MouseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mouse-off.svg) | `MouseOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mouse-variant.svg) | `MouseVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mouse-variant-off.svg) | `MouseVariantOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/move-resize.svg) | `MoveResizeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/move-resize-variant.svg) | `MoveResizeVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/movie.svg) | `MovieIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/movie-roll.svg) | `MovieRollIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/multiplication-box.svg) | `MultiplicationBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/multiplication.svg) | `MultiplicationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mushroom.svg) | `MushroomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/mushroom-outline.svg) | `MushroomOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-box.svg) | `MusicBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-box-outline.svg) | `MusicBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-circle.svg) | `MusicCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music.svg) | `MusicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-bluetooth.svg) | `MusicNoteBluetoothIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-bluetooth-off.svg) | `MusicNoteBluetoothOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-eighth.svg) | `MusicNoteEighthIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-half.svg) | `MusicNoteHalfIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note.svg) | `MusicNoteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-off.svg) | `MusicNoteOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-quarter.svg) | `MusicNoteQuarterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-sixteenth.svg) | `MusicNoteSixteenthIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-whole.svg) | `MusicNoteWholeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/music-off.svg) | `MusicOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nativescript.svg) | `NativescriptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nature.svg) | `NatureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nature-people.svg) | `NaturePeopleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/navigation.svg) | `NavigationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/near-me.svg) | `NearMeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/needle.svg) | `NeedleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nest-protect.svg) | `NestProtectIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nest-thermostat.svg) | `NestThermostatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/netflix.svg) | `NetflixIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/network.svg) | `NetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/new-box.svg) | `NewBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/newspaper.svg) | `NewspaperIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nfc.svg) | `NfcIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nfc-tap.svg) | `NfcTapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nfc-variant.svg) | `NfcVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ninja.svg) | `NinjaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nintendo-switch.svg) | `NintendoSwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nodejs.svg) | `NodejsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note.svg) | `NoteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note-multiple.svg) | `NoteMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note-multiple-outline.svg) | `NoteMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note-outline.svg) | `NoteOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note-plus.svg) | `NotePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note-plus-outline.svg) | `NotePlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/note-text.svg) | `NoteTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/notebook.svg) | `NotebookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/notification-clear-all.svg) | `NotificationClearAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/npm.svg) | `NpmIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nuke.svg) | `NukeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/null.svg) | `NullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric.svg) | `NumericIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-0-box.svg) | `Numeric_0BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-0-box-multiple-outline.svg) | `Numeric_0BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-0-box-outline.svg) | `Numeric_0BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-1-box.svg) | `Numeric_1BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-1-box-multiple-outline.svg) | `Numeric_1BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-1-box-outline.svg) | `Numeric_1BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-2-box.svg) | `Numeric_2BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-2-box-multiple-outline.svg) | `Numeric_2BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-2-box-outline.svg) | `Numeric_2BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-3-box.svg) | `Numeric_3BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-3-box-multiple-outline.svg) | `Numeric_3BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-3-box-outline.svg) | `Numeric_3BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-4-box.svg) | `Numeric_4BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-4-box-multiple-outline.svg) | `Numeric_4BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-4-box-outline.svg) | `Numeric_4BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-5-box.svg) | `Numeric_5BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-5-box-multiple-outline.svg) | `Numeric_5BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-5-box-outline.svg) | `Numeric_5BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-6-box.svg) | `Numeric_6BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-6-box-multiple-outline.svg) | `Numeric_6BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-6-box-outline.svg) | `Numeric_6BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-7-box.svg) | `Numeric_7BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-7-box-multiple-outline.svg) | `Numeric_7BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-7-box-outline.svg) | `Numeric_7BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-8-box.svg) | `Numeric_8BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-8-box-multiple-outline.svg) | `Numeric_8BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-8-box-outline.svg) | `Numeric_8BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-box.svg) | `Numeric_9BoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-box-multiple-outline.svg) | `Numeric_9BoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-box-outline.svg) | `Numeric_9BoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-plus-box.svg) | `Numeric_9PlusBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-plus-box-multiple-outline.svg) | `Numeric_9PlusBoxMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-plus-box-outline.svg) | `Numeric_9PlusBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nut.svg) | `NutIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/nutrition.svg) | `NutritionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/oar.svg) | `OarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/octagon.svg) | `OctagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/octagon-outline.svg) | `OctagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/octagram.svg) | `OctagramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/octagram-outline.svg) | `OctagramOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/odnoklassniki.svg) | `OdnoklassnikiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/office.svg) | `OfficeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/oil.svg) | `OilIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/oil-temperature.svg) | `OilTemperatureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/omega.svg) | `OmegaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/onedrive.svg) | `OnedriveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/onenote.svg) | `OnenoteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/onepassword.svg) | `OnepasswordIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/opacity.svg) | `OpacityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/open-in-app.svg) | `OpenInAppIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/open-in-new.svg) | `OpenInNewIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/openid.svg) | `OpenidIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/opera.svg) | `OperaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/orbit.svg) | `OrbitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ornament.svg) | `OrnamentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ornament-variant.svg) | `OrnamentVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/owl.svg) | `OwlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/package-down.svg) | `PackageDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/package.svg) | `PackageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/package-up.svg) | `PackageUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/package-variant-closed.svg) | `PackageVariantClosedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/package-variant.svg) | `PackageVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-first.svg) | `PageFirstIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-last.svg) | `PageLastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-body.svg) | `PageLayoutBodyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-footer.svg) | `PageLayoutFooterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-header.svg) | `PageLayoutHeaderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-sidebar-left.svg) | `PageLayoutSidebarLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-sidebar-right.svg) | `PageLayoutSidebarRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/palette-advanced.svg) | `PaletteAdvancedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/palette.svg) | `PaletteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/palette-swatch.svg) | `PaletteSwatchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/panda.svg) | `PandaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pandora.svg) | `PandoraIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-fisheye.svg) | `PanoramaFisheyeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-horizontal.svg) | `PanoramaHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/panorama.svg) | `PanoramaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-vertical.svg) | `PanoramaVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-wide-angle.svg) | `PanoramaWideAngleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/paper-cut-vertical.svg) | `PaperCutVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/paperclip.svg) | `PaperclipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/parking.svg) | `ParkingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/passport.svg) | `PassportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/patreon.svg) | `PatreonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pause-circle.svg) | `PauseCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pause-circle-outline.svg) | `PauseCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pause.svg) | `PauseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pause-octagon.svg) | `PauseOctagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pause-octagon-outline.svg) | `PauseOctagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/paw.svg) | `PawIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/paw-off.svg) | `PawOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/paypal.svg) | `PaypalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/peace.svg) | `PeaceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pen.svg) | `PenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-box.svg) | `PencilBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-box-outline.svg) | `PencilBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-circle.svg) | `PencilCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-circle-outline.svg) | `PencilCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil.svg) | `PencilIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-lock.svg) | `PencilLockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-off.svg) | `PencilOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pentagon.svg) | `PentagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pentagon-outline.svg) | `PentagonOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/percent.svg) | `PercentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/periodic-table-co2.svg) | `PeriodicTableCo2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/periodic-table.svg) | `PeriodicTableIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/periscope.svg) | `PeriscopeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pharmacy.svg) | `PharmacyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-bluetooth.svg) | `PhoneBluetoothIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-classic.svg) | `PhoneClassicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-forward.svg) | `PhoneForwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-hangup.svg) | `PhoneHangupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone.svg) | `PhoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-in-talk.svg) | `PhoneInTalkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-incoming.svg) | `PhoneIncomingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-locked.svg) | `PhoneLockedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-log.svg) | `PhoneLogIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-minus.svg) | `PhoneMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-missed.svg) | `PhoneMissedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-outgoing.svg) | `PhoneOutgoingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-paused.svg) | `PhonePausedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-plus.svg) | `PhonePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-return.svg) | `PhoneReturnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-rotate-landscape.svg) | `PhoneRotateLandscapeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-rotate-portrait.svg) | `PhoneRotatePortraitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-settings.svg) | `PhoneSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/phone-voip.svg) | `PhoneVoipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pi-box.svg) | `PiBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pi.svg) | `PiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/piano.svg) | `PianoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pickaxe.svg) | `PickaxeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pier-crane.svg) | `PierCraneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pier.svg) | `PierIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pig.svg) | `PigIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pill.svg) | `PillIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pillar.svg) | `PillarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pin.svg) | `PinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pin-off.svg) | `PinOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pine-tree-box.svg) | `PineTreeBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pine-tree.svg) | `PineTreeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pinterest-box.svg) | `PinterestBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pinterest.svg) | `PinterestIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pipe-disconnected.svg) | `PipeDisconnectedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pipe.svg) | `PipeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pipe-leak.svg) | `PipeLeakIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pistol.svg) | `PistolIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/piston.svg) | `PistonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pizza.svg) | `PizzaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plane-shield.svg) | `PlaneShieldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play-box-outline.svg) | `PlayBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play-circle.svg) | `PlayCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play-circle-outline.svg) | `PlayCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play.svg) | `PlayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play-network.svg) | `PlayNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play-pause.svg) | `PlayPauseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/play-protected-content.svg) | `PlayProtectedContentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-check.svg) | `PlaylistCheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-minus.svg) | `PlaylistMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-play.svg) | `PlaylistPlayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-plus.svg) | `PlaylistPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-remove.svg) | `PlaylistRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/playstation.svg) | `PlaystationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plex.svg) | `PlexIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-box.svg) | `PlusBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-box-outline.svg) | `PlusBoxOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-circle.svg) | `PlusCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-circle-multiple-outline.svg) | `PlusCircleMultipleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-circle-outline.svg) | `PlusCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus.svg) | `PlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-network.svg) | `PlusNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-one.svg) | `PlusOneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/plus-outline.svg) | `PlusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pocket.svg) | `PocketIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pokeball.svg) | `PokeballIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/poker-chip.svg) | `PokerChipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/polaroid.svg) | `PolaroidIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/poll-box.svg) | `PollBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/poll.svg) | `PollIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/polymer.svg) | `PolymerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pool.svg) | `PoolIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/popcorn.svg) | `PopcornIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pot.svg) | `PotIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pot-mix.svg) | `PotMixIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pound-box.svg) | `PoundBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pound.svg) | `PoundIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power.svg) | `PowerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-plug.svg) | `PowerPlugIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-plug-off.svg) | `PowerPlugOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-settings.svg) | `PowerSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket-eu.svg) | `PowerSocketEuIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket.svg) | `PowerSocketIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket-uk.svg) | `PowerSocketUkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket-us.svg) | `PowerSocketUsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/prescription.svg) | `PrescriptionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/presentation.svg) | `PresentationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/presentation-play.svg) | `PresentationPlayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/printer-alert.svg) | `PrinterAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/printer.svg) | `PrinterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/printer-settings.svg) | `PrinterSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/printer-3d.svg) | `Printer_3dIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/priority-high.svg) | `PriorityHighIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/priority-low.svg) | `PriorityLowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/professional-hexagon.svg) | `ProfessionalHexagonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/projector.svg) | `ProjectorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/projector-screen.svg) | `ProjectorScreenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/publish.svg) | `PublishIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/pulse.svg) | `PulseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/puzzle.svg) | `PuzzleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/qqchat.svg) | `QqchatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/qrcode-edit.svg) | `QrcodeEditIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/qrcode.svg) | `QrcodeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/qrcode-scan.svg) | `QrcodeScanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/quadcopter.svg) | `QuadcopterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/quality-high.svg) | `QualityHighIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/quicktime.svg) | `QuicktimeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radar.svg) | `RadarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radiator.svg) | `RadiatorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radio-handheld.svg) | `RadioHandheldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radio.svg) | `RadioIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radio-tower.svg) | `RadioTowerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radioactive.svg) | `RadioactiveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radiobox-blank.svg) | `RadioboxBlankIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/radiobox-marked.svg) | `RadioboxMarkedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/raspberrypi.svg) | `RaspberrypiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ray-end-arrow.svg) | `RayEndArrowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ray-end.svg) | `RayEndIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ray-start-arrow.svg) | `RayStartArrowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ray-start-end.svg) | `RayStartEndIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ray-start.svg) | `RayStartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ray-vertex.svg) | `RayVertexIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/react.svg) | `ReactIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/read.svg) | `ReadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/receipt.svg) | `ReceiptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/record.svg) | `RecordIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/record-rec.svg) | `RecordRecIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/recycle.svg) | `RecycleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reddit.svg) | `RedditIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/redo.svg) | `RedoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/redo-variant.svg) | `RedoVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/refresh.svg) | `RefreshIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/regex.svg) | `RegexIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/relative-scale.svg) | `RelativeScaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reload.svg) | `ReloadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reminder.svg) | `ReminderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/remote-desktop.svg) | `RemoteDesktopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/remote.svg) | `RemoteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rename-box.svg) | `RenameBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reorder-horizontal.svg) | `ReorderHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reorder-vertical.svg) | `ReorderVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/repeat.svg) | `RepeatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/repeat-off.svg) | `RepeatOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/repeat-once.svg) | `RepeatOnceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/replay.svg) | `ReplayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reply-all.svg) | `ReplyAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reply.svg) | `ReplyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/reproduction.svg) | `ReproductionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/resize-bottom-right.svg) | `ResizeBottomRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/responsive.svg) | `ResponsiveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/restart.svg) | `RestartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/restore.svg) | `RestoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rewind.svg) | `RewindIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rewind-outline.svg) | `RewindOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rhombus.svg) | `RhombusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rhombus-outline.svg) | `RhombusOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ribbon.svg) | `RibbonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rice.svg) | `RiceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ring.svg) | `RingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/road.svg) | `RoadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/road-variant.svg) | `RoadVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/robot.svg) | `RobotIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rocket.svg) | `RocketIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/room-service.svg) | `RoomServiceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/roomba.svg) | `RoombaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-left.svg) | `RotateLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-left-variant.svg) | `RotateLeftVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-right.svg) | `RotateRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-right-variant.svg) | `RotateRightVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-3d.svg) | `Rotate_3dIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rounded-corner.svg) | `RoundedCornerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/router-wireless.svg) | `RouterWirelessIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/routes.svg) | `RoutesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rowing.svg) | `RowingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rss-box.svg) | `RssBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/rss.svg) | `RssIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ruler.svg) | `RulerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/run-fast.svg) | `RunFastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/run.svg) | `RunIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sale.svg) | `SaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/salesforce.svg) | `SalesforceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sass.svg) | `SassIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/satellite.svg) | `SatelliteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/satellite-variant.svg) | `SatelliteVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sausage.svg) | `SausageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/saxophone.svg) | `SaxophoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/scale-balance.svg) | `ScaleBalanceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/scale-bathroom.svg) | `ScaleBathroomIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/scale.svg) | `ScaleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/scanner.svg) | `ScannerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/school.svg) | `SchoolIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/screen-rotation.svg) | `ScreenRotationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/screen-rotation-lock.svg) | `ScreenRotationLockIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/screwdriver.svg) | `ScrewdriverIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/script.svg) | `ScriptIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sd.svg) | `SdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seal.svg) | `SealIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/search-web.svg) | `SearchWebIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-flat-angled.svg) | `SeatFlatAngledIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-flat.svg) | `SeatFlatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-individual-suite.svg) | `SeatIndividualSuiteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-legroom-extra.svg) | `SeatLegroomExtraIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-legroom-normal.svg) | `SeatLegroomNormalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-legroom-reduced.svg) | `SeatLegroomReducedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-recline-extra.svg) | `SeatReclineExtraIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/seat-recline-normal.svg) | `SeatReclineNormalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/security-account.svg) | `SecurityAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/security-home.svg) | `SecurityHomeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/security.svg) | `SecurityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/security-network.svg) | `SecurityNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/select-all.svg) | `SelectAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/select.svg) | `SelectIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/select-inverse.svg) | `SelectInverseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/select-off.svg) | `SelectOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/selection.svg) | `SelectionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/selection-off.svg) | `SelectionOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/send.svg) | `SendIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/send-secure.svg) | `SendSecureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/serial-port.svg) | `SerialPortIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server.svg) | `ServerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-minus.svg) | `ServerMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-network.svg) | `ServerNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-network-off.svg) | `ServerNetworkOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-off.svg) | `ServerOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-plus.svg) | `ServerPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-remove.svg) | `ServerRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/server-security.svg) | `ServerSecurityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-all.svg) | `SetAllIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-center.svg) | `SetCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-center-right.svg) | `SetCenterRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-left-center.svg) | `SetLeftCenterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-left.svg) | `SetLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-left-right.svg) | `SetLeftRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-none.svg) | `SetNoneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/set-right.svg) | `SetRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/settings-box.svg) | `SettingsBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/settings.svg) | `SettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/settings-outline.svg) | `SettingsOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape-circle-plus.svg) | `ShapeCirclePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape.svg) | `ShapeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape-outline.svg) | `ShapeOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape-plus.svg) | `ShapePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape-polygon-plus.svg) | `ShapePolygonPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape-rectangle-plus.svg) | `ShapeRectanglePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shape-square-plus.svg) | `ShapeSquarePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/share.svg) | `ShareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/share-variant.svg) | `ShareVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shield-half-full.svg) | `ShieldHalfFullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shield.svg) | `ShieldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shield-outline.svg) | `ShieldOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ship-wheel.svg) | `ShipWheelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shopping.svg) | `ShoppingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shopping-music.svg) | `ShoppingMusicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shovel.svg) | `ShovelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shovel-off.svg) | `ShovelOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shredder.svg) | `ShredderIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shuffle-disabled.svg) | `ShuffleDisabledIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shuffle.svg) | `ShuffleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/shuffle-variant.svg) | `ShuffleVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sigma.svg) | `SigmaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sigma-lower.svg) | `SigmaLowerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sign-caution.svg) | `SignCautionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sign-direction.svg) | `SignDirectionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sign-text.svg) | `SignTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-outline.svg) | `SignalCellularOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-1.svg) | `SignalCellular_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-2.svg) | `SignalCellular_2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-3.svg) | `SignalCellular_3Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-hspa.svg) | `SignalHspaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-hspa-plus.svg) | `SignalHspaPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal.svg) | `SignalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-off.svg) | `SignalOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-variant.svg) | `SignalVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-2g.svg) | `Signal_2gIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-3g.svg) | `Signal_3gIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/signal-4g.svg) | `Signal_4gIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/silverware-fork.svg) | `SilverwareForkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/silverware.svg) | `SilverwareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/silverware-spoon.svg) | `SilverwareSpoonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/silverware-variant.svg) | `SilverwareVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sim-alert.svg) | `SimAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sim.svg) | `SimIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sim-off.svg) | `SimOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sitemap.svg) | `SitemapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-backward.svg) | `SkipBackwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-forward.svg) | `SkipForwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-next-circle.svg) | `SkipNextCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-next-circle-outline.svg) | `SkipNextCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-next.svg) | `SkipNextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-previous-circle.svg) | `SkipPreviousCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-previous-circle-outline.svg) | `SkipPreviousCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skip-previous.svg) | `SkipPreviousIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skull.svg) | `SkullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skype-business.svg) | `SkypeBusinessIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/skype.svg) | `SkypeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/slack.svg) | `SlackIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sleep.svg) | `SleepIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sleep-off.svg) | `SleepOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/smoking.svg) | `SmokingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/smoking-off.svg) | `SmokingOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/snapchat.svg) | `SnapchatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/snowflake.svg) | `SnowflakeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/snowman.svg) | `SnowmanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/soccer-field.svg) | `SoccerFieldIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/soccer.svg) | `SoccerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sofa.svg) | `SofaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/solid.svg) | `SolidIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sort-alphabetical.svg) | `SortAlphabeticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sort-ascending.svg) | `SortAscendingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sort-descending.svg) | `SortDescendingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sort.svg) | `SortIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sort-numeric.svg) | `SortNumericIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sort-variant.svg) | `SortVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/soundcloud.svg) | `SoundcloudIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-branch.svg) | `SourceBranchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-end.svg) | `SourceCommitEndIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-end-local.svg) | `SourceCommitEndLocalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit.svg) | `SourceCommitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-local.svg) | `SourceCommitLocalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-next-local.svg) | `SourceCommitNextLocalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-start.svg) | `SourceCommitStartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-start-next-local.svg) | `SourceCommitStartNextLocalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-fork.svg) | `SourceForkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-merge.svg) | `SourceMergeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/source-pull.svg) | `SourcePullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/soy-sauce.svg) | `SoySauceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/speaker.svg) | `SpeakerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/speaker-off.svg) | `SpeakerOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/speaker-wireless.svg) | `SpeakerWirelessIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/speedometer.svg) | `SpeedometerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/spellcheck.svg) | `SpellcheckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/spotify.svg) | `SpotifyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/spotlight-beam.svg) | `SpotlightBeamIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/spotlight.svg) | `SpotlightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/spray.svg) | `SprayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/square.svg) | `SquareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/square-inc-cash.svg) | `SquareIncCashIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/square-inc.svg) | `SquareIncIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/square-outline.svg) | `SquareOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/square-root.svg) | `SquareRootIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ssh.svg) | `SshIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stack-overflow.svg) | `StackOverflowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stackexchange.svg) | `StackexchangeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stadium.svg) | `StadiumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stairs.svg) | `StairsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/standard-definition.svg) | `StandardDefinitionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/star-circle.svg) | `StarCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/star-half.svg) | `StarHalfIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/star.svg) | `StarIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/star-off.svg) | `StarOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/star-outline.svg) | `StarOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/steam.svg) | `SteamIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/steering.svg) | `SteeringIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/step-backward.svg) | `StepBackwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/step-backward-2.svg) | `StepBackward_2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/step-forward.svg) | `StepForwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/step-forward-2.svg) | `StepForward_2Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stethoscope.svg) | `StethoscopeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sticker-emoji.svg) | `StickerEmojiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sticker.svg) | `StickerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stocking.svg) | `StockingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stop-circle.svg) | `StopCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stop-circle-outline.svg) | `StopCircleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stop.svg) | `StopIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/store.svg) | `StoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/store-24-hour.svg) | `Store_24HourIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/stove.svg) | `StoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/subdirectory-arrow-left.svg) | `SubdirectoryArrowLeftIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/subdirectory-arrow-right.svg) | `SubdirectoryArrowRightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/subway.svg) | `SubwayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/subway-variant.svg) | `SubwayVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/summit.svg) | `SummitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sunglasses.svg) | `SunglassesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound.svg) | `SurroundSoundIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-2-0.svg) | `SurroundSound_2_0Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-3-1.svg) | `SurroundSound_3_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-5-1.svg) | `SurroundSound_5_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-7-1.svg) | `SurroundSound_7_1Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/svg.svg) | `SvgIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/swap-horizontal.svg) | `SwapHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/swap-horizontal-variant.svg) | `SwapHorizontalVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/swap-vertical.svg) | `SwapVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/swap-vertical-variant.svg) | `SwapVerticalVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/swim.svg) | `SwimIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/switch.svg) | `SwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sword-cross.svg) | `SwordCrossIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sword.svg) | `SwordIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sync-alert.svg) | `SyncAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sync.svg) | `SyncIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/sync-off.svg) | `SyncOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tab.svg) | `TabIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tab-plus.svg) | `TabPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tab-unselected.svg) | `TabUnselectedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-column.svg) | `TableColumnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-plus-after.svg) | `TableColumnPlusAfterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-plus-before.svg) | `TableColumnPlusBeforeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-remove.svg) | `TableColumnRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-width.svg) | `TableColumnWidthIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-edit.svg) | `TableEditIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table.svg) | `TableIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-large.svg) | `TableLargeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-of-contents.svg) | `TableOfContentsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-height.svg) | `TableRowHeightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-row.svg) | `TableRowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-plus-after.svg) | `TableRowPlusAfterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-plus-before.svg) | `TableRowPlusBeforeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-remove.svg) | `TableRowRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/table-settings.svg) | `TableSettingsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tablet-android.svg) | `TabletAndroidIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tablet.svg) | `TabletIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tablet-ipad.svg) | `TabletIpadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/taco.svg) | `TacoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-faces.svg) | `TagFacesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-heart.svg) | `TagHeartIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag.svg) | `TagIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-multiple.svg) | `TagMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-outline.svg) | `TagOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-plus.svg) | `TagPlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-remove.svg) | `TagRemoveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tag-text-outline.svg) | `TagTextOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/target.svg) | `TargetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/taxi.svg) | `TaxiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/teach.svg) | `TeachIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/teamviewer.svg) | `TeamviewerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/telegram.svg) | `TelegramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/television-box.svg) | `TelevisionBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/television-classic.svg) | `TelevisionClassicIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/television-classic-off.svg) | `TelevisionClassicOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/television-guide.svg) | `TelevisionGuideIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/television.svg) | `TelevisionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/television-off.svg) | `TelevisionOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/temperature-celsius.svg) | `TemperatureCelsiusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/temperature-fahrenheit.svg) | `TemperatureFahrenheitIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/temperature-kelvin.svg) | `TemperatureKelvinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tennis.svg) | `TennisIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tent.svg) | `TentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/terrain.svg) | `TerrainIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/test-tube.svg) | `TestTubeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/text-shadow.svg) | `TextShadowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/text-to-speech.svg) | `TextToSpeechIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/text-to-speech-off.svg) | `TextToSpeechOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/textbox.svg) | `TextboxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/textbox-password.svg) | `TextboxPasswordIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/texture.svg) | `TextureIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/theater.svg) | `TheaterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/theme-light-dark.svg) | `ThemeLightDarkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thermometer.svg) | `ThermometerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thermometer-lines.svg) | `ThermometerLinesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thermostat-box.svg) | `ThermostatBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thought-bubble.svg) | `ThoughtBubbleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thought-bubble-outline.svg) | `ThoughtBubbleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-down.svg) | `ThumbDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-down-outline.svg) | `ThumbDownOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-up.svg) | `ThumbUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-up-outline.svg) | `ThumbUpOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/thumbs-up-down.svg) | `ThumbsUpDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ticket-account.svg) | `TicketAccountIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ticket-confirmation.svg) | `TicketConfirmationIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ticket.svg) | `TicketIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ticket-percent.svg) | `TicketPercentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tie.svg) | `TieIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tilde.svg) | `TildeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timelapse.svg) | `TimelapseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer.svg) | `TimerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer-off.svg) | `TimerOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer-sand-empty.svg) | `TimerSandEmptyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer-sand-full.svg) | `TimerSandFullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer-sand.svg) | `TimerSandIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer-10.svg) | `Timer_10Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timer-3.svg) | `Timer_3Icon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/timetable.svg) | `TimetableIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/toggle-switch.svg) | `ToggleSwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/toggle-switch-off.svg) | `ToggleSwitchOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-edit.svg) | `TooltipEditIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip.svg) | `TooltipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-image.svg) | `TooltipImageIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-outline.svg) | `TooltipOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-outline-plus.svg) | `TooltipOutlinePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-text.svg) | `TooltipTextIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooth.svg) | `ToothIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tooth-outline.svg) | `ToothOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tor.svg) | `TorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tower-beach.svg) | `TowerBeachIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tower-fire.svg) | `TowerFireIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/towing.svg) | `TowingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trackpad.svg) | `TrackpadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tractor.svg) | `TractorIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/traffic-light.svg) | `TrafficLightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/train.svg) | `TrainIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/train-variant.svg) | `TrainVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tram.svg) | `TramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/transcribe-close.svg) | `TranscribeCloseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/transcribe.svg) | `TranscribeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/transfer.svg) | `TransferIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/transit-transfer.svg) | `TransitTransferIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/translate.svg) | `TranslateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/treasure-chest.svg) | `TreasureChestIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tree.svg) | `TreeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trello.svg) | `TrelloIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trending-down.svg) | `TrendingDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trending-neutral.svg) | `TrendingNeutralIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trending-up.svg) | `TrendingUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/triangle.svg) | `TriangleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/triangle-outline.svg) | `TriangleOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-award.svg) | `TrophyAwardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trophy.svg) | `TrophyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-outline.svg) | `TrophyOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-variant.svg) | `TrophyVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-variant-outline.svg) | `TrophyVariantOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/truck-delivery.svg) | `TruckDeliveryIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/truck-fast.svg) | `TruckFastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/truck.svg) | `TruckIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/truck-trailer.svg) | `TruckTrailerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tshirt-crew.svg) | `TshirtCrewIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tshirt-v.svg) | `TshirtVIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tumblr.svg) | `TumblrIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tumblr-reblog.svg) | `TumblrReblogIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tune.svg) | `TuneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/tune-vertical.svg) | `TuneVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/twitch.svg) | `TwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/twitter-box.svg) | `TwitterBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/twitter-circle.svg) | `TwitterCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/twitter.svg) | `TwitterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/twitter-retweet.svg) | `TwitterRetweetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/uber.svg) | `UberIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ubuntu.svg) | `UbuntuIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ultra-high-definition.svg) | `UltraHighDefinitionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/umbraco.svg) | `UmbracoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/umbrella.svg) | `UmbrellaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/umbrella-outline.svg) | `UmbrellaOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/undo.svg) | `UndoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/undo-variant.svg) | `UndoVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-less-horizontal.svg) | `UnfoldLessHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-less-vertical.svg) | `UnfoldLessVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-more-horizontal.svg) | `UnfoldMoreHorizontalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-more-vertical.svg) | `UnfoldMoreVerticalIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/ungroup.svg) | `UngroupIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/unity.svg) | `UnityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/untappd.svg) | `UntappdIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/update.svg) | `UpdateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/upload.svg) | `UploadIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/upload-multiple.svg) | `UploadMultipleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/upload-network.svg) | `UploadNetworkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/usb.svg) | `UsbIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/van-passenger.svg) | `VanPassengerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/van-utility.svg) | `VanUtilityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vanish.svg) | `VanishIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-arrange-above.svg) | `VectorArrangeAboveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-arrange-below.svg) | `VectorArrangeBelowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-circle.svg) | `VectorCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-circle-variant.svg) | `VectorCircleVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-combine.svg) | `VectorCombineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-curve.svg) | `VectorCurveIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-difference-ab.svg) | `VectorDifferenceAbIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-difference-ba.svg) | `VectorDifferenceBaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-difference.svg) | `VectorDifferenceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-ellipse.svg) | `VectorEllipseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-intersection.svg) | `VectorIntersectionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-line.svg) | `VectorLineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-point.svg) | `VectorPointIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-polygon.svg) | `VectorPolygonIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-polyline.svg) | `VectorPolylineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-radius.svg) | `VectorRadiusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-rectangle.svg) | `VectorRectangleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-selection.svg) | `VectorSelectionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-square.svg) | `VectorSquareIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-triangle.svg) | `VectorTriangleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vector-union.svg) | `VectorUnionIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/venmo.svg) | `VenmoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/verified.svg) | `VerifiedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vibrate.svg) | `VibrateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video.svg) | `VideoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-antenna.svg) | `VideoInputAntennaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-component.svg) | `VideoInputComponentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-hdmi.svg) | `VideoInputHdmiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-svideo.svg) | `VideoInputSvideoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-off.svg) | `VideoOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-switch.svg) | `VideoSwitchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-3d.svg) | `Video_3dIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/video-4k-box.svg) | `Video_4kBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-agenda.svg) | `ViewAgendaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-array.svg) | `ViewArrayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-carousel.svg) | `ViewCarouselIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-column.svg) | `ViewColumnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-dashboard.svg) | `ViewDashboardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-dashboard-variant.svg) | `ViewDashboardVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-day.svg) | `ViewDayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-grid.svg) | `ViewGridIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-headline.svg) | `ViewHeadlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-list.svg) | `ViewListIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-module.svg) | `ViewModuleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-parallel.svg) | `ViewParallelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-quilt.svg) | `ViewQuiltIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-sequential.svg) | `ViewSequentialIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-stream.svg) | `ViewStreamIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/view-week.svg) | `ViewWeekIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vimeo.svg) | `VimeoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/violin.svg) | `ViolinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/virtual-reality.svg) | `VirtualRealityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/visualstudio.svg) | `VisualstudioIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vk-box.svg) | `VkBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vk-circle.svg) | `VkCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vk.svg) | `VkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vlc.svg) | `VlcIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/voice.svg) | `VoiceIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/voicemail.svg) | `VoicemailIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-high.svg) | `VolumeHighIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-low.svg) | `VolumeLowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-medium.svg) | `VolumeMediumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-minus.svg) | `VolumeMinusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-mute.svg) | `VolumeMuteIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-off.svg) | `VolumeOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/volume-plus.svg) | `VolumePlusIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vpn.svg) | `VpnIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/vuejs.svg) | `VuejsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/walk.svg) | `WalkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wall.svg) | `WallIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wallet-giftcard.svg) | `WalletGiftcardIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wallet.svg) | `WalletIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wallet-membership.svg) | `WalletMembershipIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wallet-travel.svg) | `WalletTravelIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wan.svg) | `WanIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/washing-machine.svg) | `WashingMachineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch-export.svg) | `WatchExportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch-export-variant.svg) | `WatchExportVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch.svg) | `WatchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch-import.svg) | `WatchImportIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch-import-variant.svg) | `WatchImportVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch-variant.svg) | `WatchVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watch-vibrate.svg) | `WatchVibrateIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/water.svg) | `WaterIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/water-off.svg) | `WaterOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/water-percent.svg) | `WaterPercentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/water-pump.svg) | `WaterPumpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/watermark.svg) | `WatermarkIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/waves.svg) | `WavesIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-cloudy.svg) | `WeatherCloudyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-fog.svg) | `WeatherFogIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-hail.svg) | `WeatherHailIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-hurricane.svg) | `WeatherHurricaneIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-lightning.svg) | `WeatherLightningIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-lightning-rainy.svg) | `WeatherLightningRainyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-night.svg) | `WeatherNightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-partlycloudy.svg) | `WeatherPartlycloudyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-pouring.svg) | `WeatherPouringIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-rainy.svg) | `WeatherRainyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-snowy.svg) | `WeatherSnowyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-snowy-rainy.svg) | `WeatherSnowyRainyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunny.svg) | `WeatherSunnyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunset-down.svg) | `WeatherSunsetDownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunset.svg) | `WeatherSunsetIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunset-up.svg) | `WeatherSunsetUpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-windy.svg) | `WeatherWindyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weather-windy-variant.svg) | `WeatherWindyVariantIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/web.svg) | `WebIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/webcam.svg) | `WebcamIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/webhook.svg) | `WebhookIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/webpack.svg) | `WebpackIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wechat.svg) | `WechatIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weight.svg) | `WeightIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/weight-kilogram.svg) | `WeightKilogramIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/whatsapp.svg) | `WhatsappIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wheelchair-accessibility.svg) | `WheelchairAccessibilityIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-auto.svg) | `WhiteBalanceAutoIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-incandescent.svg) | `WhiteBalanceIncandescentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-iridescent.svg) | `WhiteBalanceIridescentIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-sunny.svg) | `WhiteBalanceSunnyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/widgets.svg) | `WidgetsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wifi.svg) | `WifiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wifi-off.svg) | `WifiOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wii.svg) | `WiiIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wiiu.svg) | `WiiuIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wikipedia.svg) | `WikipediaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/window-close.svg) | `WindowCloseIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/window-closed.svg) | `WindowClosedIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/window-maximize.svg) | `WindowMaximizeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/window-minimize.svg) | `WindowMinimizeIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/window-open.svg) | `WindowOpenIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/window-restore.svg) | `WindowRestoreIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/windows.svg) | `WindowsIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wordpress.svg) | `WordpressIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/worker.svg) | `WorkerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wrap.svg) | `WrapIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wrench.svg) | `WrenchIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/wunderlist.svg) | `WunderlistIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xamarin.svg) | `XamarinIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xamarin-outline.svg) | `XamarinOutlineIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xaml.svg) | `XamlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-alert.svg) | `XboxControllerBatteryAlertIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-empty.svg) | `XboxControllerBatteryEmptyIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-full.svg) | `XboxControllerBatteryFullIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-low.svg) | `XboxControllerBatteryLowIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-medium.svg) | `XboxControllerBatteryMediumIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-unknown.svg) | `XboxControllerBatteryUnknownIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller.svg) | `XboxControllerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-off.svg) | `XboxControllerOffIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xbox.svg) | `XboxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xda.svg) | `XdaIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xing-box.svg) | `XingBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xing-circle.svg) | `XingCircleIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xing.svg) | `XingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xml.svg) | `XmlIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/xmpp.svg) | `XmppIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/yammer.svg) | `YammerIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/yeast.svg) | `YeastIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/yelp.svg) | `YelpIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/yin-yang.svg) | `YinYangIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-creator-studio.svg) | `YoutubeCreatorStudioIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-gaming.svg) | `YoutubeGamingIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-play.svg) | `YoutubePlayIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-tv.svg) | `YoutubeTvIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/zip-box.svg) | `ZipBoxIcon`
-![](https://raw.githubusercontent.com/at-icons/material/master/svg/index.svg) | `index`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/access-point.svg" width="24" height="24"> | `AccessPointIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/access-point-network.svg" width="24" height="24"> | `AccessPointNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-alert.svg" width="24" height="24"> | `AccountAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-box.svg" width="24" height="24"> | `AccountBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-box-outline.svg" width="24" height="24"> | `AccountBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-card-details.svg" width="24" height="24"> | `AccountCardDetailsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-check.svg" width="24" height="24"> | `AccountCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-circle.svg" width="24" height="24"> | `AccountCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-convert.svg" width="24" height="24"> | `AccountConvertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-edit.svg" width="24" height="24"> | `AccountEditIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-group.svg" width="24" height="24"> | `AccountGroupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-heart.svg" width="24" height="24"> | `AccountHeartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account.svg" width="24" height="24"> | `AccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-key.svg" width="24" height="24"> | `AccountKeyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-location.svg" width="24" height="24"> | `AccountLocationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-minus.svg" width="24" height="24"> | `AccountMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple.svg" width="24" height="24"> | `AccountMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-minus.svg" width="24" height="24"> | `AccountMultipleMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-outline.svg" width="24" height="24"> | `AccountMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-plus.svg" width="24" height="24"> | `AccountMultiplePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-multiple-plus-outline.svg" width="24" height="24"> | `AccountMultiplePlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-network.svg" width="24" height="24"> | `AccountNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-off.svg" width="24" height="24"> | `AccountOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-outline.svg" width="24" height="24"> | `AccountOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-plus.svg" width="24" height="24"> | `AccountPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-plus-outline.svg" width="24" height="24"> | `AccountPlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-remove.svg" width="24" height="24"> | `AccountRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-search.svg" width="24" height="24"> | `AccountSearchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-settings.svg" width="24" height="24"> | `AccountSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-settings-variant.svg" width="24" height="24"> | `AccountSettingsVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-star.svg" width="24" height="24"> | `AccountStarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/account-switch.svg" width="24" height="24"> | `AccountSwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/accusoft.svg" width="24" height="24"> | `AccusoftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/adjust.svg" width="24" height="24"> | `AdjustIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/air-conditioner.svg" width="24" height="24"> | `AirConditionerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airballoon.svg" width="24" height="24"> | `AirballoonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airplane.svg" width="24" height="24"> | `AirplaneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airplane-landing.svg" width="24" height="24"> | `AirplaneLandingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airplane-off.svg" width="24" height="24"> | `AirplaneOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airplane-takeoff.svg" width="24" height="24"> | `AirplaneTakeoffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airplay.svg" width="24" height="24"> | `AirplayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/airport.svg" width="24" height="24"> | `AirportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-bell.svg" width="24" height="24"> | `AlarmBellIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-check.svg" width="24" height="24"> | `AlarmCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm.svg" width="24" height="24"> | `AlarmIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-light.svg" width="24" height="24"> | `AlarmLightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-multiple.svg" width="24" height="24"> | `AlarmMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-off.svg" width="24" height="24"> | `AlarmOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-plus.svg" width="24" height="24"> | `AlarmPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alarm-snooze.svg" width="24" height="24"> | `AlarmSnoozeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/album.svg" width="24" height="24"> | `AlbumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-box.svg" width="24" height="24"> | `AlertBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-circle.svg" width="24" height="24"> | `AlertCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-circle-outline.svg" width="24" height="24"> | `AlertCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-decagram.svg" width="24" height="24"> | `AlertDecagramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert.svg" width="24" height="24"> | `AlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-octagon.svg" width="24" height="24"> | `AlertOctagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-octagram.svg" width="24" height="24"> | `AlertOctagramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alert-outline.svg" width="24" height="24"> | `AlertOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alien.svg" width="24" height="24"> | `AlienIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/all-inclusive.svg" width="24" height="24"> | `AllInclusiveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/allo.svg" width="24" height="24"> | `AlloIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alpha.svg" width="24" height="24"> | `AlphaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/alphabetical.svg" width="24" height="24"> | `AlphabeticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/altimeter.svg" width="24" height="24"> | `AltimeterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/amazon-clouddrive.svg" width="24" height="24"> | `AmazonClouddriveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/amazon.svg" width="24" height="24"> | `AmazonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ambulance.svg" width="24" height="24"> | `AmbulanceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/amplifier.svg" width="24" height="24"> | `AmplifierIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/anchor.svg" width="24" height="24"> | `AnchorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/android-debug-bridge.svg" width="24" height="24"> | `AndroidDebugBridgeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/android-head.svg" width="24" height="24"> | `AndroidHeadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/android.svg" width="24" height="24"> | `AndroidIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/android-studio.svg" width="24" height="24"> | `AndroidStudioIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/angular.svg" width="24" height="24"> | `AngularIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/angularjs.svg" width="24" height="24"> | `AngularjsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/animation.svg" width="24" height="24"> | `AnimationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/anvil.svg" width="24" height="24"> | `AnvilIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-finder.svg" width="24" height="24"> | `AppleFinderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple.svg" width="24" height="24"> | `AppleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-ios.svg" width="24" height="24"> | `AppleIosIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-caps.svg" width="24" height="24"> | `AppleKeyboardCapsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-command.svg" width="24" height="24"> | `AppleKeyboardCommandIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-control.svg" width="24" height="24"> | `AppleKeyboardControlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-option.svg" width="24" height="24"> | `AppleKeyboardOptionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-keyboard-shift.svg" width="24" height="24"> | `AppleKeyboardShiftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-mobileme.svg" width="24" height="24"> | `AppleMobilemeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apple-safari.svg" width="24" height="24"> | `AppleSafariIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/application.svg" width="24" height="24"> | `ApplicationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/approval.svg" width="24" height="24"> | `ApprovalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/apps.svg" width="24" height="24"> | `AppsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/archive.svg" width="24" height="24"> | `ArchiveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-bring-forward.svg" width="24" height="24"> | `ArrangeBringForwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-bring-to-front.svg" width="24" height="24"> | `ArrangeBringToFrontIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-send-backward.svg" width="24" height="24"> | `ArrangeSendBackwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrange-send-to-back.svg" width="24" height="24"> | `ArrangeSendToBackIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-all.svg" width="24" height="24"> | `ArrowAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-bottom-left.svg" width="24" height="24"> | `ArrowBottomLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-bottom-right.svg" width="24" height="24"> | `ArrowBottomRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-all.svg" width="24" height="24"> | `ArrowCollapseAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-down.svg" width="24" height="24"> | `ArrowCollapseDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-horizontal.svg" width="24" height="24"> | `ArrowCollapseHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse.svg" width="24" height="24"> | `ArrowCollapseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-left.svg" width="24" height="24"> | `ArrowCollapseLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-right.svg" width="24" height="24"> | `ArrowCollapseRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-up.svg" width="24" height="24"> | `ArrowCollapseUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-collapse-vertical.svg" width="24" height="24"> | `ArrowCollapseVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-box.svg" width="24" height="24"> | `ArrowDownBoldBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-box-outline.svg" width="24" height="24"> | `ArrowDownBoldBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-circle.svg" width="24" height="24"> | `ArrowDownBoldCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-circle-outline.svg" width="24" height="24"> | `ArrowDownBoldCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold-hexagon-outline.svg" width="24" height="24"> | `ArrowDownBoldHexagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-bold.svg" width="24" height="24"> | `ArrowDownBoldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-box.svg" width="24" height="24"> | `ArrowDownBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-drop-circle.svg" width="24" height="24"> | `ArrowDownDropCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-drop-circle-outline.svg" width="24" height="24"> | `ArrowDownDropCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down.svg" width="24" height="24"> | `ArrowDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-down-thick.svg" width="24" height="24"> | `ArrowDownThickIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-all.svg" width="24" height="24"> | `ArrowExpandAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-down.svg" width="24" height="24"> | `ArrowExpandDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-horizontal.svg" width="24" height="24"> | `ArrowExpandHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand.svg" width="24" height="24"> | `ArrowExpandIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-left.svg" width="24" height="24"> | `ArrowExpandLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-right.svg" width="24" height="24"> | `ArrowExpandRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-up.svg" width="24" height="24"> | `ArrowExpandUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-expand-vertical.svg" width="24" height="24"> | `ArrowExpandVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-box.svg" width="24" height="24"> | `ArrowLeftBoldBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-box-outline.svg" width="24" height="24"> | `ArrowLeftBoldBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-circle.svg" width="24" height="24"> | `ArrowLeftBoldCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-circle-outline.svg" width="24" height="24"> | `ArrowLeftBoldCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold-hexagon-outline.svg" width="24" height="24"> | `ArrowLeftBoldHexagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-bold.svg" width="24" height="24"> | `ArrowLeftBoldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-box.svg" width="24" height="24"> | `ArrowLeftBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-drop-circle.svg" width="24" height="24"> | `ArrowLeftDropCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-drop-circle-outline.svg" width="24" height="24"> | `ArrowLeftDropCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left.svg" width="24" height="24"> | `ArrowLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-left-thick.svg" width="24" height="24"> | `ArrowLeftThickIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-box.svg" width="24" height="24"> | `ArrowRightBoldBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-box-outline.svg" width="24" height="24"> | `ArrowRightBoldBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-circle.svg" width="24" height="24"> | `ArrowRightBoldCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-circle-outline.svg" width="24" height="24"> | `ArrowRightBoldCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold-hexagon-outline.svg" width="24" height="24"> | `ArrowRightBoldHexagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-bold.svg" width="24" height="24"> | `ArrowRightBoldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-box.svg" width="24" height="24"> | `ArrowRightBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-drop-circle.svg" width="24" height="24"> | `ArrowRightDropCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-drop-circle-outline.svg" width="24" height="24"> | `ArrowRightDropCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right.svg" width="24" height="24"> | `ArrowRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-right-thick.svg" width="24" height="24"> | `ArrowRightThickIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-top-left.svg" width="24" height="24"> | `ArrowTopLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-top-right.svg" width="24" height="24"> | `ArrowTopRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-box.svg" width="24" height="24"> | `ArrowUpBoldBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-box-outline.svg" width="24" height="24"> | `ArrowUpBoldBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-circle.svg" width="24" height="24"> | `ArrowUpBoldCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-circle-outline.svg" width="24" height="24"> | `ArrowUpBoldCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold-hexagon-outline.svg" width="24" height="24"> | `ArrowUpBoldHexagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-bold.svg" width="24" height="24"> | `ArrowUpBoldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-box.svg" width="24" height="24"> | `ArrowUpBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-drop-circle.svg" width="24" height="24"> | `ArrowUpDropCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-drop-circle-outline.svg" width="24" height="24"> | `ArrowUpDropCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up.svg" width="24" height="24"> | `ArrowUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/arrow-up-thick.svg" width="24" height="24"> | `ArrowUpThickIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/artist.svg" width="24" height="24"> | `ArtistIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/assistant.svg" width="24" height="24"> | `AssistantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/asterisk.svg" width="24" height="24"> | `AsteriskIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/at.svg" width="24" height="24"> | `AtIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/atlassian.svg" width="24" height="24"> | `AtlassianIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/atom.svg" width="24" height="24"> | `AtomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/attachment.svg" width="24" height="24"> | `AttachmentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/audiobook.svg" width="24" height="24"> | `AudiobookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/augmented-reality.svg" width="24" height="24"> | `AugmentedRealityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/auto-fix.svg" width="24" height="24"> | `AutoFixIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/auto-upload.svg" width="24" height="24"> | `AutoUploadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/autorenew.svg" width="24" height="24"> | `AutorenewIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/av-timer.svg" width="24" height="24"> | `AvTimerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/azure.svg" width="24" height="24"> | `AzureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/baby-buggy.svg" width="24" height="24"> | `BabyBuggyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/baby.svg" width="24" height="24"> | `BabyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/backburger.svg" width="24" height="24"> | `BackburgerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/backspace.svg" width="24" height="24"> | `BackspaceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/backup-restore.svg" width="24" height="24"> | `BackupRestoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/badminton.svg" width="24" height="24"> | `BadmintonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bandcamp.svg" width="24" height="24"> | `BandcampIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bank.svg" width="24" height="24"> | `BankIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/barcode.svg" width="24" height="24"> | `BarcodeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/barcode-scan.svg" width="24" height="24"> | `BarcodeScanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/barley.svg" width="24" height="24"> | `BarleyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/barrel.svg" width="24" height="24"> | `BarrelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/baseball-bat.svg" width="24" height="24"> | `BaseballBatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/baseball.svg" width="24" height="24"> | `BaseballIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/basecamp.svg" width="24" height="24"> | `BasecampIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/basket-fill.svg" width="24" height="24"> | `BasketFillIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/basket.svg" width="24" height="24"> | `BasketIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/basket-unfill.svg" width="24" height="24"> | `BasketUnfillIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/basketball.svg" width="24" height="24"> | `BasketballIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-alert.svg" width="24" height="24"> | `BatteryAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging.svg" width="24" height="24"> | `BatteryChargingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-outline.svg" width="24" height="24"> | `BatteryChargingOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-alert.svg" width="24" height="24"> | `BatteryChargingWirelessAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless.svg" width="24" height="24"> | `BatteryChargingWirelessIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-outline.svg" width="24" height="24"> | `BatteryChargingWirelessOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-10.svg" width="24" height="24"> | `BatteryChargingWireless_10Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-20.svg" width="24" height="24"> | `BatteryChargingWireless_20Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-30.svg" width="24" height="24"> | `BatteryChargingWireless_30Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-40.svg" width="24" height="24"> | `BatteryChargingWireless_40Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-50.svg" width="24" height="24"> | `BatteryChargingWireless_50Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-60.svg" width="24" height="24"> | `BatteryChargingWireless_60Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-70.svg" width="24" height="24"> | `BatteryChargingWireless_70Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-80.svg" width="24" height="24"> | `BatteryChargingWireless_80Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-wireless-90.svg" width="24" height="24"> | `BatteryChargingWireless_90Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-100.svg" width="24" height="24"> | `BatteryCharging_100Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-10.svg" width="24" height="24"> | `BatteryCharging_10Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-20.svg" width="24" height="24"> | `BatteryCharging_20Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-30.svg" width="24" height="24"> | `BatteryCharging_30Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-40.svg" width="24" height="24"> | `BatteryCharging_40Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-50.svg" width="24" height="24"> | `BatteryCharging_50Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-60.svg" width="24" height="24"> | `BatteryCharging_60Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-70.svg" width="24" height="24"> | `BatteryCharging_70Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-80.svg" width="24" height="24"> | `BatteryCharging_80Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-charging-90.svg" width="24" height="24"> | `BatteryCharging_90Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery.svg" width="24" height="24"> | `BatteryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-minus.svg" width="24" height="24"> | `BatteryMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-negative.svg" width="24" height="24"> | `BatteryNegativeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-outline.svg" width="24" height="24"> | `BatteryOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-plus.svg" width="24" height="24"> | `BatteryPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-positive.svg" width="24" height="24"> | `BatteryPositiveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-unknown.svg" width="24" height="24"> | `BatteryUnknownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-10.svg" width="24" height="24"> | `Battery_10Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-20.svg" width="24" height="24"> | `Battery_20Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-30.svg" width="24" height="24"> | `Battery_30Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-40.svg" width="24" height="24"> | `Battery_40Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-50.svg" width="24" height="24"> | `Battery_50Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-60.svg" width="24" height="24"> | `Battery_60Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-70.svg" width="24" height="24"> | `Battery_70Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-80.svg" width="24" height="24"> | `Battery_80Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/battery-90.svg" width="24" height="24"> | `Battery_90Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/beach.svg" width="24" height="24"> | `BeachIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/beaker.svg" width="24" height="24"> | `BeakerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/beats.svg" width="24" height="24"> | `BeatsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bed-empty.svg" width="24" height="24"> | `BedEmptyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/beer.svg" width="24" height="24"> | `BeerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/behance.svg" width="24" height="24"> | `BehanceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell.svg" width="24" height="24"> | `BellIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell-off.svg" width="24" height="24"> | `BellOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell-outline.svg" width="24" height="24"> | `BellOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell-plus.svg" width="24" height="24"> | `BellPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell-ring.svg" width="24" height="24"> | `BellRingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell-ring-outline.svg" width="24" height="24"> | `BellRingOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bell-sleep.svg" width="24" height="24"> | `BellSleepIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/beta.svg" width="24" height="24"> | `BetaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bible.svg" width="24" height="24"> | `BibleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bike.svg" width="24" height="24"> | `BikeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bing.svg" width="24" height="24"> | `BingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/binoculars.svg" width="24" height="24"> | `BinocularsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bio.svg" width="24" height="24"> | `BioIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/biohazard.svg" width="24" height="24"> | `BiohazardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bitbucket.svg" width="24" height="24"> | `BitbucketIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bitcoin.svg" width="24" height="24"> | `BitcoinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/black-mesa.svg" width="24" height="24"> | `BlackMesaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blackberry.svg" width="24" height="24"> | `BlackberryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blender.svg" width="24" height="24"> | `BlenderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blinds.svg" width="24" height="24"> | `BlindsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/block-helper.svg" width="24" height="24"> | `BlockHelperIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blogger.svg" width="24" height="24"> | `BloggerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-audio.svg" width="24" height="24"> | `BluetoothAudioIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-connect.svg" width="24" height="24"> | `BluetoothConnectIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth.svg" width="24" height="24"> | `BluetoothIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-off.svg" width="24" height="24"> | `BluetoothOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-settings.svg" width="24" height="24"> | `BluetoothSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bluetooth-transfer.svg" width="24" height="24"> | `BluetoothTransferIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blur.svg" width="24" height="24"> | `BlurIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blur-linear.svg" width="24" height="24"> | `BlurLinearIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blur-off.svg" width="24" height="24"> | `BlurOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/blur-radial.svg" width="24" height="24"> | `BlurRadialIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bomb.svg" width="24" height="24"> | `BombIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bomb-off.svg" width="24" height="24"> | `BombOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bone.svg" width="24" height="24"> | `BoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book.svg" width="24" height="24"> | `BookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-minus.svg" width="24" height="24"> | `BookMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-multiple.svg" width="24" height="24"> | `BookMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-multiple-variant.svg" width="24" height="24"> | `BookMultipleVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-open.svg" width="24" height="24"> | `BookOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-open-page-variant.svg" width="24" height="24"> | `BookOpenPageVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-open-variant.svg" width="24" height="24"> | `BookOpenVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-plus.svg" width="24" height="24"> | `BookPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-secure.svg" width="24" height="24"> | `BookSecureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-unsecure.svg" width="24" height="24"> | `BookUnsecureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/book-variant.svg" width="24" height="24"> | `BookVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-check.svg" width="24" height="24"> | `BookmarkCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark.svg" width="24" height="24"> | `BookmarkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-music.svg" width="24" height="24"> | `BookmarkMusicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-outline.svg" width="24" height="24"> | `BookmarkOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-plus.svg" width="24" height="24"> | `BookmarkPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-plus-outline.svg" width="24" height="24"> | `BookmarkPlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bookmark-remove.svg" width="24" height="24"> | `BookmarkRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/boombox.svg" width="24" height="24"> | `BoomboxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bootstrap.svg" width="24" height="24"> | `BootstrapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-all.svg" width="24" height="24"> | `BorderAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-all-variant.svg" width="24" height="24"> | `BorderAllVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-bottom.svg" width="24" height="24"> | `BorderBottomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-bottom-variant.svg" width="24" height="24"> | `BorderBottomVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-color.svg" width="24" height="24"> | `BorderColorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-horizontal.svg" width="24" height="24"> | `BorderHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-inside.svg" width="24" height="24"> | `BorderInsideIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-left.svg" width="24" height="24"> | `BorderLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-left-variant.svg" width="24" height="24"> | `BorderLeftVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-none.svg" width="24" height="24"> | `BorderNoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-none-variant.svg" width="24" height="24"> | `BorderNoneVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-outside.svg" width="24" height="24"> | `BorderOutsideIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-right.svg" width="24" height="24"> | `BorderRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-right-variant.svg" width="24" height="24"> | `BorderRightVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-style.svg" width="24" height="24"> | `BorderStyleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-top.svg" width="24" height="24"> | `BorderTopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-top-variant.svg" width="24" height="24"> | `BorderTopVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/border-vertical.svg" width="24" height="24"> | `BorderVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bottle-wine.svg" width="24" height="24"> | `BottleWineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bow-tie.svg" width="24" height="24"> | `BowTieIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bowl.svg" width="24" height="24"> | `BowlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bowling.svg" width="24" height="24"> | `BowlingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/box-cutter.svg" width="24" height="24"> | `BoxCutterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/box.svg" width="24" height="24"> | `BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/box-shadow.svg" width="24" height="24"> | `BoxShadowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bridge.svg" width="24" height="24"> | `BridgeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-check.svg" width="24" height="24"> | `BriefcaseCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-download.svg" width="24" height="24"> | `BriefcaseDownloadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase.svg" width="24" height="24"> | `BriefcaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-outline.svg" width="24" height="24"> | `BriefcaseOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/briefcase-upload.svg" width="24" height="24"> | `BriefcaseUploadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-auto.svg" width="24" height="24"> | `BrightnessAutoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-1.svg" width="24" height="24"> | `Brightness_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-2.svg" width="24" height="24"> | `Brightness_2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-3.svg" width="24" height="24"> | `Brightness_3Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-4.svg" width="24" height="24"> | `Brightness_4Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-5.svg" width="24" height="24"> | `Brightness_5Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-6.svg" width="24" height="24"> | `Brightness_6Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brightness-7.svg" width="24" height="24"> | `Brightness_7Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/broom.svg" width="24" height="24"> | `BroomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/brush.svg" width="24" height="24"> | `BrushIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/buffer.svg" width="24" height="24"> | `BufferIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bug.svg" width="24" height="24"> | `BugIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bulletin-board.svg" width="24" height="24"> | `BulletinBoardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bullhorn.svg" width="24" height="24"> | `BullhornIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bullseye.svg" width="24" height="24"> | `BullseyeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bus-articulated-end.svg" width="24" height="24"> | `BusArticulatedEndIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bus-articulated-front.svg" width="24" height="24"> | `BusArticulatedFrontIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bus-double-decker.svg" width="24" height="24"> | `BusDoubleDeckerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bus.svg" width="24" height="24"> | `BusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bus-school.svg" width="24" height="24"> | `BusSchoolIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/bus-side.svg" width="24" height="24"> | `BusSideIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cached.svg" width="24" height="24"> | `CachedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cake.svg" width="24" height="24"> | `CakeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cake-layered.svg" width="24" height="24"> | `CakeLayeredIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cake-variant.svg" width="24" height="24"> | `CakeVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calculator.svg" width="24" height="24"> | `CalculatorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-blank.svg" width="24" height="24"> | `CalendarBlankIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-check.svg" width="24" height="24"> | `CalendarCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-clock.svg" width="24" height="24"> | `CalendarClockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-edit.svg" width="24" height="24"> | `CalendarEditIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar.svg" width="24" height="24"> | `CalendarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-multiple-check.svg" width="24" height="24"> | `CalendarMultipleCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-multiple.svg" width="24" height="24"> | `CalendarMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-plus.svg" width="24" height="24"> | `CalendarPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-question.svg" width="24" height="24"> | `CalendarQuestionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-range.svg" width="24" height="24"> | `CalendarRangeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-remove.svg" width="24" height="24"> | `CalendarRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-text.svg" width="24" height="24"> | `CalendarTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/calendar-today.svg" width="24" height="24"> | `CalendarTodayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/call-made.svg" width="24" height="24"> | `CallMadeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/call-merge.svg" width="24" height="24"> | `CallMergeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/call-missed.svg" width="24" height="24"> | `CallMissedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/call-received.svg" width="24" height="24"> | `CallReceivedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/call-split.svg" width="24" height="24"> | `CallSplitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder-box.svg" width="24" height="24"> | `CamcorderBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder-box-off.svg" width="24" height="24"> | `CamcorderBoxOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder.svg" width="24" height="24"> | `CamcorderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camcorder-off.svg" width="24" height="24"> | `CamcorderOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-burst.svg" width="24" height="24"> | `CameraBurstIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-enhance.svg" width="24" height="24"> | `CameraEnhanceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-front.svg" width="24" height="24"> | `CameraFrontIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-front-variant.svg" width="24" height="24"> | `CameraFrontVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-gopro.svg" width="24" height="24"> | `CameraGoproIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera.svg" width="24" height="24"> | `CameraIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-iris.svg" width="24" height="24"> | `CameraIrisIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-center.svg" width="24" height="24"> | `CameraMeteringCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-matrix.svg" width="24" height="24"> | `CameraMeteringMatrixIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-partial.svg" width="24" height="24"> | `CameraMeteringPartialIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-metering-spot.svg" width="24" height="24"> | `CameraMeteringSpotIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-off.svg" width="24" height="24"> | `CameraOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-party-mode.svg" width="24" height="24"> | `CameraPartyModeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-rear.svg" width="24" height="24"> | `CameraRearIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-rear-variant.svg" width="24" height="24"> | `CameraRearVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-switch.svg" width="24" height="24"> | `CameraSwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/camera-timer.svg" width="24" height="24"> | `CameraTimerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cancel.svg" width="24" height="24"> | `CancelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/candle.svg" width="24" height="24"> | `CandleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/candycane.svg" width="24" height="24"> | `CandycaneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cannabis.svg" width="24" height="24"> | `CannabisIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-battery.svg" width="24" height="24"> | `CarBatteryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-connected.svg" width="24" height="24"> | `CarConnectedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-convertible.svg" width="24" height="24"> | `CarConvertibleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-estate.svg" width="24" height="24"> | `CarEstateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-hatchback.svg" width="24" height="24"> | `CarHatchbackIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car.svg" width="24" height="24"> | `CarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-pickup.svg" width="24" height="24"> | `CarPickupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-side.svg" width="24" height="24"> | `CarSideIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-sports.svg" width="24" height="24"> | `CarSportsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/car-wash.svg" width="24" height="24"> | `CarWashIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/caravan.svg" width="24" height="24"> | `CaravanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cards.svg" width="24" height="24"> | `CardsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cards-outline.svg" width="24" height="24"> | `CardsOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cards-playing-outline.svg" width="24" height="24"> | `CardsPlayingOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cards-variant.svg" width="24" height="24"> | `CardsVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/carrot.svg" width="24" height="24"> | `CarrotIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cart.svg" width="24" height="24"> | `CartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cart-off.svg" width="24" height="24"> | `CartOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cart-outline.svg" width="24" height="24"> | `CartOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cart-plus.svg" width="24" height="24"> | `CartPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/case-sensitive-alt.svg" width="24" height="24"> | `CaseSensitiveAltIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cash.svg" width="24" height="24"> | `CashIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cash-multiple.svg" width="24" height="24"> | `CashMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cash-usd.svg" width="24" height="24"> | `CashUsdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cash-100.svg" width="24" height="24"> | `Cash_100Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cast-connected.svg" width="24" height="24"> | `CastConnectedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cast.svg" width="24" height="24"> | `CastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cast-off.svg" width="24" height="24"> | `CastOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/castle.svg" width="24" height="24"> | `CastleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cat.svg" width="24" height="24"> | `CatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cctv.svg" width="24" height="24"> | `CctvIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ceiling-light.svg" width="24" height="24"> | `CeilingLightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-android.svg" width="24" height="24"> | `CellphoneAndroidIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-basic.svg" width="24" height="24"> | `CellphoneBasicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-dock.svg" width="24" height="24"> | `CellphoneDockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone.svg" width="24" height="24"> | `CellphoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-iphone.svg" width="24" height="24"> | `CellphoneIphoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-link.svg" width="24" height="24"> | `CellphoneLinkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-link-off.svg" width="24" height="24"> | `CellphoneLinkOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-settings.svg" width="24" height="24"> | `CellphoneSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cellphone-wireless.svg" width="24" height="24"> | `CellphoneWirelessIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/certificate.svg" width="24" height="24"> | `CertificateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chair-school.svg" width="24" height="24"> | `ChairSchoolIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-arc.svg" width="24" height="24"> | `ChartArcIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-areaspline.svg" width="24" height="24"> | `ChartAreasplineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-bar.svg" width="24" height="24"> | `ChartBarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-bar-stacked.svg" width="24" height="24"> | `ChartBarStackedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-bubble.svg" width="24" height="24"> | `ChartBubbleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-donut.svg" width="24" height="24"> | `ChartDonutIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-donut-variant.svg" width="24" height="24"> | `ChartDonutVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-gantt.svg" width="24" height="24"> | `ChartGanttIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-histogram.svg" width="24" height="24"> | `ChartHistogramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-line.svg" width="24" height="24"> | `ChartLineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-line-stacked.svg" width="24" height="24"> | `ChartLineStackedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-line-variant.svg" width="24" height="24"> | `ChartLineVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-pie.svg" width="24" height="24"> | `ChartPieIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-scatterplot-hexbin.svg" width="24" height="24"> | `ChartScatterplotHexbinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chart-timeline.svg" width="24" height="24"> | `ChartTimelineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/check-all.svg" width="24" height="24"> | `CheckAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/check-circle.svg" width="24" height="24"> | `CheckCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/check-circle-outline.svg" width="24" height="24"> | `CheckCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/check.svg" width="24" height="24"> | `CheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/check-outline.svg" width="24" height="24"> | `CheckOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank-circle.svg" width="24" height="24"> | `CheckboxBlankCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank-circle-outline.svg" width="24" height="24"> | `CheckboxBlankCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank.svg" width="24" height="24"> | `CheckboxBlankIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-blank-outline.svg" width="24" height="24"> | `CheckboxBlankOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-intermediate.svg" width="24" height="24"> | `CheckboxIntermediateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked-circle.svg" width="24" height="24"> | `CheckboxMarkedCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked-circle-outline.svg" width="24" height="24"> | `CheckboxMarkedCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked.svg" width="24" height="24"> | `CheckboxMarkedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-marked-outline.svg" width="24" height="24"> | `CheckboxMarkedOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank-circle.svg" width="24" height="24"> | `CheckboxMultipleBlankCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank-circle-outline.svg" width="24" height="24"> | `CheckboxMultipleBlankCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank.svg" width="24" height="24"> | `CheckboxMultipleBlankIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-blank-outline.svg" width="24" height="24"> | `CheckboxMultipleBlankOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked-circle.svg" width="24" height="24"> | `CheckboxMultipleMarkedCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked-circle-outline.svg" width="24" height="24"> | `CheckboxMultipleMarkedCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked.svg" width="24" height="24"> | `CheckboxMultipleMarkedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkbox-multiple-marked-outline.svg" width="24" height="24"> | `CheckboxMultipleMarkedOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/checkerboard.svg" width="24" height="24"> | `CheckerboardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chemical-weapon.svg" width="24" height="24"> | `ChemicalWeaponIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chess-bishop.svg" width="24" height="24"> | `ChessBishopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chess-king.svg" width="24" height="24"> | `ChessKingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chess-knight.svg" width="24" height="24"> | `ChessKnightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chess-pawn.svg" width="24" height="24"> | `ChessPawnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chess-queen.svg" width="24" height="24"> | `ChessQueenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chess-rook.svg" width="24" height="24"> | `ChessRookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-down.svg" width="24" height="24"> | `ChevronDoubleDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-left.svg" width="24" height="24"> | `ChevronDoubleLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-right.svg" width="24" height="24"> | `ChevronDoubleRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-double-up.svg" width="24" height="24"> | `ChevronDoubleUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-down.svg" width="24" height="24"> | `ChevronDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-left.svg" width="24" height="24"> | `ChevronLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-right.svg" width="24" height="24"> | `ChevronRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chevron-up.svg" width="24" height="24"> | `ChevronUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chili-hot.svg" width="24" height="24"> | `ChiliHotIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chili-medium.svg" width="24" height="24"> | `ChiliMediumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chili-mild.svg" width="24" height="24"> | `ChiliMildIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/chip.svg" width="24" height="24"> | `ChipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/church.svg" width="24" height="24"> | `ChurchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/circle.svg" width="24" height="24"> | `CircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/circle-outline.svg" width="24" height="24"> | `CircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cisco-webex.svg" width="24" height="24"> | `CiscoWebexIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/city.svg" width="24" height="24"> | `CityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-account.svg" width="24" height="24"> | `ClipboardAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-alert.svg" width="24" height="24"> | `ClipboardAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-arrow-down.svg" width="24" height="24"> | `ClipboardArrowDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-arrow-left.svg" width="24" height="24"> | `ClipboardArrowLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-check.svg" width="24" height="24"> | `ClipboardCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-check-outline.svg" width="24" height="24"> | `ClipboardCheckOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-flow.svg" width="24" height="24"> | `ClipboardFlowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard.svg" width="24" height="24"> | `ClipboardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-outline.svg" width="24" height="24"> | `ClipboardOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-plus.svg" width="24" height="24"> | `ClipboardPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-pulse.svg" width="24" height="24"> | `ClipboardPulseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-pulse-outline.svg" width="24" height="24"> | `ClipboardPulseOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clipboard-text.svg" width="24" height="24"> | `ClipboardTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clippy.svg" width="24" height="24"> | `ClippyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock-alert.svg" width="24" height="24"> | `ClockAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock-end.svg" width="24" height="24"> | `ClockEndIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock-fast.svg" width="24" height="24"> | `ClockFastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock.svg" width="24" height="24"> | `ClockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock-in.svg" width="24" height="24"> | `ClockInIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock-out.svg" width="24" height="24"> | `ClockOutIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clock-start.svg" width="24" height="24"> | `ClockStartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-box.svg" width="24" height="24"> | `CloseBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-box-outline.svg" width="24" height="24"> | `CloseBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-circle.svg" width="24" height="24"> | `CloseCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-circle-outline.svg" width="24" height="24"> | `CloseCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close.svg" width="24" height="24"> | `CloseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-network.svg" width="24" height="24"> | `CloseNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-octagon.svg" width="24" height="24"> | `CloseOctagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-octagon-outline.svg" width="24" height="24"> | `CloseOctagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/close-outline.svg" width="24" height="24"> | `CloseOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/closed-caption.svg" width="24" height="24"> | `ClosedCaptionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-braces.svg" width="24" height="24"> | `CloudBracesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-check.svg" width="24" height="24"> | `CloudCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-circle.svg" width="24" height="24"> | `CloudCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-download.svg" width="24" height="24"> | `CloudDownloadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud.svg" width="24" height="24"> | `CloudIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-off-outline.svg" width="24" height="24"> | `CloudOffOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-outline.svg" width="24" height="24"> | `CloudOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-print.svg" width="24" height="24"> | `CloudPrintIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-print-outline.svg" width="24" height="24"> | `CloudPrintOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-sync.svg" width="24" height="24"> | `CloudSyncIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-tags.svg" width="24" height="24"> | `CloudTagsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cloud-upload.svg" width="24" height="24"> | `CloudUploadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/clover.svg" width="24" height="24"> | `CloverIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-array.svg" width="24" height="24"> | `CodeArrayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-braces.svg" width="24" height="24"> | `CodeBracesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-brackets.svg" width="24" height="24"> | `CodeBracketsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-equal.svg" width="24" height="24"> | `CodeEqualIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-greater-than.svg" width="24" height="24"> | `CodeGreaterThanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-greater-than-or-equal.svg" width="24" height="24"> | `CodeGreaterThanOrEqualIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-less-than.svg" width="24" height="24"> | `CodeLessThanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-less-than-or-equal.svg" width="24" height="24"> | `CodeLessThanOrEqualIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-not-equal.svg" width="24" height="24"> | `CodeNotEqualIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-not-equal-variant.svg" width="24" height="24"> | `CodeNotEqualVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-parentheses.svg" width="24" height="24"> | `CodeParenthesesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-string.svg" width="24" height="24"> | `CodeStringIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-tags-check.svg" width="24" height="24"> | `CodeTagsCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/code-tags.svg" width="24" height="24"> | `CodeTagsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/codepen.svg" width="24" height="24"> | `CodepenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/coffee.svg" width="24" height="24"> | `CoffeeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/coffee-outline.svg" width="24" height="24"> | `CoffeeOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/coffee-to-go.svg" width="24" height="24"> | `CoffeeToGoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/coin.svg" width="24" height="24"> | `CoinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/coins.svg" width="24" height="24"> | `CoinsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/collage.svg" width="24" height="24"> | `CollageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/color-helper.svg" width="24" height="24"> | `ColorHelperIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-account.svg" width="24" height="24"> | `CommentAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-account-outline.svg" width="24" height="24"> | `CommentAccountOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-alert.svg" width="24" height="24"> | `CommentAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-alert-outline.svg" width="24" height="24"> | `CommentAlertOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-check.svg" width="24" height="24"> | `CommentCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-check-outline.svg" width="24" height="24"> | `CommentCheckOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment.svg" width="24" height="24"> | `CommentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-multiple.svg" width="24" height="24"> | `CommentMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-multiple-outline.svg" width="24" height="24"> | `CommentMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-outline.svg" width="24" height="24"> | `CommentOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-plus-outline.svg" width="24" height="24"> | `CommentPlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-processing.svg" width="24" height="24"> | `CommentProcessingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-processing-outline.svg" width="24" height="24"> | `CommentProcessingOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-question.svg" width="24" height="24"> | `CommentQuestionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-question-outline.svg" width="24" height="24"> | `CommentQuestionOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-remove.svg" width="24" height="24"> | `CommentRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-remove-outline.svg" width="24" height="24"> | `CommentRemoveOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text.svg" width="24" height="24"> | `CommentTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text-multiple.svg" width="24" height="24"> | `CommentTextMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text-multiple-outline.svg" width="24" height="24"> | `CommentTextMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/comment-text-outline.svg" width="24" height="24"> | `CommentTextOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/compare.svg" width="24" height="24"> | `CompareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/compass.svg" width="24" height="24"> | `CompassIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/compass-outline.svg" width="24" height="24"> | `CompassOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/console.svg" width="24" height="24"> | `ConsoleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/console-line.svg" width="24" height="24"> | `ConsoleLineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/console-network.svg" width="24" height="24"> | `ConsoleNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/contact-mail.svg" width="24" height="24"> | `ContactMailIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/contacts.svg" width="24" height="24"> | `ContactsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-copy.svg" width="24" height="24"> | `ContentCopyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-cut.svg" width="24" height="24"> | `ContentCutIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-duplicate.svg" width="24" height="24"> | `ContentDuplicateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-paste.svg" width="24" height="24"> | `ContentPasteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-save-all.svg" width="24" height="24"> | `ContentSaveAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-save.svg" width="24" height="24"> | `ContentSaveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-save-outline.svg" width="24" height="24"> | `ContentSaveOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/content-save-settings.svg" width="24" height="24"> | `ContentSaveSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/contrast-box.svg" width="24" height="24"> | `ContrastBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/contrast-circle.svg" width="24" height="24"> | `ContrastCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/contrast.svg" width="24" height="24"> | `ContrastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cookie.svg" width="24" height="24"> | `CookieIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/copyright.svg" width="24" height="24"> | `CopyrightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/corn.svg" width="24" height="24"> | `CornIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/counter.svg" width="24" height="24"> | `CounterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cow.svg" width="24" height="24"> | `CowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crane.svg" width="24" height="24"> | `CraneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/creation.svg" width="24" height="24"> | `CreationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card.svg" width="24" height="24"> | `CreditCardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-multiple.svg" width="24" height="24"> | `CreditCardMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-off.svg" width="24" height="24"> | `CreditCardOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-plus.svg" width="24" height="24"> | `CreditCardPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/credit-card-scan.svg" width="24" height="24"> | `CreditCardScanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crop-free.svg" width="24" height="24"> | `CropFreeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crop.svg" width="24" height="24"> | `CropIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crop-landscape.svg" width="24" height="24"> | `CropLandscapeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crop-portrait.svg" width="24" height="24"> | `CropPortraitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crop-rotate.svg" width="24" height="24"> | `CropRotateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crop-square.svg" width="24" height="24"> | `CropSquareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crosshairs-gps.svg" width="24" height="24"> | `CrosshairsGpsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crosshairs.svg" width="24" height="24"> | `CrosshairsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/crown.svg" width="24" height="24"> | `CrownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cube.svg" width="24" height="24"> | `CubeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cube-outline.svg" width="24" height="24"> | `CubeOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cube-send.svg" width="24" height="24"> | `CubeSendIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cube-unfolded.svg" width="24" height="24"> | `CubeUnfoldedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cup.svg" width="24" height="24"> | `CupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cup-off.svg" width="24" height="24"> | `CupOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cup-water.svg" width="24" height="24"> | `CupWaterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/curling.svg" width="24" height="24"> | `CurlingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-bdt.svg" width="24" height="24"> | `CurrencyBdtIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-btc.svg" width="24" height="24"> | `CurrencyBtcIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-chf.svg" width="24" height="24"> | `CurrencyChfIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-cny.svg" width="24" height="24"> | `CurrencyCnyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-eth.svg" width="24" height="24"> | `CurrencyEthIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-eur.svg" width="24" height="24"> | `CurrencyEurIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-gbp.svg" width="24" height="24"> | `CurrencyGbpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-inr.svg" width="24" height="24"> | `CurrencyInrIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-jpy.svg" width="24" height="24"> | `CurrencyJpyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-krw.svg" width="24" height="24"> | `CurrencyKrwIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-kzt.svg" width="24" height="24"> | `CurrencyKztIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-ngn.svg" width="24" height="24"> | `CurrencyNgnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-rub.svg" width="24" height="24"> | `CurrencyRubIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-sign.svg" width="24" height="24"> | `CurrencySignIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-try.svg" width="24" height="24"> | `CurrencyTryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-twd.svg" width="24" height="24"> | `CurrencyTwdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-usd.svg" width="24" height="24"> | `CurrencyUsdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/currency-usd-off.svg" width="24" height="24"> | `CurrencyUsdOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-default.svg" width="24" height="24"> | `CursorDefaultIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-default-outline.svg" width="24" height="24"> | `CursorDefaultOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-move.svg" width="24" height="24"> | `CursorMoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-pointer.svg" width="24" height="24"> | `CursorPointerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/cursor-text.svg" width="24" height="24"> | `CursorTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/database.svg" width="24" height="24"> | `DatabaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/database-minus.svg" width="24" height="24"> | `DatabaseMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/database-plus.svg" width="24" height="24"> | `DatabasePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/database-search.svg" width="24" height="24"> | `DatabaseSearchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/debug-step-into.svg" width="24" height="24"> | `DebugStepIntoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/debug-step-out.svg" width="24" height="24"> | `DebugStepOutIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/debug-step-over.svg" width="24" height="24"> | `DebugStepOverIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/decagram.svg" width="24" height="24"> | `DecagramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/decagram-outline.svg" width="24" height="24"> | `DecagramOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/decimal-decrease.svg" width="24" height="24"> | `DecimalDecreaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/decimal-increase.svg" width="24" height="24"> | `DecimalIncreaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete-circle.svg" width="24" height="24"> | `DeleteCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete-empty.svg" width="24" height="24"> | `DeleteEmptyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete-forever.svg" width="24" height="24"> | `DeleteForeverIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete.svg" width="24" height="24"> | `DeleteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete-restore.svg" width="24" height="24"> | `DeleteRestoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete-sweep.svg" width="24" height="24"> | `DeleteSweepIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delete-variant.svg" width="24" height="24"> | `DeleteVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/delta.svg" width="24" height="24"> | `DeltaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/deskphone.svg" width="24" height="24"> | `DeskphoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/desktop-classic.svg" width="24" height="24"> | `DesktopClassicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/desktop-mac.svg" width="24" height="24"> | `DesktopMacIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/desktop-tower.svg" width="24" height="24"> | `DesktopTowerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/details.svg" width="24" height="24"> | `DetailsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/developer-board.svg" width="24" height="24"> | `DeveloperBoardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/deviantart.svg" width="24" height="24"> | `DeviantartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dialpad.svg" width="24" height="24"> | `DialpadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/diamond.svg" width="24" height="24"> | `DiamondIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d10.svg" width="24" height="24"> | `DiceD10Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d12.svg" width="24" height="24"> | `DiceD12Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d20.svg" width="24" height="24"> | `DiceD20Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d4.svg" width="24" height="24"> | `DiceD4Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d6.svg" width="24" height="24"> | `DiceD6Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-d8.svg" width="24" height="24"> | `DiceD8Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-multiple.svg" width="24" height="24"> | `DiceMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-1.svg" width="24" height="24"> | `Dice_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-2.svg" width="24" height="24"> | `Dice_2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-3.svg" width="24" height="24"> | `Dice_3Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-4.svg" width="24" height="24"> | `Dice_4Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-5.svg" width="24" height="24"> | `Dice_5Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dice-6.svg" width="24" height="24"> | `Dice_6Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dictionary.svg" width="24" height="24"> | `DictionaryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dip-switch.svg" width="24" height="24"> | `DipSwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/directions-fork.svg" width="24" height="24"> | `DirectionsForkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/directions.svg" width="24" height="24"> | `DirectionsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/discord.svg" width="24" height="24"> | `DiscordIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/disk-alert.svg" width="24" height="24"> | `DiskAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/disk.svg" width="24" height="24"> | `DiskIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/disqus.svg" width="24" height="24"> | `DisqusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/disqus-outline.svg" width="24" height="24"> | `DisqusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/division-box.svg" width="24" height="24"> | `DivisionBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/division.svg" width="24" height="24"> | `DivisionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dna.svg" width="24" height="24"> | `DnaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dns.svg" width="24" height="24"> | `DnsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/do-not-disturb.svg" width="24" height="24"> | `DoNotDisturbIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/do-not-disturb-off.svg" width="24" height="24"> | `DoNotDisturbOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/docker.svg" width="24" height="24"> | `DockerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dolby.svg" width="24" height="24"> | `DolbyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/domain.svg" width="24" height="24"> | `DomainIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/donkey.svg" width="24" height="24"> | `DonkeyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/door-closed.svg" width="24" height="24"> | `DoorClosedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/door.svg" width="24" height="24"> | `DoorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/door-open.svg" width="24" height="24"> | `DoorOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/doorbell-video.svg" width="24" height="24"> | `DoorbellVideoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dots-horizontal-circle.svg" width="24" height="24"> | `DotsHorizontalCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dots-horizontal.svg" width="24" height="24"> | `DotsHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dots-vertical-circle.svg" width="24" height="24"> | `DotsVerticalCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dots-vertical.svg" width="24" height="24"> | `DotsVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/douban.svg" width="24" height="24"> | `DoubanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/download.svg" width="24" height="24"> | `DownloadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/download-network.svg" width="24" height="24"> | `DownloadNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drag-horizontal.svg" width="24" height="24"> | `DragHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drag.svg" width="24" height="24"> | `DragIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drag-vertical.svg" width="24" height="24"> | `DragVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drawing-box.svg" width="24" height="24"> | `DrawingBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drawing.svg" width="24" height="24"> | `DrawingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dribbble-box.svg" width="24" height="24"> | `DribbbleBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dribbble.svg" width="24" height="24"> | `DribbbleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drone.svg" width="24" height="24"> | `DroneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dropbox.svg" width="24" height="24"> | `DropboxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/drupal.svg" width="24" height="24"> | `DrupalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/duck.svg" width="24" height="24"> | `DuckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/dumbbell.svg" width="24" height="24"> | `DumbbellIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ear-hearing.svg" width="24" height="24"> | `EarHearingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/earth-box.svg" width="24" height="24"> | `EarthBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/earth-box-off.svg" width="24" height="24"> | `EarthBoxOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/earth.svg" width="24" height="24"> | `EarthIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/earth-off.svg" width="24" height="24"> | `EarthOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/edge.svg" width="24" height="24"> | `EdgeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eject.svg" width="24" height="24"> | `EjectIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/elephant.svg" width="24" height="24"> | `ElephantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/elevation-decline.svg" width="24" height="24"> | `ElevationDeclineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/elevation-rise.svg" width="24" height="24"> | `ElevationRiseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/elevator.svg" width="24" height="24"> | `ElevatorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email-alert.svg" width="24" height="24"> | `EmailAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email.svg" width="24" height="24"> | `EmailIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email-open.svg" width="24" height="24"> | `EmailOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email-open-outline.svg" width="24" height="24"> | `EmailOpenOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email-outline.svg" width="24" height="24"> | `EmailOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email-secure.svg" width="24" height="24"> | `EmailSecureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/email-variant.svg" width="24" height="24"> | `EmailVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emby.svg" width="24" height="24"> | `EmbyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-cool.svg" width="24" height="24"> | `EmoticonCoolIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-dead.svg" width="24" height="24"> | `EmoticonDeadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-devil.svg" width="24" height="24"> | `EmoticonDevilIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-excited.svg" width="24" height="24"> | `EmoticonExcitedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-happy.svg" width="24" height="24"> | `EmoticonHappyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon.svg" width="24" height="24"> | `EmoticonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-neutral.svg" width="24" height="24"> | `EmoticonNeutralIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-poop.svg" width="24" height="24"> | `EmoticonPoopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-sad.svg" width="24" height="24"> | `EmoticonSadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/emoticon-tongue.svg" width="24" height="24"> | `EmoticonTongueIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/engine.svg" width="24" height="24"> | `EngineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/engine-outline.svg" width="24" height="24"> | `EngineOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/equal-box.svg" width="24" height="24"> | `EqualBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/equal.svg" width="24" height="24"> | `EqualIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eraser.svg" width="24" height="24"> | `EraserIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eraser-variant.svg" width="24" height="24"> | `EraserVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/escalator.svg" width="24" height="24"> | `EscalatorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ethereum.svg" width="24" height="24"> | `EthereumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ethernet-cable.svg" width="24" height="24"> | `EthernetCableIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ethernet-cable-off.svg" width="24" height="24"> | `EthernetCableOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ethernet.svg" width="24" height="24"> | `EthernetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/etsy.svg" width="24" height="24"> | `EtsyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ev-station.svg" width="24" height="24"> | `EvStationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eventbrite.svg" width="24" height="24"> | `EventbriteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/evernote.svg" width="24" height="24"> | `EvernoteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/exclamation.svg" width="24" height="24"> | `ExclamationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/exit-to-app.svg" width="24" height="24"> | `ExitToAppIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/export.svg" width="24" height="24"> | `ExportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye.svg" width="24" height="24"> | `EyeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-off.svg" width="24" height="24"> | `EyeOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-off-outline.svg" width="24" height="24"> | `EyeOffOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-outline.svg" width="24" height="24"> | `EyeOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-plus.svg" width="24" height="24"> | `EyePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-plus-outline.svg" width="24" height="24"> | `EyePlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-settings.svg" width="24" height="24"> | `EyeSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eye-settings-outline.svg" width="24" height="24"> | `EyeSettingsOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eyedropper.svg" width="24" height="24"> | `EyedropperIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/eyedropper-variant.svg" width="24" height="24"> | `EyedropperVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/face.svg" width="24" height="24"> | `FaceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/face-profile.svg" width="24" height="24"> | `FaceProfileIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/facebook-box.svg" width="24" height="24"> | `FacebookBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/facebook.svg" width="24" height="24"> | `FacebookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/facebook-messenger.svg" width="24" height="24"> | `FacebookMessengerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/factory.svg" width="24" height="24"> | `FactoryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fan.svg" width="24" height="24"> | `FanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fan-off.svg" width="24" height="24"> | `FanOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fast-forward.svg" width="24" height="24"> | `FastForwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fast-forward-outline.svg" width="24" height="24"> | `FastForwardOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fax.svg" width="24" height="24"> | `FaxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/feather.svg" width="24" height="24"> | `FeatherIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ferry.svg" width="24" height="24"> | `FerryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-account.svg" width="24" height="24"> | `FileAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-chart.svg" width="24" height="24"> | `FileChartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-check.svg" width="24" height="24"> | `FileCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-cloud.svg" width="24" height="24"> | `FileCloudIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-compare.svg" width="24" height="24"> | `FileCompareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-delimited.svg" width="24" height="24"> | `FileDelimitedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-document-box.svg" width="24" height="24"> | `FileDocumentBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-document.svg" width="24" height="24"> | `FileDocumentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-excel-box.svg" width="24" height="24"> | `FileExcelBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-excel.svg" width="24" height="24"> | `FileExcelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-export.svg" width="24" height="24"> | `FileExportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-find.svg" width="24" height="24"> | `FileFindIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-hidden.svg" width="24" height="24"> | `FileHiddenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file.svg" width="24" height="24"> | `FileIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-image.svg" width="24" height="24"> | `FileImageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-import.svg" width="24" height="24"> | `FileImportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-lock.svg" width="24" height="24"> | `FileLockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-multiple.svg" width="24" height="24"> | `FileMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-music.svg" width="24" height="24"> | `FileMusicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-outline.svg" width="24" height="24"> | `FileOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-pdf-box.svg" width="24" height="24"> | `FilePdfBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-pdf.svg" width="24" height="24"> | `FilePdfIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-percent.svg" width="24" height="24"> | `FilePercentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-plus.svg" width="24" height="24"> | `FilePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-powerpoint-box.svg" width="24" height="24"> | `FilePowerpointBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-powerpoint.svg" width="24" height="24"> | `FilePowerpointIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-presentation-box.svg" width="24" height="24"> | `FilePresentationBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-question.svg" width="24" height="24"> | `FileQuestionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-restore.svg" width="24" height="24"> | `FileRestoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-send.svg" width="24" height="24"> | `FileSendIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-tree.svg" width="24" height="24"> | `FileTreeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-video.svg" width="24" height="24"> | `FileVideoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-word-box.svg" width="24" height="24"> | `FileWordBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-word.svg" width="24" height="24"> | `FileWordIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/file-xml.svg" width="24" height="24"> | `FileXmlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/film.svg" width="24" height="24"> | `FilmIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filmstrip.svg" width="24" height="24"> | `FilmstripIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filmstrip-off.svg" width="24" height="24"> | `FilmstripOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filter.svg" width="24" height="24"> | `FilterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filter-outline.svg" width="24" height="24"> | `FilterOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filter-remove.svg" width="24" height="24"> | `FilterRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filter-remove-outline.svg" width="24" height="24"> | `FilterRemoveOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/filter-variant.svg" width="24" height="24"> | `FilterVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/finance.svg" width="24" height="24"> | `FinanceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/find-replace.svg" width="24" height="24"> | `FindReplaceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fingerprint.svg" width="24" height="24"> | `FingerprintIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fire.svg" width="24" height="24"> | `FireIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fire-truck.svg" width="24" height="24"> | `FireTruckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/firefox.svg" width="24" height="24"> | `FirefoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fish.svg" width="24" height="24"> | `FishIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flag-checkered.svg" width="24" height="24"> | `FlagCheckeredIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flag.svg" width="24" height="24"> | `FlagIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flag-outline.svg" width="24" height="24"> | `FlagOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flag-triangle.svg" width="24" height="24"> | `FlagTriangleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flag-variant.svg" width="24" height="24"> | `FlagVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flag-variant-outline.svg" width="24" height="24"> | `FlagVariantOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flash-auto.svg" width="24" height="24"> | `FlashAutoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flash-circle.svg" width="24" height="24"> | `FlashCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flash.svg" width="24" height="24"> | `FlashIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flash-off.svg" width="24" height="24"> | `FlashOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flash-outline.svg" width="24" height="24"> | `FlashOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flash-red-eye.svg" width="24" height="24"> | `FlashRedEyeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flashlight.svg" width="24" height="24"> | `FlashlightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flashlight-off.svg" width="24" height="24"> | `FlashlightOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flask-empty.svg" width="24" height="24"> | `FlaskEmptyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flask-empty-outline.svg" width="24" height="24"> | `FlaskEmptyOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flask.svg" width="24" height="24"> | `FlaskIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flask-outline.svg" width="24" height="24"> | `FlaskOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flattr.svg" width="24" height="24"> | `FlattrIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flip-to-back.svg" width="24" height="24"> | `FlipToBackIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flip-to-front.svg" width="24" height="24"> | `FlipToFrontIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/floor-plan.svg" width="24" height="24"> | `FloorPlanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/floppy.svg" width="24" height="24"> | `FloppyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/flower.svg" width="24" height="24"> | `FlowerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-account.svg" width="24" height="24"> | `FolderAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-download.svg" width="24" height="24"> | `FolderDownloadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-google-drive.svg" width="24" height="24"> | `FolderGoogleDriveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder.svg" width="24" height="24"> | `FolderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-image.svg" width="24" height="24"> | `FolderImageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-key.svg" width="24" height="24"> | `FolderKeyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-key-network.svg" width="24" height="24"> | `FolderKeyNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-lock.svg" width="24" height="24"> | `FolderLockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-lock-open.svg" width="24" height="24"> | `FolderLockOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-move.svg" width="24" height="24"> | `FolderMoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-multiple.svg" width="24" height="24"> | `FolderMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-multiple-image.svg" width="24" height="24"> | `FolderMultipleImageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-multiple-outline.svg" width="24" height="24"> | `FolderMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-network.svg" width="24" height="24"> | `FolderNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-open.svg" width="24" height="24"> | `FolderOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-outline.svg" width="24" height="24"> | `FolderOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-plus.svg" width="24" height="24"> | `FolderPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-remove.svg" width="24" height="24"> | `FolderRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-star.svg" width="24" height="24"> | `FolderStarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/folder-upload.svg" width="24" height="24"> | `FolderUploadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/font-awesome.svg" width="24" height="24"> | `FontAwesomeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/food-apple.svg" width="24" height="24"> | `FoodAppleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/food-croissant.svg" width="24" height="24"> | `FoodCroissantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/food-fork-drink.svg" width="24" height="24"> | `FoodForkDrinkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/food.svg" width="24" height="24"> | `FoodIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/food-off.svg" width="24" height="24"> | `FoodOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/food-variant.svg" width="24" height="24"> | `FoodVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/football-australian.svg" width="24" height="24"> | `FootballAustralianIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/football-helmet.svg" width="24" height="24"> | `FootballHelmetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/football.svg" width="24" height="24"> | `FootballIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/forklift.svg" width="24" height="24"> | `ForkliftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-bottom.svg" width="24" height="24"> | `FormatAlignBottomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-center.svg" width="24" height="24"> | `FormatAlignCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-justify.svg" width="24" height="24"> | `FormatAlignJustifyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-left.svg" width="24" height="24"> | `FormatAlignLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-middle.svg" width="24" height="24"> | `FormatAlignMiddleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-right.svg" width="24" height="24"> | `FormatAlignRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-align-top.svg" width="24" height="24"> | `FormatAlignTopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-annotation-plus.svg" width="24" height="24"> | `FormatAnnotationPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-bold.svg" width="24" height="24"> | `FormatBoldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-clear.svg" width="24" height="24"> | `FormatClearIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-color-fill.svg" width="24" height="24"> | `FormatColorFillIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-color-text.svg" width="24" height="24"> | `FormatColorTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-center.svg" width="24" height="24"> | `FormatFloatCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-left.svg" width="24" height="24"> | `FormatFloatLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-none.svg" width="24" height="24"> | `FormatFloatNoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-float-right.svg" width="24" height="24"> | `FormatFloatRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-font.svg" width="24" height="24"> | `FormatFontIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-decrease.svg" width="24" height="24"> | `FormatHeaderDecreaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-equal.svg" width="24" height="24"> | `FormatHeaderEqualIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-increase.svg" width="24" height="24"> | `FormatHeaderIncreaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-pound.svg" width="24" height="24"> | `FormatHeaderPoundIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-1.svg" width="24" height="24"> | `FormatHeader_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-2.svg" width="24" height="24"> | `FormatHeader_2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-3.svg" width="24" height="24"> | `FormatHeader_3Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-4.svg" width="24" height="24"> | `FormatHeader_4Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-5.svg" width="24" height="24"> | `FormatHeader_5Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-header-6.svg" width="24" height="24"> | `FormatHeader_6Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-horizontal-align-center.svg" width="24" height="24"> | `FormatHorizontalAlignCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-horizontal-align-left.svg" width="24" height="24"> | `FormatHorizontalAlignLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-horizontal-align-right.svg" width="24" height="24"> | `FormatHorizontalAlignRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-indent-decrease.svg" width="24" height="24"> | `FormatIndentDecreaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-indent-increase.svg" width="24" height="24"> | `FormatIndentIncreaseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-italic.svg" width="24" height="24"> | `FormatItalicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-line-spacing.svg" width="24" height="24"> | `FormatLineSpacingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-line-style.svg" width="24" height="24"> | `FormatLineStyleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-line-weight.svg" width="24" height="24"> | `FormatLineWeightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-bulleted.svg" width="24" height="24"> | `FormatListBulletedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-bulleted-type.svg" width="24" height="24"> | `FormatListBulletedTypeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-checks.svg" width="24" height="24"> | `FormatListChecksIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-list-numbers.svg" width="24" height="24"> | `FormatListNumbersIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-page-break.svg" width="24" height="24"> | `FormatPageBreakIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-paint.svg" width="24" height="24"> | `FormatPaintIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-paragraph.svg" width="24" height="24"> | `FormatParagraphIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-pilcrow.svg" width="24" height="24"> | `FormatPilcrowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-quote-close.svg" width="24" height="24"> | `FormatQuoteCloseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-quote-open.svg" width="24" height="24"> | `FormatQuoteOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-rotate-90.svg" width="24" height="24"> | `FormatRotate_90Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-section.svg" width="24" height="24"> | `FormatSectionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-size.svg" width="24" height="24"> | `FormatSizeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-strikethrough.svg" width="24" height="24"> | `FormatStrikethroughIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-strikethrough-variant.svg" width="24" height="24"> | `FormatStrikethroughVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-subscript.svg" width="24" height="24"> | `FormatSubscriptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-superscript.svg" width="24" height="24"> | `FormatSuperscriptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-text.svg" width="24" height="24"> | `FormatTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-textdirection-l-to-r.svg" width="24" height="24"> | `FormatTextdirectionLToRIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-textdirection-r-to-l.svg" width="24" height="24"> | `FormatTextdirectionRToLIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-title.svg" width="24" height="24"> | `FormatTitleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-underline.svg" width="24" height="24"> | `FormatUnderlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-vertical-align-bottom.svg" width="24" height="24"> | `FormatVerticalAlignBottomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-vertical-align-center.svg" width="24" height="24"> | `FormatVerticalAlignCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-vertical-align-top.svg" width="24" height="24"> | `FormatVerticalAlignTopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-inline.svg" width="24" height="24"> | `FormatWrapInlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-square.svg" width="24" height="24"> | `FormatWrapSquareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-tight.svg" width="24" height="24"> | `FormatWrapTightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/format-wrap-top-bottom.svg" width="24" height="24"> | `FormatWrapTopBottomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/forum.svg" width="24" height="24"> | `ForumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/forum-outline.svg" width="24" height="24"> | `ForumOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/forward.svg" width="24" height="24"> | `ForwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/foursquare.svg" width="24" height="24"> | `FoursquareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fridge-filled-bottom.svg" width="24" height="24"> | `FridgeFilledBottomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fridge-filled.svg" width="24" height="24"> | `FridgeFilledIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fridge-filled-top.svg" width="24" height="24"> | `FridgeFilledTopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fridge.svg" width="24" height="24"> | `FridgeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fuel.svg" width="24" height="24"> | `FuelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fullscreen-exit.svg" width="24" height="24"> | `FullscreenExitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/fullscreen.svg" width="24" height="24"> | `FullscreenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/function.svg" width="24" height="24"> | `FunctionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/function-variant.svg" width="24" height="24"> | `FunctionVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gamepad.svg" width="24" height="24"> | `GamepadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gamepad-variant.svg" width="24" height="24"> | `GamepadVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/garage-alert.svg" width="24" height="24"> | `GarageAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/garage.svg" width="24" height="24"> | `GarageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/garage-open.svg" width="24" height="24"> | `GarageOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gas-cylinder.svg" width="24" height="24"> | `GasCylinderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gas-station.svg" width="24" height="24"> | `GasStationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gate.svg" width="24" height="24"> | `GateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gauge-empty.svg" width="24" height="24"> | `GaugeEmptyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gauge-full.svg" width="24" height="24"> | `GaugeFullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gauge.svg" width="24" height="24"> | `GaugeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gauge-low.svg" width="24" height="24"> | `GaugeLowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gavel.svg" width="24" height="24"> | `GavelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gender-female.svg" width="24" height="24"> | `GenderFemaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gender-male-female.svg" width="24" height="24"> | `GenderMaleFemaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gender-male.svg" width="24" height="24"> | `GenderMaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gender-transgender.svg" width="24" height="24"> | `GenderTransgenderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-double-tap.svg" width="24" height="24"> | `GestureDoubleTapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture.svg" width="24" height="24"> | `GestureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-down.svg" width="24" height="24"> | `GestureSwipeDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-left.svg" width="24" height="24"> | `GestureSwipeLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-right.svg" width="24" height="24"> | `GestureSwipeRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-swipe-up.svg" width="24" height="24"> | `GestureSwipeUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-tap.svg" width="24" height="24"> | `GestureTapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-two-double-tap.svg" width="24" height="24"> | `GestureTwoDoubleTapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gesture-two-tap.svg" width="24" height="24"> | `GestureTwoTapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ghost.svg" width="24" height="24"> | `GhostIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gift.svg" width="24" height="24"> | `GiftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/git.svg" width="24" height="24"> | `GitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/github-box.svg" width="24" height="24"> | `GithubBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/github-circle.svg" width="24" height="24"> | `GithubCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/github-face.svg" width="24" height="24"> | `GithubFaceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glass-cocktail.svg" width="24" height="24"> | `GlassCocktailIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glass-flute.svg" width="24" height="24"> | `GlassFluteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glass-mug.svg" width="24" height="24"> | `GlassMugIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glass-stange.svg" width="24" height="24"> | `GlassStangeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glass-tulip.svg" width="24" height="24"> | `GlassTulipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glass-wine.svg" width="24" height="24"> | `GlassWineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glassdoor.svg" width="24" height="24"> | `GlassdoorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/glasses.svg" width="24" height="24"> | `GlassesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gmail.svg" width="24" height="24"> | `GmailIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gnome.svg" width="24" height="24"> | `GnomeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/golf.svg" width="24" height="24"> | `GolfIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gondola.svg" width="24" height="24"> | `GondolaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-analytics.svg" width="24" height="24"> | `GoogleAnalyticsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-assistant.svg" width="24" height="24"> | `GoogleAssistantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-cardboard.svg" width="24" height="24"> | `GoogleCardboardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-chrome.svg" width="24" height="24"> | `GoogleChromeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles-communities.svg" width="24" height="24"> | `GoogleCirclesCommunitiesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles-extended.svg" width="24" height="24"> | `GoogleCirclesExtendedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles-group.svg" width="24" height="24"> | `GoogleCirclesGroupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-circles.svg" width="24" height="24"> | `GoogleCirclesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-controller.svg" width="24" height="24"> | `GoogleControllerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-controller-off.svg" width="24" height="24"> | `GoogleControllerOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-drive.svg" width="24" height="24"> | `GoogleDriveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-earth.svg" width="24" height="24"> | `GoogleEarthIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-glass.svg" width="24" height="24"> | `GoogleGlassIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-home.svg" width="24" height="24"> | `GoogleHomeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google.svg" width="24" height="24"> | `GoogleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-keep.svg" width="24" height="24"> | `GoogleKeepIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-maps.svg" width="24" height="24"> | `GoogleMapsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-nearby.svg" width="24" height="24"> | `GoogleNearbyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-pages.svg" width="24" height="24"> | `GooglePagesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-photos.svg" width="24" height="24"> | `GooglePhotosIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-physical-web.svg" width="24" height="24"> | `GooglePhysicalWebIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-play.svg" width="24" height="24"> | `GooglePlayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-plus-box.svg" width="24" height="24"> | `GooglePlusBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-plus.svg" width="24" height="24"> | `GooglePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-translate.svg" width="24" height="24"> | `GoogleTranslateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/google-wallet.svg" width="24" height="24"> | `GoogleWalletIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gpu.svg" width="24" height="24"> | `GpuIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/gradient.svg" width="24" height="24"> | `GradientIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/graphql.svg" width="24" height="24"> | `GraphqlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/grease-pencil.svg" width="24" height="24"> | `GreasePencilIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/grid.svg" width="24" height="24"> | `GridIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/grid-large.svg" width="24" height="24"> | `GridLargeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/grid-off.svg" width="24" height="24"> | `GridOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/group.svg" width="24" height="24"> | `GroupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-acoustic.svg" width="24" height="24"> | `GuitarAcousticIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-electric.svg" width="24" height="24"> | `GuitarElectricIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-pick.svg" width="24" height="24"> | `GuitarPickIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/guitar-pick-outline.svg" width="24" height="24"> | `GuitarPickOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/guy-fawkes-mask.svg" width="24" height="24"> | `GuyFawkesMaskIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hackernews.svg" width="24" height="24"> | `HackernewsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hamburger.svg" width="24" height="24"> | `HamburgerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hand-pointing-right.svg" width="24" height="24"> | `HandPointingRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hanger.svg" width="24" height="24"> | `HangerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hangouts.svg" width="24" height="24"> | `HangoutsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/harddisk.svg" width="24" height="24"> | `HarddiskIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headphones-box.svg" width="24" height="24"> | `HeadphonesBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headphones.svg" width="24" height="24"> | `HeadphonesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headphones-off.svg" width="24" height="24"> | `HeadphonesOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headphones-settings.svg" width="24" height="24"> | `HeadphonesSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headset-dock.svg" width="24" height="24"> | `HeadsetDockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headset.svg" width="24" height="24"> | `HeadsetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/headset-off.svg" width="24" height="24"> | `HeadsetOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-box.svg" width="24" height="24"> | `HeartBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-box-outline.svg" width="24" height="24"> | `HeartBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-broken.svg" width="24" height="24"> | `HeartBrokenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-half-full.svg" width="24" height="24"> | `HeartHalfFullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-half.svg" width="24" height="24"> | `HeartHalfIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-half-outline.svg" width="24" height="24"> | `HeartHalfOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart.svg" width="24" height="24"> | `HeartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-off.svg" width="24" height="24"> | `HeartOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-outline.svg" width="24" height="24"> | `HeartOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/heart-pulse.svg" width="24" height="24"> | `HeartPulseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/help-box.svg" width="24" height="24"> | `HelpBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/help-circle.svg" width="24" height="24"> | `HelpCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/help-circle-outline.svg" width="24" height="24"> | `HelpCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/help.svg" width="24" height="24"> | `HelpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/help-network.svg" width="24" height="24"> | `HelpNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hexagon.svg" width="24" height="24"> | `HexagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hexagon-multiple.svg" width="24" height="24"> | `HexagonMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hexagon-outline.svg" width="24" height="24"> | `HexagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/high-definition-box.svg" width="24" height="24"> | `HighDefinitionBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/high-definition.svg" width="24" height="24"> | `HighDefinitionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/highway.svg" width="24" height="24"> | `HighwayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/history.svg" width="24" height="24"> | `HistoryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hockey-puck.svg" width="24" height="24"> | `HockeyPuckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hockey-sticks.svg" width="24" height="24"> | `HockeySticksIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hololens.svg" width="24" height="24"> | `HololensIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-account.svg" width="24" height="24"> | `HomeAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-alert.svg" width="24" height="24"> | `HomeAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-assistant.svg" width="24" height="24"> | `HomeAssistantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-automation.svg" width="24" height="24"> | `HomeAutomationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-circle.svg" width="24" height="24"> | `HomeCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-currency-usd.svg" width="24" height="24"> | `HomeCurrencyUsdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-heart.svg" width="24" height="24"> | `HomeHeartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home.svg" width="24" height="24"> | `HomeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-map-marker.svg" width="24" height="24"> | `HomeMapMarkerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-modern.svg" width="24" height="24"> | `HomeModernIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-outline.svg" width="24" height="24"> | `HomeOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/home-variant.svg" width="24" height="24"> | `HomeVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hook.svg" width="24" height="24"> | `HookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hook-off.svg" width="24" height="24"> | `HookOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hops.svg" width="24" height="24"> | `HopsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hospital-building.svg" width="24" height="24"> | `HospitalBuildingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hospital.svg" width="24" height="24"> | `HospitalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hospital-marker.svg" width="24" height="24"> | `HospitalMarkerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hot-tub.svg" width="24" height="24"> | `HotTubIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hotel.svg" width="24" height="24"> | `HotelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/houzz-box.svg" width="24" height="24"> | `HouzzBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/houzz.svg" width="24" height="24"> | `HouzzIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/hulu.svg" width="24" height="24"> | `HuluIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-child.svg" width="24" height="24"> | `HumanChildIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-female.svg" width="24" height="24"> | `HumanFemaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-greeting.svg" width="24" height="24"> | `HumanGreetingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-handsdown.svg" width="24" height="24"> | `HumanHandsdownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-handsup.svg" width="24" height="24"> | `HumanHandsupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human.svg" width="24" height="24"> | `HumanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-male-female.svg" width="24" height="24"> | `HumanMaleFemaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-male.svg" width="24" height="24"> | `HumanMaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/human-pregnant.svg" width="24" height="24"> | `HumanPregnantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/humble-bundle.svg" width="24" height="24"> | `HumbleBundleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ice-cream.svg" width="24" height="24"> | `IceCreamIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-album.svg" width="24" height="24"> | `ImageAlbumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-area-close.svg" width="24" height="24"> | `ImageAreaCloseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-area.svg" width="24" height="24"> | `ImageAreaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-broken.svg" width="24" height="24"> | `ImageBrokenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-broken-variant.svg" width="24" height="24"> | `ImageBrokenVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-black-white.svg" width="24" height="24"> | `ImageFilterBlackWhiteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-center-focus.svg" width="24" height="24"> | `ImageFilterCenterFocusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-center-focus-weak.svg" width="24" height="24"> | `ImageFilterCenterFocusWeakIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-drama.svg" width="24" height="24"> | `ImageFilterDramaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-frames.svg" width="24" height="24"> | `ImageFilterFramesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-hdr.svg" width="24" height="24"> | `ImageFilterHdrIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter.svg" width="24" height="24"> | `ImageFilterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-none.svg" width="24" height="24"> | `ImageFilterNoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-tilt-shift.svg" width="24" height="24"> | `ImageFilterTiltShiftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-filter-vintage.svg" width="24" height="24"> | `ImageFilterVintageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image.svg" width="24" height="24"> | `ImageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-multiple.svg" width="24" height="24"> | `ImageMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-off.svg" width="24" height="24"> | `ImageOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/image-plus.svg" width="24" height="24"> | `ImagePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/import.svg" width="24" height="24"> | `ImportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/inbox-arrow-down.svg" width="24" height="24"> | `InboxArrowDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/inbox-arrow-up.svg" width="24" height="24"> | `InboxArrowUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/inbox.svg" width="24" height="24"> | `InboxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/inbox-multiple.svg" width="24" height="24"> | `InboxMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/incognito.svg" width="24" height="24"> | `IncognitoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/infinity.svg" width="24" height="24"> | `InfinityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/information.svg" width="24" height="24"> | `InformationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/information-outline.svg" width="24" height="24"> | `InformationOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/information-variant.svg" width="24" height="24"> | `InformationVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/instagram.svg" width="24" height="24"> | `InstagramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/instapaper.svg" width="24" height="24"> | `InstapaperIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/internet-explorer.svg" width="24" height="24"> | `InternetExplorerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/invert-colors.svg" width="24" height="24"> | `InvertColorsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/itunes.svg" width="24" height="24"> | `ItunesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/jeepney.svg" width="24" height="24"> | `JeepneyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/jira.svg" width="24" height="24"> | `JiraIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/jquery.svg" width="24" height="24"> | `JqueryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/jsfiddle.svg" width="24" height="24"> | `JsfiddleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/json.svg" width="24" height="24"> | `JsonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/karate.svg" width="24" height="24"> | `KarateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keg.svg" width="24" height="24"> | `KegIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/kettle.svg" width="24" height="24"> | `KettleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/key-change.svg" width="24" height="24"> | `KeyChangeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/key.svg" width="24" height="24"> | `KeyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/key-minus.svg" width="24" height="24"> | `KeyMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/key-plus.svg" width="24" height="24"> | `KeyPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/key-remove.svg" width="24" height="24"> | `KeyRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/key-variant.svg" width="24" height="24"> | `KeyVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-backspace.svg" width="24" height="24"> | `KeyboardBackspaceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-caps.svg" width="24" height="24"> | `KeyboardCapsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-close.svg" width="24" height="24"> | `KeyboardCloseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard.svg" width="24" height="24"> | `KeyboardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-off.svg" width="24" height="24"> | `KeyboardOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-return.svg" width="24" height="24"> | `KeyboardReturnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-tab.svg" width="24" height="24"> | `KeyboardTabIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/keyboard-variant.svg" width="24" height="24"> | `KeyboardVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/kickstarter.svg" width="24" height="24"> | `KickstarterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/kodi.svg" width="24" height="24"> | `KodiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/label.svg" width="24" height="24"> | `LabelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/label-outline.svg" width="24" height="24"> | `LabelOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ladybug.svg" width="24" height="24"> | `LadybugIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lambda.svg" width="24" height="24"> | `LambdaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lamp.svg" width="24" height="24"> | `LampIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lan-connect.svg" width="24" height="24"> | `LanConnectIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lan-disconnect.svg" width="24" height="24"> | `LanDisconnectIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lan.svg" width="24" height="24"> | `LanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lan-pending.svg" width="24" height="24"> | `LanPendingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-c.svg" width="24" height="24"> | `LanguageCIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-cpp.svg" width="24" height="24"> | `LanguageCppIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-csharp.svg" width="24" height="24"> | `LanguageCsharpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-css3.svg" width="24" height="24"> | `LanguageCss3Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-go.svg" width="24" height="24"> | `LanguageGoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-html5.svg" width="24" height="24"> | `LanguageHtml5Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-javascript.svg" width="24" height="24"> | `LanguageJavascriptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-lua.svg" width="24" height="24"> | `LanguageLuaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-php.svg" width="24" height="24"> | `LanguagePhpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-python.svg" width="24" height="24"> | `LanguagePythonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-python-text.svg" width="24" height="24"> | `LanguagePythonTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-r.svg" width="24" height="24"> | `LanguageRIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-swift.svg" width="24" height="24"> | `LanguageSwiftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/language-typescript.svg" width="24" height="24"> | `LanguageTypescriptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-chromebook.svg" width="24" height="24"> | `LaptopChromebookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/laptop.svg" width="24" height="24"> | `LaptopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-mac.svg" width="24" height="24"> | `LaptopMacIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-off.svg" width="24" height="24"> | `LaptopOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/laptop-windows.svg" width="24" height="24"> | `LaptopWindowsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lastfm.svg" width="24" height="24"> | `LastfmIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lastpass.svg" width="24" height="24"> | `LastpassIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/launch.svg" width="24" height="24"> | `LaunchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lava-lamp.svg" width="24" height="24"> | `LavaLampIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/layers.svg" width="24" height="24"> | `LayersIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/layers-off.svg" width="24" height="24"> | `LayersOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lead-pencil.svg" width="24" height="24"> | `LeadPencilIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/leaf.svg" width="24" height="24"> | `LeafIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-off.svg" width="24" height="24"> | `LedOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-on.svg" width="24" height="24"> | `LedOnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-outline.svg" width="24" height="24"> | `LedOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-strip.svg" width="24" height="24"> | `LedStripIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-variant-off.svg" width="24" height="24"> | `LedVariantOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-variant-on.svg" width="24" height="24"> | `LedVariantOnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/led-variant-outline.svg" width="24" height="24"> | `LedVariantOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/library-books.svg" width="24" height="24"> | `LibraryBooksIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/library.svg" width="24" height="24"> | `LibraryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/library-music.svg" width="24" height="24"> | `LibraryMusicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/library-plus.svg" width="24" height="24"> | `LibraryPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lifebuoy.svg" width="24" height="24"> | `LifebuoyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb.svg" width="24" height="24"> | `LightbulbIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb-on.svg" width="24" height="24"> | `LightbulbOnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb-on-outline.svg" width="24" height="24"> | `LightbulbOnOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lightbulb-outline.svg" width="24" height="24"> | `LightbulbOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/link.svg" width="24" height="24"> | `LinkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/link-off.svg" width="24" height="24"> | `LinkOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/link-variant.svg" width="24" height="24"> | `LinkVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/link-variant-off.svg" width="24" height="24"> | `LinkVariantOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/linkedin-box.svg" width="24" height="24"> | `LinkedinBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/linkedin.svg" width="24" height="24"> | `LinkedinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/linux.svg" width="24" height="24"> | `LinuxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/loading.svg" width="24" height="24"> | `LoadingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock.svg" width="24" height="24"> | `LockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-open.svg" width="24" height="24"> | `LockOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-open-outline.svg" width="24" height="24"> | `LockOpenOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-outline.svg" width="24" height="24"> | `LockOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-pattern.svg" width="24" height="24"> | `LockPatternIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-plus.svg" width="24" height="24"> | `LockPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-reset.svg" width="24" height="24"> | `LockResetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lock-smart.svg" width="24" height="24"> | `LockSmartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/locker.svg" width="24" height="24"> | `LockerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/locker-multiple.svg" width="24" height="24"> | `LockerMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/login.svg" width="24" height="24"> | `LoginIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/login-variant.svg" width="24" height="24"> | `LoginVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/logout.svg" width="24" height="24"> | `LogoutIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/logout-variant.svg" width="24" height="24"> | `LogoutVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/looks.svg" width="24" height="24"> | `LooksIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/loop.svg" width="24" height="24"> | `LoopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/loupe.svg" width="24" height="24"> | `LoupeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/lumx.svg" width="24" height="24"> | `LumxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnet.svg" width="24" height="24"> | `MagnetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnet-on.svg" width="24" height="24"> | `MagnetOnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnify.svg" width="24" height="24"> | `MagnifyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-minus.svg" width="24" height="24"> | `MagnifyMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-minus-outline.svg" width="24" height="24"> | `MagnifyMinusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-plus.svg" width="24" height="24"> | `MagnifyPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/magnify-plus-outline.svg" width="24" height="24"> | `MagnifyPlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mail-ru.svg" width="24" height="24"> | `MailRuIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mailbox.svg" width="24" height="24"> | `MailboxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map.svg" width="24" height="24"> | `MapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-circle.svg" width="24" height="24"> | `MapMarkerCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker.svg" width="24" height="24"> | `MapMarkerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-minus.svg" width="24" height="24"> | `MapMarkerMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-multiple.svg" width="24" height="24"> | `MapMarkerMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-off.svg" width="24" height="24"> | `MapMarkerOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-outline.svg" width="24" height="24"> | `MapMarkerOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-plus.svg" width="24" height="24"> | `MapMarkerPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/map-marker-radius.svg" width="24" height="24"> | `MapMarkerRadiusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/margin.svg" width="24" height="24"> | `MarginIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/markdown.svg" width="24" height="24"> | `MarkdownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/marker-check.svg" width="24" height="24"> | `MarkerCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/marker.svg" width="24" height="24"> | `MarkerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/material-ui.svg" width="24" height="24"> | `MaterialUiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/math-compass.svg" width="24" height="24"> | `MathCompassIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/matrix.svg" width="24" height="24"> | `MatrixIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/maxcdn.svg" width="24" height="24"> | `MaxcdnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/medical-bag.svg" width="24" height="24"> | `MedicalBagIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/medium.svg" width="24" height="24"> | `MediumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/memory.svg" width="24" height="24"> | `MemoryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu-down.svg" width="24" height="24"> | `MenuDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu-down-outline.svg" width="24" height="24"> | `MenuDownOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu.svg" width="24" height="24"> | `MenuIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu-left.svg" width="24" height="24"> | `MenuLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu-right.svg" width="24" height="24"> | `MenuRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu-up.svg" width="24" height="24"> | `MenuUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/menu-up-outline.svg" width="24" height="24"> | `MenuUpOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-alert.svg" width="24" height="24"> | `MessageAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-bulleted.svg" width="24" height="24"> | `MessageBulletedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-bulleted-off.svg" width="24" height="24"> | `MessageBulletedOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-draw.svg" width="24" height="24"> | `MessageDrawIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message.svg" width="24" height="24"> | `MessageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-image.svg" width="24" height="24"> | `MessageImageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-outline.svg" width="24" height="24"> | `MessageOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-plus.svg" width="24" height="24"> | `MessagePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-processing.svg" width="24" height="24"> | `MessageProcessingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-reply.svg" width="24" height="24"> | `MessageReplyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-reply-text.svg" width="24" height="24"> | `MessageReplyTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-settings.svg" width="24" height="24"> | `MessageSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-settings-variant.svg" width="24" height="24"> | `MessageSettingsVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-text.svg" width="24" height="24"> | `MessageTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-text-outline.svg" width="24" height="24"> | `MessageTextOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/message-video.svg" width="24" height="24"> | `MessageVideoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/meteor.svg" width="24" height="24"> | `MeteorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/metronome.svg" width="24" height="24"> | `MetronomeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/metronome-tick.svg" width="24" height="24"> | `MetronomeTickIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/micro-sd.svg" width="24" height="24"> | `MicroSdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone.svg" width="24" height="24"> | `MicrophoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-minus.svg" width="24" height="24"> | `MicrophoneMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-off.svg" width="24" height="24"> | `MicrophoneOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-outline.svg" width="24" height="24"> | `MicrophoneOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-plus.svg" width="24" height="24"> | `MicrophonePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-settings.svg" width="24" height="24"> | `MicrophoneSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-variant.svg" width="24" height="24"> | `MicrophoneVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microphone-variant-off.svg" width="24" height="24"> | `MicrophoneVariantOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microscope.svg" width="24" height="24"> | `MicroscopeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/microsoft.svg" width="24" height="24"> | `MicrosoftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minecraft.svg" width="24" height="24"> | `MinecraftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minus-box.svg" width="24" height="24"> | `MinusBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minus-box-outline.svg" width="24" height="24"> | `MinusBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minus-circle.svg" width="24" height="24"> | `MinusCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minus-circle-outline.svg" width="24" height="24"> | `MinusCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minus.svg" width="24" height="24"> | `MinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/minus-network.svg" width="24" height="24"> | `MinusNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mixcloud.svg" width="24" height="24"> | `MixcloudIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mixed-reality.svg" width="24" height="24"> | `MixedRealityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mixer.svg" width="24" height="24"> | `MixerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/monitor.svg" width="24" height="24"> | `MonitorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/monitor-multiple.svg" width="24" height="24"> | `MonitorMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/more.svg" width="24" height="24"> | `MoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/motorbike.svg" width="24" height="24"> | `MotorbikeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mouse.svg" width="24" height="24"> | `MouseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mouse-off.svg" width="24" height="24"> | `MouseOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mouse-variant.svg" width="24" height="24"> | `MouseVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mouse-variant-off.svg" width="24" height="24"> | `MouseVariantOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/move-resize.svg" width="24" height="24"> | `MoveResizeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/move-resize-variant.svg" width="24" height="24"> | `MoveResizeVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/movie.svg" width="24" height="24"> | `MovieIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/movie-roll.svg" width="24" height="24"> | `MovieRollIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/multiplication-box.svg" width="24" height="24"> | `MultiplicationBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/multiplication.svg" width="24" height="24"> | `MultiplicationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mushroom.svg" width="24" height="24"> | `MushroomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/mushroom-outline.svg" width="24" height="24"> | `MushroomOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-box.svg" width="24" height="24"> | `MusicBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-box-outline.svg" width="24" height="24"> | `MusicBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-circle.svg" width="24" height="24"> | `MusicCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music.svg" width="24" height="24"> | `MusicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-bluetooth.svg" width="24" height="24"> | `MusicNoteBluetoothIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-bluetooth-off.svg" width="24" height="24"> | `MusicNoteBluetoothOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-eighth.svg" width="24" height="24"> | `MusicNoteEighthIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-half.svg" width="24" height="24"> | `MusicNoteHalfIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note.svg" width="24" height="24"> | `MusicNoteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-off.svg" width="24" height="24"> | `MusicNoteOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-quarter.svg" width="24" height="24"> | `MusicNoteQuarterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-sixteenth.svg" width="24" height="24"> | `MusicNoteSixteenthIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-note-whole.svg" width="24" height="24"> | `MusicNoteWholeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/music-off.svg" width="24" height="24"> | `MusicOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nativescript.svg" width="24" height="24"> | `NativescriptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nature.svg" width="24" height="24"> | `NatureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nature-people.svg" width="24" height="24"> | `NaturePeopleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/navigation.svg" width="24" height="24"> | `NavigationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/near-me.svg" width="24" height="24"> | `NearMeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/needle.svg" width="24" height="24"> | `NeedleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nest-protect.svg" width="24" height="24"> | `NestProtectIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nest-thermostat.svg" width="24" height="24"> | `NestThermostatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/netflix.svg" width="24" height="24"> | `NetflixIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/network.svg" width="24" height="24"> | `NetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/new-box.svg" width="24" height="24"> | `NewBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/newspaper.svg" width="24" height="24"> | `NewspaperIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nfc.svg" width="24" height="24"> | `NfcIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nfc-tap.svg" width="24" height="24"> | `NfcTapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nfc-variant.svg" width="24" height="24"> | `NfcVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ninja.svg" width="24" height="24"> | `NinjaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nintendo-switch.svg" width="24" height="24"> | `NintendoSwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nodejs.svg" width="24" height="24"> | `NodejsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note.svg" width="24" height="24"> | `NoteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note-multiple.svg" width="24" height="24"> | `NoteMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note-multiple-outline.svg" width="24" height="24"> | `NoteMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note-outline.svg" width="24" height="24"> | `NoteOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note-plus.svg" width="24" height="24"> | `NotePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note-plus-outline.svg" width="24" height="24"> | `NotePlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/note-text.svg" width="24" height="24"> | `NoteTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/notebook.svg" width="24" height="24"> | `NotebookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/notification-clear-all.svg" width="24" height="24"> | `NotificationClearAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/npm.svg" width="24" height="24"> | `NpmIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nuke.svg" width="24" height="24"> | `NukeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/null.svg" width="24" height="24"> | `NullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric.svg" width="24" height="24"> | `NumericIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-0-box.svg" width="24" height="24"> | `Numeric_0BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-0-box-multiple-outline.svg" width="24" height="24"> | `Numeric_0BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-0-box-outline.svg" width="24" height="24"> | `Numeric_0BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-1-box.svg" width="24" height="24"> | `Numeric_1BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-1-box-multiple-outline.svg" width="24" height="24"> | `Numeric_1BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-1-box-outline.svg" width="24" height="24"> | `Numeric_1BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-2-box.svg" width="24" height="24"> | `Numeric_2BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-2-box-multiple-outline.svg" width="24" height="24"> | `Numeric_2BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-2-box-outline.svg" width="24" height="24"> | `Numeric_2BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-3-box.svg" width="24" height="24"> | `Numeric_3BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-3-box-multiple-outline.svg" width="24" height="24"> | `Numeric_3BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-3-box-outline.svg" width="24" height="24"> | `Numeric_3BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-4-box.svg" width="24" height="24"> | `Numeric_4BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-4-box-multiple-outline.svg" width="24" height="24"> | `Numeric_4BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-4-box-outline.svg" width="24" height="24"> | `Numeric_4BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-5-box.svg" width="24" height="24"> | `Numeric_5BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-5-box-multiple-outline.svg" width="24" height="24"> | `Numeric_5BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-5-box-outline.svg" width="24" height="24"> | `Numeric_5BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-6-box.svg" width="24" height="24"> | `Numeric_6BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-6-box-multiple-outline.svg" width="24" height="24"> | `Numeric_6BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-6-box-outline.svg" width="24" height="24"> | `Numeric_6BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-7-box.svg" width="24" height="24"> | `Numeric_7BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-7-box-multiple-outline.svg" width="24" height="24"> | `Numeric_7BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-7-box-outline.svg" width="24" height="24"> | `Numeric_7BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-8-box.svg" width="24" height="24"> | `Numeric_8BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-8-box-multiple-outline.svg" width="24" height="24"> | `Numeric_8BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-8-box-outline.svg" width="24" height="24"> | `Numeric_8BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-box.svg" width="24" height="24"> | `Numeric_9BoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-box-multiple-outline.svg" width="24" height="24"> | `Numeric_9BoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-box-outline.svg" width="24" height="24"> | `Numeric_9BoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-plus-box.svg" width="24" height="24"> | `Numeric_9PlusBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-plus-box-multiple-outline.svg" width="24" height="24"> | `Numeric_9PlusBoxMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/numeric-9-plus-box-outline.svg" width="24" height="24"> | `Numeric_9PlusBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nut.svg" width="24" height="24"> | `NutIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/nutrition.svg" width="24" height="24"> | `NutritionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/oar.svg" width="24" height="24"> | `OarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/octagon.svg" width="24" height="24"> | `OctagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/octagon-outline.svg" width="24" height="24"> | `OctagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/octagram.svg" width="24" height="24"> | `OctagramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/octagram-outline.svg" width="24" height="24"> | `OctagramOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/odnoklassniki.svg" width="24" height="24"> | `OdnoklassnikiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/office.svg" width="24" height="24"> | `OfficeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/oil.svg" width="24" height="24"> | `OilIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/oil-temperature.svg" width="24" height="24"> | `OilTemperatureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/omega.svg" width="24" height="24"> | `OmegaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/onedrive.svg" width="24" height="24"> | `OnedriveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/onenote.svg" width="24" height="24"> | `OnenoteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/onepassword.svg" width="24" height="24"> | `OnepasswordIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/opacity.svg" width="24" height="24"> | `OpacityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/open-in-app.svg" width="24" height="24"> | `OpenInAppIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/open-in-new.svg" width="24" height="24"> | `OpenInNewIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/openid.svg" width="24" height="24"> | `OpenidIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/opera.svg" width="24" height="24"> | `OperaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/orbit.svg" width="24" height="24"> | `OrbitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ornament.svg" width="24" height="24"> | `OrnamentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ornament-variant.svg" width="24" height="24"> | `OrnamentVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/owl.svg" width="24" height="24"> | `OwlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/package-down.svg" width="24" height="24"> | `PackageDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/package.svg" width="24" height="24"> | `PackageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/package-up.svg" width="24" height="24"> | `PackageUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/package-variant-closed.svg" width="24" height="24"> | `PackageVariantClosedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/package-variant.svg" width="24" height="24"> | `PackageVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-first.svg" width="24" height="24"> | `PageFirstIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-last.svg" width="24" height="24"> | `PageLastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-body.svg" width="24" height="24"> | `PageLayoutBodyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-footer.svg" width="24" height="24"> | `PageLayoutFooterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-header.svg" width="24" height="24"> | `PageLayoutHeaderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-sidebar-left.svg" width="24" height="24"> | `PageLayoutSidebarLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/page-layout-sidebar-right.svg" width="24" height="24"> | `PageLayoutSidebarRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/palette-advanced.svg" width="24" height="24"> | `PaletteAdvancedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/palette.svg" width="24" height="24"> | `PaletteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/palette-swatch.svg" width="24" height="24"> | `PaletteSwatchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/panda.svg" width="24" height="24"> | `PandaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pandora.svg" width="24" height="24"> | `PandoraIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-fisheye.svg" width="24" height="24"> | `PanoramaFisheyeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-horizontal.svg" width="24" height="24"> | `PanoramaHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/panorama.svg" width="24" height="24"> | `PanoramaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-vertical.svg" width="24" height="24"> | `PanoramaVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/panorama-wide-angle.svg" width="24" height="24"> | `PanoramaWideAngleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/paper-cut-vertical.svg" width="24" height="24"> | `PaperCutVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/paperclip.svg" width="24" height="24"> | `PaperclipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/parking.svg" width="24" height="24"> | `ParkingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/passport.svg" width="24" height="24"> | `PassportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/patreon.svg" width="24" height="24"> | `PatreonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pause-circle.svg" width="24" height="24"> | `PauseCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pause-circle-outline.svg" width="24" height="24"> | `PauseCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pause.svg" width="24" height="24"> | `PauseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pause-octagon.svg" width="24" height="24"> | `PauseOctagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pause-octagon-outline.svg" width="24" height="24"> | `PauseOctagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/paw.svg" width="24" height="24"> | `PawIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/paw-off.svg" width="24" height="24"> | `PawOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/paypal.svg" width="24" height="24"> | `PaypalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/peace.svg" width="24" height="24"> | `PeaceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pen.svg" width="24" height="24"> | `PenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-box.svg" width="24" height="24"> | `PencilBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-box-outline.svg" width="24" height="24"> | `PencilBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-circle.svg" width="24" height="24"> | `PencilCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-circle-outline.svg" width="24" height="24"> | `PencilCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil.svg" width="24" height="24"> | `PencilIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-lock.svg" width="24" height="24"> | `PencilLockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pencil-off.svg" width="24" height="24"> | `PencilOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pentagon.svg" width="24" height="24"> | `PentagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pentagon-outline.svg" width="24" height="24"> | `PentagonOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/percent.svg" width="24" height="24"> | `PercentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/periodic-table-co2.svg" width="24" height="24"> | `PeriodicTableCo2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/periodic-table.svg" width="24" height="24"> | `PeriodicTableIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/periscope.svg" width="24" height="24"> | `PeriscopeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pharmacy.svg" width="24" height="24"> | `PharmacyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-bluetooth.svg" width="24" height="24"> | `PhoneBluetoothIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-classic.svg" width="24" height="24"> | `PhoneClassicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-forward.svg" width="24" height="24"> | `PhoneForwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-hangup.svg" width="24" height="24"> | `PhoneHangupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone.svg" width="24" height="24"> | `PhoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-in-talk.svg" width="24" height="24"> | `PhoneInTalkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-incoming.svg" width="24" height="24"> | `PhoneIncomingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-locked.svg" width="24" height="24"> | `PhoneLockedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-log.svg" width="24" height="24"> | `PhoneLogIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-minus.svg" width="24" height="24"> | `PhoneMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-missed.svg" width="24" height="24"> | `PhoneMissedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-outgoing.svg" width="24" height="24"> | `PhoneOutgoingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-paused.svg" width="24" height="24"> | `PhonePausedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-plus.svg" width="24" height="24"> | `PhonePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-return.svg" width="24" height="24"> | `PhoneReturnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-rotate-landscape.svg" width="24" height="24"> | `PhoneRotateLandscapeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-rotate-portrait.svg" width="24" height="24"> | `PhoneRotatePortraitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-settings.svg" width="24" height="24"> | `PhoneSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/phone-voip.svg" width="24" height="24"> | `PhoneVoipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pi-box.svg" width="24" height="24"> | `PiBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pi.svg" width="24" height="24"> | `PiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/piano.svg" width="24" height="24"> | `PianoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pickaxe.svg" width="24" height="24"> | `PickaxeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pier-crane.svg" width="24" height="24"> | `PierCraneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pier.svg" width="24" height="24"> | `PierIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pig.svg" width="24" height="24"> | `PigIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pill.svg" width="24" height="24"> | `PillIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pillar.svg" width="24" height="24"> | `PillarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pin.svg" width="24" height="24"> | `PinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pin-off.svg" width="24" height="24"> | `PinOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pine-tree-box.svg" width="24" height="24"> | `PineTreeBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pine-tree.svg" width="24" height="24"> | `PineTreeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pinterest-box.svg" width="24" height="24"> | `PinterestBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pinterest.svg" width="24" height="24"> | `PinterestIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pipe-disconnected.svg" width="24" height="24"> | `PipeDisconnectedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pipe.svg" width="24" height="24"> | `PipeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pipe-leak.svg" width="24" height="24"> | `PipeLeakIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pistol.svg" width="24" height="24"> | `PistolIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/piston.svg" width="24" height="24"> | `PistonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pizza.svg" width="24" height="24"> | `PizzaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plane-shield.svg" width="24" height="24"> | `PlaneShieldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play-box-outline.svg" width="24" height="24"> | `PlayBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play-circle.svg" width="24" height="24"> | `PlayCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play-circle-outline.svg" width="24" height="24"> | `PlayCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play.svg" width="24" height="24"> | `PlayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play-network.svg" width="24" height="24"> | `PlayNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play-pause.svg" width="24" height="24"> | `PlayPauseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/play-protected-content.svg" width="24" height="24"> | `PlayProtectedContentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-check.svg" width="24" height="24"> | `PlaylistCheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-minus.svg" width="24" height="24"> | `PlaylistMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-play.svg" width="24" height="24"> | `PlaylistPlayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-plus.svg" width="24" height="24"> | `PlaylistPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/playlist-remove.svg" width="24" height="24"> | `PlaylistRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/playstation.svg" width="24" height="24"> | `PlaystationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plex.svg" width="24" height="24"> | `PlexIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-box.svg" width="24" height="24"> | `PlusBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-box-outline.svg" width="24" height="24"> | `PlusBoxOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-circle.svg" width="24" height="24"> | `PlusCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-circle-multiple-outline.svg" width="24" height="24"> | `PlusCircleMultipleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-circle-outline.svg" width="24" height="24"> | `PlusCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus.svg" width="24" height="24"> | `PlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-network.svg" width="24" height="24"> | `PlusNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-one.svg" width="24" height="24"> | `PlusOneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/plus-outline.svg" width="24" height="24"> | `PlusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pocket.svg" width="24" height="24"> | `PocketIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pokeball.svg" width="24" height="24"> | `PokeballIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/poker-chip.svg" width="24" height="24"> | `PokerChipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/polaroid.svg" width="24" height="24"> | `PolaroidIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/poll-box.svg" width="24" height="24"> | `PollBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/poll.svg" width="24" height="24"> | `PollIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/polymer.svg" width="24" height="24"> | `PolymerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pool.svg" width="24" height="24"> | `PoolIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/popcorn.svg" width="24" height="24"> | `PopcornIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pot.svg" width="24" height="24"> | `PotIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pot-mix.svg" width="24" height="24"> | `PotMixIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pound-box.svg" width="24" height="24"> | `PoundBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pound.svg" width="24" height="24"> | `PoundIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power.svg" width="24" height="24"> | `PowerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-plug.svg" width="24" height="24"> | `PowerPlugIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-plug-off.svg" width="24" height="24"> | `PowerPlugOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-settings.svg" width="24" height="24"> | `PowerSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket-eu.svg" width="24" height="24"> | `PowerSocketEuIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket.svg" width="24" height="24"> | `PowerSocketIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket-uk.svg" width="24" height="24"> | `PowerSocketUkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/power-socket-us.svg" width="24" height="24"> | `PowerSocketUsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/prescription.svg" width="24" height="24"> | `PrescriptionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/presentation.svg" width="24" height="24"> | `PresentationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/presentation-play.svg" width="24" height="24"> | `PresentationPlayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/printer-alert.svg" width="24" height="24"> | `PrinterAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/printer.svg" width="24" height="24"> | `PrinterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/printer-settings.svg" width="24" height="24"> | `PrinterSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/printer-3d.svg" width="24" height="24"> | `Printer_3dIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/priority-high.svg" width="24" height="24"> | `PriorityHighIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/priority-low.svg" width="24" height="24"> | `PriorityLowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/professional-hexagon.svg" width="24" height="24"> | `ProfessionalHexagonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/projector.svg" width="24" height="24"> | `ProjectorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/projector-screen.svg" width="24" height="24"> | `ProjectorScreenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/publish.svg" width="24" height="24"> | `PublishIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/pulse.svg" width="24" height="24"> | `PulseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/puzzle.svg" width="24" height="24"> | `PuzzleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/qqchat.svg" width="24" height="24"> | `QqchatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/qrcode-edit.svg" width="24" height="24"> | `QrcodeEditIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/qrcode.svg" width="24" height="24"> | `QrcodeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/qrcode-scan.svg" width="24" height="24"> | `QrcodeScanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/quadcopter.svg" width="24" height="24"> | `QuadcopterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/quality-high.svg" width="24" height="24"> | `QualityHighIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/quicktime.svg" width="24" height="24"> | `QuicktimeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radar.svg" width="24" height="24"> | `RadarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radiator.svg" width="24" height="24"> | `RadiatorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radio-handheld.svg" width="24" height="24"> | `RadioHandheldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radio.svg" width="24" height="24"> | `RadioIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radio-tower.svg" width="24" height="24"> | `RadioTowerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radioactive.svg" width="24" height="24"> | `RadioactiveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radiobox-blank.svg" width="24" height="24"> | `RadioboxBlankIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/radiobox-marked.svg" width="24" height="24"> | `RadioboxMarkedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/raspberrypi.svg" width="24" height="24"> | `RaspberrypiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ray-end-arrow.svg" width="24" height="24"> | `RayEndArrowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ray-end.svg" width="24" height="24"> | `RayEndIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ray-start-arrow.svg" width="24" height="24"> | `RayStartArrowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ray-start-end.svg" width="24" height="24"> | `RayStartEndIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ray-start.svg" width="24" height="24"> | `RayStartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ray-vertex.svg" width="24" height="24"> | `RayVertexIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/react.svg" width="24" height="24"> | `ReactIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/read.svg" width="24" height="24"> | `ReadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/receipt.svg" width="24" height="24"> | `ReceiptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/record.svg" width="24" height="24"> | `RecordIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/record-rec.svg" width="24" height="24"> | `RecordRecIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/recycle.svg" width="24" height="24"> | `RecycleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reddit.svg" width="24" height="24"> | `RedditIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/redo.svg" width="24" height="24"> | `RedoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/redo-variant.svg" width="24" height="24"> | `RedoVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/refresh.svg" width="24" height="24"> | `RefreshIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/regex.svg" width="24" height="24"> | `RegexIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/relative-scale.svg" width="24" height="24"> | `RelativeScaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reload.svg" width="24" height="24"> | `ReloadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reminder.svg" width="24" height="24"> | `ReminderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/remote-desktop.svg" width="24" height="24"> | `RemoteDesktopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/remote.svg" width="24" height="24"> | `RemoteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rename-box.svg" width="24" height="24"> | `RenameBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reorder-horizontal.svg" width="24" height="24"> | `ReorderHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reorder-vertical.svg" width="24" height="24"> | `ReorderVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/repeat.svg" width="24" height="24"> | `RepeatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/repeat-off.svg" width="24" height="24"> | `RepeatOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/repeat-once.svg" width="24" height="24"> | `RepeatOnceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/replay.svg" width="24" height="24"> | `ReplayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reply-all.svg" width="24" height="24"> | `ReplyAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reply.svg" width="24" height="24"> | `ReplyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/reproduction.svg" width="24" height="24"> | `ReproductionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/resize-bottom-right.svg" width="24" height="24"> | `ResizeBottomRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/responsive.svg" width="24" height="24"> | `ResponsiveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/restart.svg" width="24" height="24"> | `RestartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/restore.svg" width="24" height="24"> | `RestoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rewind.svg" width="24" height="24"> | `RewindIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rewind-outline.svg" width="24" height="24"> | `RewindOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rhombus.svg" width="24" height="24"> | `RhombusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rhombus-outline.svg" width="24" height="24"> | `RhombusOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ribbon.svg" width="24" height="24"> | `RibbonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rice.svg" width="24" height="24"> | `RiceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ring.svg" width="24" height="24"> | `RingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/road.svg" width="24" height="24"> | `RoadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/road-variant.svg" width="24" height="24"> | `RoadVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/robot.svg" width="24" height="24"> | `RobotIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rocket.svg" width="24" height="24"> | `RocketIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/room-service.svg" width="24" height="24"> | `RoomServiceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/roomba.svg" width="24" height="24"> | `RoombaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-left.svg" width="24" height="24"> | `RotateLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-left-variant.svg" width="24" height="24"> | `RotateLeftVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-right.svg" width="24" height="24"> | `RotateRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-right-variant.svg" width="24" height="24"> | `RotateRightVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rotate-3d.svg" width="24" height="24"> | `Rotate_3dIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rounded-corner.svg" width="24" height="24"> | `RoundedCornerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/router-wireless.svg" width="24" height="24"> | `RouterWirelessIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/routes.svg" width="24" height="24"> | `RoutesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rowing.svg" width="24" height="24"> | `RowingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rss-box.svg" width="24" height="24"> | `RssBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/rss.svg" width="24" height="24"> | `RssIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ruler.svg" width="24" height="24"> | `RulerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/run-fast.svg" width="24" height="24"> | `RunFastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/run.svg" width="24" height="24"> | `RunIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sale.svg" width="24" height="24"> | `SaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/salesforce.svg" width="24" height="24"> | `SalesforceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sass.svg" width="24" height="24"> | `SassIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/satellite.svg" width="24" height="24"> | `SatelliteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/satellite-variant.svg" width="24" height="24"> | `SatelliteVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sausage.svg" width="24" height="24"> | `SausageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/saxophone.svg" width="24" height="24"> | `SaxophoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/scale-balance.svg" width="24" height="24"> | `ScaleBalanceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/scale-bathroom.svg" width="24" height="24"> | `ScaleBathroomIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/scale.svg" width="24" height="24"> | `ScaleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/scanner.svg" width="24" height="24"> | `ScannerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/school.svg" width="24" height="24"> | `SchoolIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/screen-rotation.svg" width="24" height="24"> | `ScreenRotationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/screen-rotation-lock.svg" width="24" height="24"> | `ScreenRotationLockIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/screwdriver.svg" width="24" height="24"> | `ScrewdriverIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/script.svg" width="24" height="24"> | `ScriptIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sd.svg" width="24" height="24"> | `SdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seal.svg" width="24" height="24"> | `SealIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/search-web.svg" width="24" height="24"> | `SearchWebIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-flat-angled.svg" width="24" height="24"> | `SeatFlatAngledIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-flat.svg" width="24" height="24"> | `SeatFlatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-individual-suite.svg" width="24" height="24"> | `SeatIndividualSuiteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-legroom-extra.svg" width="24" height="24"> | `SeatLegroomExtraIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-legroom-normal.svg" width="24" height="24"> | `SeatLegroomNormalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-legroom-reduced.svg" width="24" height="24"> | `SeatLegroomReducedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-recline-extra.svg" width="24" height="24"> | `SeatReclineExtraIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/seat-recline-normal.svg" width="24" height="24"> | `SeatReclineNormalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/security-account.svg" width="24" height="24"> | `SecurityAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/security-home.svg" width="24" height="24"> | `SecurityHomeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/security.svg" width="24" height="24"> | `SecurityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/security-network.svg" width="24" height="24"> | `SecurityNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/select-all.svg" width="24" height="24"> | `SelectAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/select.svg" width="24" height="24"> | `SelectIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/select-inverse.svg" width="24" height="24"> | `SelectInverseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/select-off.svg" width="24" height="24"> | `SelectOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/selection.svg" width="24" height="24"> | `SelectionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/selection-off.svg" width="24" height="24"> | `SelectionOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/send.svg" width="24" height="24"> | `SendIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/send-secure.svg" width="24" height="24"> | `SendSecureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/serial-port.svg" width="24" height="24"> | `SerialPortIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server.svg" width="24" height="24"> | `ServerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-minus.svg" width="24" height="24"> | `ServerMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-network.svg" width="24" height="24"> | `ServerNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-network-off.svg" width="24" height="24"> | `ServerNetworkOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-off.svg" width="24" height="24"> | `ServerOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-plus.svg" width="24" height="24"> | `ServerPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-remove.svg" width="24" height="24"> | `ServerRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/server-security.svg" width="24" height="24"> | `ServerSecurityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-all.svg" width="24" height="24"> | `SetAllIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-center.svg" width="24" height="24"> | `SetCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-center-right.svg" width="24" height="24"> | `SetCenterRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-left-center.svg" width="24" height="24"> | `SetLeftCenterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-left.svg" width="24" height="24"> | `SetLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-left-right.svg" width="24" height="24"> | `SetLeftRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-none.svg" width="24" height="24"> | `SetNoneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/set-right.svg" width="24" height="24"> | `SetRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/settings-box.svg" width="24" height="24"> | `SettingsBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/settings.svg" width="24" height="24"> | `SettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/settings-outline.svg" width="24" height="24"> | `SettingsOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape-circle-plus.svg" width="24" height="24"> | `ShapeCirclePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape.svg" width="24" height="24"> | `ShapeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape-outline.svg" width="24" height="24"> | `ShapeOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape-plus.svg" width="24" height="24"> | `ShapePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape-polygon-plus.svg" width="24" height="24"> | `ShapePolygonPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape-rectangle-plus.svg" width="24" height="24"> | `ShapeRectanglePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shape-square-plus.svg" width="24" height="24"> | `ShapeSquarePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/share.svg" width="24" height="24"> | `ShareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/share-variant.svg" width="24" height="24"> | `ShareVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shield-half-full.svg" width="24" height="24"> | `ShieldHalfFullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shield.svg" width="24" height="24"> | `ShieldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shield-outline.svg" width="24" height="24"> | `ShieldOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ship-wheel.svg" width="24" height="24"> | `ShipWheelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shopping.svg" width="24" height="24"> | `ShoppingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shopping-music.svg" width="24" height="24"> | `ShoppingMusicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shovel.svg" width="24" height="24"> | `ShovelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shovel-off.svg" width="24" height="24"> | `ShovelOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shredder.svg" width="24" height="24"> | `ShredderIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shuffle-disabled.svg" width="24" height="24"> | `ShuffleDisabledIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shuffle.svg" width="24" height="24"> | `ShuffleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/shuffle-variant.svg" width="24" height="24"> | `ShuffleVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sigma.svg" width="24" height="24"> | `SigmaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sigma-lower.svg" width="24" height="24"> | `SigmaLowerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sign-caution.svg" width="24" height="24"> | `SignCautionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sign-direction.svg" width="24" height="24"> | `SignDirectionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sign-text.svg" width="24" height="24"> | `SignTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-outline.svg" width="24" height="24"> | `SignalCellularOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-1.svg" width="24" height="24"> | `SignalCellular_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-2.svg" width="24" height="24"> | `SignalCellular_2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-cellular-3.svg" width="24" height="24"> | `SignalCellular_3Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-hspa.svg" width="24" height="24"> | `SignalHspaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-hspa-plus.svg" width="24" height="24"> | `SignalHspaPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal.svg" width="24" height="24"> | `SignalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-off.svg" width="24" height="24"> | `SignalOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-variant.svg" width="24" height="24"> | `SignalVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-2g.svg" width="24" height="24"> | `Signal_2gIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-3g.svg" width="24" height="24"> | `Signal_3gIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/signal-4g.svg" width="24" height="24"> | `Signal_4gIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/silverware-fork.svg" width="24" height="24"> | `SilverwareForkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/silverware.svg" width="24" height="24"> | `SilverwareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/silverware-spoon.svg" width="24" height="24"> | `SilverwareSpoonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/silverware-variant.svg" width="24" height="24"> | `SilverwareVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sim-alert.svg" width="24" height="24"> | `SimAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sim.svg" width="24" height="24"> | `SimIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sim-off.svg" width="24" height="24"> | `SimOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sitemap.svg" width="24" height="24"> | `SitemapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-backward.svg" width="24" height="24"> | `SkipBackwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-forward.svg" width="24" height="24"> | `SkipForwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-next-circle.svg" width="24" height="24"> | `SkipNextCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-next-circle-outline.svg" width="24" height="24"> | `SkipNextCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-next.svg" width="24" height="24"> | `SkipNextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-previous-circle.svg" width="24" height="24"> | `SkipPreviousCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-previous-circle-outline.svg" width="24" height="24"> | `SkipPreviousCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skip-previous.svg" width="24" height="24"> | `SkipPreviousIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skull.svg" width="24" height="24"> | `SkullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skype-business.svg" width="24" height="24"> | `SkypeBusinessIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/skype.svg" width="24" height="24"> | `SkypeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/slack.svg" width="24" height="24"> | `SlackIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sleep.svg" width="24" height="24"> | `SleepIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sleep-off.svg" width="24" height="24"> | `SleepOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/smoking.svg" width="24" height="24"> | `SmokingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/smoking-off.svg" width="24" height="24"> | `SmokingOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/snapchat.svg" width="24" height="24"> | `SnapchatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/snowflake.svg" width="24" height="24"> | `SnowflakeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/snowman.svg" width="24" height="24"> | `SnowmanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/soccer-field.svg" width="24" height="24"> | `SoccerFieldIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/soccer.svg" width="24" height="24"> | `SoccerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sofa.svg" width="24" height="24"> | `SofaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/solid.svg" width="24" height="24"> | `SolidIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sort-alphabetical.svg" width="24" height="24"> | `SortAlphabeticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sort-ascending.svg" width="24" height="24"> | `SortAscendingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sort-descending.svg" width="24" height="24"> | `SortDescendingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sort.svg" width="24" height="24"> | `SortIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sort-numeric.svg" width="24" height="24"> | `SortNumericIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sort-variant.svg" width="24" height="24"> | `SortVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/soundcloud.svg" width="24" height="24"> | `SoundcloudIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-branch.svg" width="24" height="24"> | `SourceBranchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-end.svg" width="24" height="24"> | `SourceCommitEndIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-end-local.svg" width="24" height="24"> | `SourceCommitEndLocalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit.svg" width="24" height="24"> | `SourceCommitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-local.svg" width="24" height="24"> | `SourceCommitLocalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-next-local.svg" width="24" height="24"> | `SourceCommitNextLocalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-start.svg" width="24" height="24"> | `SourceCommitStartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-commit-start-next-local.svg" width="24" height="24"> | `SourceCommitStartNextLocalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-fork.svg" width="24" height="24"> | `SourceForkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-merge.svg" width="24" height="24"> | `SourceMergeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/source-pull.svg" width="24" height="24"> | `SourcePullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/soy-sauce.svg" width="24" height="24"> | `SoySauceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/speaker.svg" width="24" height="24"> | `SpeakerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/speaker-off.svg" width="24" height="24"> | `SpeakerOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/speaker-wireless.svg" width="24" height="24"> | `SpeakerWirelessIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/speedometer.svg" width="24" height="24"> | `SpeedometerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/spellcheck.svg" width="24" height="24"> | `SpellcheckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/spotify.svg" width="24" height="24"> | `SpotifyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/spotlight-beam.svg" width="24" height="24"> | `SpotlightBeamIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/spotlight.svg" width="24" height="24"> | `SpotlightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/spray.svg" width="24" height="24"> | `SprayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/square.svg" width="24" height="24"> | `SquareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/square-inc-cash.svg" width="24" height="24"> | `SquareIncCashIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/square-inc.svg" width="24" height="24"> | `SquareIncIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/square-outline.svg" width="24" height="24"> | `SquareOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/square-root.svg" width="24" height="24"> | `SquareRootIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ssh.svg" width="24" height="24"> | `SshIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stack-overflow.svg" width="24" height="24"> | `StackOverflowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stackexchange.svg" width="24" height="24"> | `StackexchangeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stadium.svg" width="24" height="24"> | `StadiumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stairs.svg" width="24" height="24"> | `StairsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/standard-definition.svg" width="24" height="24"> | `StandardDefinitionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/star-circle.svg" width="24" height="24"> | `StarCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/star-half.svg" width="24" height="24"> | `StarHalfIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/star.svg" width="24" height="24"> | `StarIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/star-off.svg" width="24" height="24"> | `StarOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/star-outline.svg" width="24" height="24"> | `StarOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/steam.svg" width="24" height="24"> | `SteamIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/steering.svg" width="24" height="24"> | `SteeringIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/step-backward.svg" width="24" height="24"> | `StepBackwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/step-backward-2.svg" width="24" height="24"> | `StepBackward_2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/step-forward.svg" width="24" height="24"> | `StepForwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/step-forward-2.svg" width="24" height="24"> | `StepForward_2Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stethoscope.svg" width="24" height="24"> | `StethoscopeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sticker-emoji.svg" width="24" height="24"> | `StickerEmojiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sticker.svg" width="24" height="24"> | `StickerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stocking.svg" width="24" height="24"> | `StockingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stop-circle.svg" width="24" height="24"> | `StopCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stop-circle-outline.svg" width="24" height="24"> | `StopCircleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stop.svg" width="24" height="24"> | `StopIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/store.svg" width="24" height="24"> | `StoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/store-24-hour.svg" width="24" height="24"> | `Store_24HourIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/stove.svg" width="24" height="24"> | `StoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/subdirectory-arrow-left.svg" width="24" height="24"> | `SubdirectoryArrowLeftIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/subdirectory-arrow-right.svg" width="24" height="24"> | `SubdirectoryArrowRightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/subway.svg" width="24" height="24"> | `SubwayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/subway-variant.svg" width="24" height="24"> | `SubwayVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/summit.svg" width="24" height="24"> | `SummitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sunglasses.svg" width="24" height="24"> | `SunglassesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound.svg" width="24" height="24"> | `SurroundSoundIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-2-0.svg" width="24" height="24"> | `SurroundSound_2_0Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-3-1.svg" width="24" height="24"> | `SurroundSound_3_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-5-1.svg" width="24" height="24"> | `SurroundSound_5_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/surround-sound-7-1.svg" width="24" height="24"> | `SurroundSound_7_1Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/svg.svg" width="24" height="24"> | `SvgIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/swap-horizontal.svg" width="24" height="24"> | `SwapHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/swap-horizontal-variant.svg" width="24" height="24"> | `SwapHorizontalVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/swap-vertical.svg" width="24" height="24"> | `SwapVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/swap-vertical-variant.svg" width="24" height="24"> | `SwapVerticalVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/swim.svg" width="24" height="24"> | `SwimIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/switch.svg" width="24" height="24"> | `SwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sword-cross.svg" width="24" height="24"> | `SwordCrossIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sword.svg" width="24" height="24"> | `SwordIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sync-alert.svg" width="24" height="24"> | `SyncAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sync.svg" width="24" height="24"> | `SyncIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/sync-off.svg" width="24" height="24"> | `SyncOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tab.svg" width="24" height="24"> | `TabIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tab-plus.svg" width="24" height="24"> | `TabPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tab-unselected.svg" width="24" height="24"> | `TabUnselectedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-column.svg" width="24" height="24"> | `TableColumnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-plus-after.svg" width="24" height="24"> | `TableColumnPlusAfterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-plus-before.svg" width="24" height="24"> | `TableColumnPlusBeforeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-remove.svg" width="24" height="24"> | `TableColumnRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-column-width.svg" width="24" height="24"> | `TableColumnWidthIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-edit.svg" width="24" height="24"> | `TableEditIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table.svg" width="24" height="24"> | `TableIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-large.svg" width="24" height="24"> | `TableLargeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-of-contents.svg" width="24" height="24"> | `TableOfContentsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-height.svg" width="24" height="24"> | `TableRowHeightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-row.svg" width="24" height="24"> | `TableRowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-plus-after.svg" width="24" height="24"> | `TableRowPlusAfterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-plus-before.svg" width="24" height="24"> | `TableRowPlusBeforeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-row-remove.svg" width="24" height="24"> | `TableRowRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/table-settings.svg" width="24" height="24"> | `TableSettingsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tablet-android.svg" width="24" height="24"> | `TabletAndroidIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tablet.svg" width="24" height="24"> | `TabletIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tablet-ipad.svg" width="24" height="24"> | `TabletIpadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/taco.svg" width="24" height="24"> | `TacoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-faces.svg" width="24" height="24"> | `TagFacesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-heart.svg" width="24" height="24"> | `TagHeartIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag.svg" width="24" height="24"> | `TagIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-multiple.svg" width="24" height="24"> | `TagMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-outline.svg" width="24" height="24"> | `TagOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-plus.svg" width="24" height="24"> | `TagPlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-remove.svg" width="24" height="24"> | `TagRemoveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tag-text-outline.svg" width="24" height="24"> | `TagTextOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/target.svg" width="24" height="24"> | `TargetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/taxi.svg" width="24" height="24"> | `TaxiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/teach.svg" width="24" height="24"> | `TeachIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/teamviewer.svg" width="24" height="24"> | `TeamviewerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/telegram.svg" width="24" height="24"> | `TelegramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/television-box.svg" width="24" height="24"> | `TelevisionBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/television-classic.svg" width="24" height="24"> | `TelevisionClassicIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/television-classic-off.svg" width="24" height="24"> | `TelevisionClassicOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/television-guide.svg" width="24" height="24"> | `TelevisionGuideIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/television.svg" width="24" height="24"> | `TelevisionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/television-off.svg" width="24" height="24"> | `TelevisionOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/temperature-celsius.svg" width="24" height="24"> | `TemperatureCelsiusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/temperature-fahrenheit.svg" width="24" height="24"> | `TemperatureFahrenheitIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/temperature-kelvin.svg" width="24" height="24"> | `TemperatureKelvinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tennis.svg" width="24" height="24"> | `TennisIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tent.svg" width="24" height="24"> | `TentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/terrain.svg" width="24" height="24"> | `TerrainIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/test-tube.svg" width="24" height="24"> | `TestTubeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/text-shadow.svg" width="24" height="24"> | `TextShadowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/text-to-speech.svg" width="24" height="24"> | `TextToSpeechIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/text-to-speech-off.svg" width="24" height="24"> | `TextToSpeechOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/textbox.svg" width="24" height="24"> | `TextboxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/textbox-password.svg" width="24" height="24"> | `TextboxPasswordIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/texture.svg" width="24" height="24"> | `TextureIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/theater.svg" width="24" height="24"> | `TheaterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/theme-light-dark.svg" width="24" height="24"> | `ThemeLightDarkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thermometer.svg" width="24" height="24"> | `ThermometerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thermometer-lines.svg" width="24" height="24"> | `ThermometerLinesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thermostat-box.svg" width="24" height="24"> | `ThermostatBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thought-bubble.svg" width="24" height="24"> | `ThoughtBubbleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thought-bubble-outline.svg" width="24" height="24"> | `ThoughtBubbleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-down.svg" width="24" height="24"> | `ThumbDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-down-outline.svg" width="24" height="24"> | `ThumbDownOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-up.svg" width="24" height="24"> | `ThumbUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thumb-up-outline.svg" width="24" height="24"> | `ThumbUpOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/thumbs-up-down.svg" width="24" height="24"> | `ThumbsUpDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ticket-account.svg" width="24" height="24"> | `TicketAccountIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ticket-confirmation.svg" width="24" height="24"> | `TicketConfirmationIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ticket.svg" width="24" height="24"> | `TicketIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ticket-percent.svg" width="24" height="24"> | `TicketPercentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tie.svg" width="24" height="24"> | `TieIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tilde.svg" width="24" height="24"> | `TildeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timelapse.svg" width="24" height="24"> | `TimelapseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer.svg" width="24" height="24"> | `TimerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer-off.svg" width="24" height="24"> | `TimerOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer-sand-empty.svg" width="24" height="24"> | `TimerSandEmptyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer-sand-full.svg" width="24" height="24"> | `TimerSandFullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer-sand.svg" width="24" height="24"> | `TimerSandIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer-10.svg" width="24" height="24"> | `Timer_10Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timer-3.svg" width="24" height="24"> | `Timer_3Icon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/timetable.svg" width="24" height="24"> | `TimetableIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/toggle-switch.svg" width="24" height="24"> | `ToggleSwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/toggle-switch-off.svg" width="24" height="24"> | `ToggleSwitchOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-edit.svg" width="24" height="24"> | `TooltipEditIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip.svg" width="24" height="24"> | `TooltipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-image.svg" width="24" height="24"> | `TooltipImageIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-outline.svg" width="24" height="24"> | `TooltipOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-outline-plus.svg" width="24" height="24"> | `TooltipOutlinePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooltip-text.svg" width="24" height="24"> | `TooltipTextIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooth.svg" width="24" height="24"> | `ToothIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tooth-outline.svg" width="24" height="24"> | `ToothOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tor.svg" width="24" height="24"> | `TorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tower-beach.svg" width="24" height="24"> | `TowerBeachIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tower-fire.svg" width="24" height="24"> | `TowerFireIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/towing.svg" width="24" height="24"> | `TowingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trackpad.svg" width="24" height="24"> | `TrackpadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tractor.svg" width="24" height="24"> | `TractorIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/traffic-light.svg" width="24" height="24"> | `TrafficLightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/train.svg" width="24" height="24"> | `TrainIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/train-variant.svg" width="24" height="24"> | `TrainVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tram.svg" width="24" height="24"> | `TramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/transcribe-close.svg" width="24" height="24"> | `TranscribeCloseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/transcribe.svg" width="24" height="24"> | `TranscribeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/transfer.svg" width="24" height="24"> | `TransferIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/transit-transfer.svg" width="24" height="24"> | `TransitTransferIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/translate.svg" width="24" height="24"> | `TranslateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/treasure-chest.svg" width="24" height="24"> | `TreasureChestIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tree.svg" width="24" height="24"> | `TreeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trello.svg" width="24" height="24"> | `TrelloIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trending-down.svg" width="24" height="24"> | `TrendingDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trending-neutral.svg" width="24" height="24"> | `TrendingNeutralIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trending-up.svg" width="24" height="24"> | `TrendingUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/triangle.svg" width="24" height="24"> | `TriangleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/triangle-outline.svg" width="24" height="24"> | `TriangleOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-award.svg" width="24" height="24"> | `TrophyAwardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trophy.svg" width="24" height="24"> | `TrophyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-outline.svg" width="24" height="24"> | `TrophyOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-variant.svg" width="24" height="24"> | `TrophyVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/trophy-variant-outline.svg" width="24" height="24"> | `TrophyVariantOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/truck-delivery.svg" width="24" height="24"> | `TruckDeliveryIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/truck-fast.svg" width="24" height="24"> | `TruckFastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/truck.svg" width="24" height="24"> | `TruckIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/truck-trailer.svg" width="24" height="24"> | `TruckTrailerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tshirt-crew.svg" width="24" height="24"> | `TshirtCrewIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tshirt-v.svg" width="24" height="24"> | `TshirtVIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tumblr.svg" width="24" height="24"> | `TumblrIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tumblr-reblog.svg" width="24" height="24"> | `TumblrReblogIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tune.svg" width="24" height="24"> | `TuneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/tune-vertical.svg" width="24" height="24"> | `TuneVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/twitch.svg" width="24" height="24"> | `TwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/twitter-box.svg" width="24" height="24"> | `TwitterBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/twitter-circle.svg" width="24" height="24"> | `TwitterCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/twitter.svg" width="24" height="24"> | `TwitterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/twitter-retweet.svg" width="24" height="24"> | `TwitterRetweetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/uber.svg" width="24" height="24"> | `UberIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ubuntu.svg" width="24" height="24"> | `UbuntuIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ultra-high-definition.svg" width="24" height="24"> | `UltraHighDefinitionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/umbraco.svg" width="24" height="24"> | `UmbracoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/umbrella.svg" width="24" height="24"> | `UmbrellaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/umbrella-outline.svg" width="24" height="24"> | `UmbrellaOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/undo.svg" width="24" height="24"> | `UndoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/undo-variant.svg" width="24" height="24"> | `UndoVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-less-horizontal.svg" width="24" height="24"> | `UnfoldLessHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-less-vertical.svg" width="24" height="24"> | `UnfoldLessVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-more-horizontal.svg" width="24" height="24"> | `UnfoldMoreHorizontalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/unfold-more-vertical.svg" width="24" height="24"> | `UnfoldMoreVerticalIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/ungroup.svg" width="24" height="24"> | `UngroupIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/unity.svg" width="24" height="24"> | `UnityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/untappd.svg" width="24" height="24"> | `UntappdIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/update.svg" width="24" height="24"> | `UpdateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/upload.svg" width="24" height="24"> | `UploadIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/upload-multiple.svg" width="24" height="24"> | `UploadMultipleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/upload-network.svg" width="24" height="24"> | `UploadNetworkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/usb.svg" width="24" height="24"> | `UsbIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/van-passenger.svg" width="24" height="24"> | `VanPassengerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/van-utility.svg" width="24" height="24"> | `VanUtilityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vanish.svg" width="24" height="24"> | `VanishIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-arrange-above.svg" width="24" height="24"> | `VectorArrangeAboveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-arrange-below.svg" width="24" height="24"> | `VectorArrangeBelowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-circle.svg" width="24" height="24"> | `VectorCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-circle-variant.svg" width="24" height="24"> | `VectorCircleVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-combine.svg" width="24" height="24"> | `VectorCombineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-curve.svg" width="24" height="24"> | `VectorCurveIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-difference-ab.svg" width="24" height="24"> | `VectorDifferenceAbIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-difference-ba.svg" width="24" height="24"> | `VectorDifferenceBaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-difference.svg" width="24" height="24"> | `VectorDifferenceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-ellipse.svg" width="24" height="24"> | `VectorEllipseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-intersection.svg" width="24" height="24"> | `VectorIntersectionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-line.svg" width="24" height="24"> | `VectorLineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-point.svg" width="24" height="24"> | `VectorPointIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-polygon.svg" width="24" height="24"> | `VectorPolygonIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-polyline.svg" width="24" height="24"> | `VectorPolylineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-radius.svg" width="24" height="24"> | `VectorRadiusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-rectangle.svg" width="24" height="24"> | `VectorRectangleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-selection.svg" width="24" height="24"> | `VectorSelectionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-square.svg" width="24" height="24"> | `VectorSquareIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-triangle.svg" width="24" height="24"> | `VectorTriangleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vector-union.svg" width="24" height="24"> | `VectorUnionIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/venmo.svg" width="24" height="24"> | `VenmoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/verified.svg" width="24" height="24"> | `VerifiedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vibrate.svg" width="24" height="24"> | `VibrateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video.svg" width="24" height="24"> | `VideoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-antenna.svg" width="24" height="24"> | `VideoInputAntennaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-component.svg" width="24" height="24"> | `VideoInputComponentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-hdmi.svg" width="24" height="24"> | `VideoInputHdmiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-input-svideo.svg" width="24" height="24"> | `VideoInputSvideoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-off.svg" width="24" height="24"> | `VideoOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-switch.svg" width="24" height="24"> | `VideoSwitchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-3d.svg" width="24" height="24"> | `Video_3dIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/video-4k-box.svg" width="24" height="24"> | `Video_4kBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-agenda.svg" width="24" height="24"> | `ViewAgendaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-array.svg" width="24" height="24"> | `ViewArrayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-carousel.svg" width="24" height="24"> | `ViewCarouselIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-column.svg" width="24" height="24"> | `ViewColumnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-dashboard.svg" width="24" height="24"> | `ViewDashboardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-dashboard-variant.svg" width="24" height="24"> | `ViewDashboardVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-day.svg" width="24" height="24"> | `ViewDayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-grid.svg" width="24" height="24"> | `ViewGridIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-headline.svg" width="24" height="24"> | `ViewHeadlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-list.svg" width="24" height="24"> | `ViewListIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-module.svg" width="24" height="24"> | `ViewModuleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-parallel.svg" width="24" height="24"> | `ViewParallelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-quilt.svg" width="24" height="24"> | `ViewQuiltIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-sequential.svg" width="24" height="24"> | `ViewSequentialIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-stream.svg" width="24" height="24"> | `ViewStreamIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/view-week.svg" width="24" height="24"> | `ViewWeekIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vimeo.svg" width="24" height="24"> | `VimeoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/violin.svg" width="24" height="24"> | `ViolinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/virtual-reality.svg" width="24" height="24"> | `VirtualRealityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/visualstudio.svg" width="24" height="24"> | `VisualstudioIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vk-box.svg" width="24" height="24"> | `VkBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vk-circle.svg" width="24" height="24"> | `VkCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vk.svg" width="24" height="24"> | `VkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vlc.svg" width="24" height="24"> | `VlcIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/voice.svg" width="24" height="24"> | `VoiceIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/voicemail.svg" width="24" height="24"> | `VoicemailIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-high.svg" width="24" height="24"> | `VolumeHighIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-low.svg" width="24" height="24"> | `VolumeLowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-medium.svg" width="24" height="24"> | `VolumeMediumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-minus.svg" width="24" height="24"> | `VolumeMinusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-mute.svg" width="24" height="24"> | `VolumeMuteIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-off.svg" width="24" height="24"> | `VolumeOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/volume-plus.svg" width="24" height="24"> | `VolumePlusIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vpn.svg" width="24" height="24"> | `VpnIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/vuejs.svg" width="24" height="24"> | `VuejsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/walk.svg" width="24" height="24"> | `WalkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wall.svg" width="24" height="24"> | `WallIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wallet-giftcard.svg" width="24" height="24"> | `WalletGiftcardIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wallet.svg" width="24" height="24"> | `WalletIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wallet-membership.svg" width="24" height="24"> | `WalletMembershipIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wallet-travel.svg" width="24" height="24"> | `WalletTravelIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wan.svg" width="24" height="24"> | `WanIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/washing-machine.svg" width="24" height="24"> | `WashingMachineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch-export.svg" width="24" height="24"> | `WatchExportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch-export-variant.svg" width="24" height="24"> | `WatchExportVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch.svg" width="24" height="24"> | `WatchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch-import.svg" width="24" height="24"> | `WatchImportIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch-import-variant.svg" width="24" height="24"> | `WatchImportVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch-variant.svg" width="24" height="24"> | `WatchVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watch-vibrate.svg" width="24" height="24"> | `WatchVibrateIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/water.svg" width="24" height="24"> | `WaterIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/water-off.svg" width="24" height="24"> | `WaterOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/water-percent.svg" width="24" height="24"> | `WaterPercentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/water-pump.svg" width="24" height="24"> | `WaterPumpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/watermark.svg" width="24" height="24"> | `WatermarkIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/waves.svg" width="24" height="24"> | `WavesIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-cloudy.svg" width="24" height="24"> | `WeatherCloudyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-fog.svg" width="24" height="24"> | `WeatherFogIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-hail.svg" width="24" height="24"> | `WeatherHailIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-hurricane.svg" width="24" height="24"> | `WeatherHurricaneIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-lightning.svg" width="24" height="24"> | `WeatherLightningIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-lightning-rainy.svg" width="24" height="24"> | `WeatherLightningRainyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-night.svg" width="24" height="24"> | `WeatherNightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-partlycloudy.svg" width="24" height="24"> | `WeatherPartlycloudyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-pouring.svg" width="24" height="24"> | `WeatherPouringIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-rainy.svg" width="24" height="24"> | `WeatherRainyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-snowy.svg" width="24" height="24"> | `WeatherSnowyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-snowy-rainy.svg" width="24" height="24"> | `WeatherSnowyRainyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunny.svg" width="24" height="24"> | `WeatherSunnyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunset-down.svg" width="24" height="24"> | `WeatherSunsetDownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunset.svg" width="24" height="24"> | `WeatherSunsetIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-sunset-up.svg" width="24" height="24"> | `WeatherSunsetUpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-windy.svg" width="24" height="24"> | `WeatherWindyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weather-windy-variant.svg" width="24" height="24"> | `WeatherWindyVariantIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/web.svg" width="24" height="24"> | `WebIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/webcam.svg" width="24" height="24"> | `WebcamIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/webhook.svg" width="24" height="24"> | `WebhookIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/webpack.svg" width="24" height="24"> | `WebpackIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wechat.svg" width="24" height="24"> | `WechatIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weight.svg" width="24" height="24"> | `WeightIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/weight-kilogram.svg" width="24" height="24"> | `WeightKilogramIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/whatsapp.svg" width="24" height="24"> | `WhatsappIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wheelchair-accessibility.svg" width="24" height="24"> | `WheelchairAccessibilityIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-auto.svg" width="24" height="24"> | `WhiteBalanceAutoIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-incandescent.svg" width="24" height="24"> | `WhiteBalanceIncandescentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-iridescent.svg" width="24" height="24"> | `WhiteBalanceIridescentIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/white-balance-sunny.svg" width="24" height="24"> | `WhiteBalanceSunnyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/widgets.svg" width="24" height="24"> | `WidgetsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wifi.svg" width="24" height="24"> | `WifiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wifi-off.svg" width="24" height="24"> | `WifiOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wii.svg" width="24" height="24"> | `WiiIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wiiu.svg" width="24" height="24"> | `WiiuIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wikipedia.svg" width="24" height="24"> | `WikipediaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/window-close.svg" width="24" height="24"> | `WindowCloseIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/window-closed.svg" width="24" height="24"> | `WindowClosedIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/window-maximize.svg" width="24" height="24"> | `WindowMaximizeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/window-minimize.svg" width="24" height="24"> | `WindowMinimizeIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/window-open.svg" width="24" height="24"> | `WindowOpenIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/window-restore.svg" width="24" height="24"> | `WindowRestoreIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/windows.svg" width="24" height="24"> | `WindowsIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wordpress.svg" width="24" height="24"> | `WordpressIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/worker.svg" width="24" height="24"> | `WorkerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wrap.svg" width="24" height="24"> | `WrapIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wrench.svg" width="24" height="24"> | `WrenchIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/wunderlist.svg" width="24" height="24"> | `WunderlistIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xamarin.svg" width="24" height="24"> | `XamarinIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xamarin-outline.svg" width="24" height="24"> | `XamarinOutlineIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xaml.svg" width="24" height="24"> | `XamlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-alert.svg" width="24" height="24"> | `XboxControllerBatteryAlertIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-empty.svg" width="24" height="24"> | `XboxControllerBatteryEmptyIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-full.svg" width="24" height="24"> | `XboxControllerBatteryFullIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-low.svg" width="24" height="24"> | `XboxControllerBatteryLowIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-medium.svg" width="24" height="24"> | `XboxControllerBatteryMediumIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-battery-unknown.svg" width="24" height="24"> | `XboxControllerBatteryUnknownIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller.svg" width="24" height="24"> | `XboxControllerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox-controller-off.svg" width="24" height="24"> | `XboxControllerOffIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xbox.svg" width="24" height="24"> | `XboxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xda.svg" width="24" height="24"> | `XdaIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xing-box.svg" width="24" height="24"> | `XingBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xing-circle.svg" width="24" height="24"> | `XingCircleIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xing.svg" width="24" height="24"> | `XingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xml.svg" width="24" height="24"> | `XmlIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/xmpp.svg" width="24" height="24"> | `XmppIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/yammer.svg" width="24" height="24"> | `YammerIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/yeast.svg" width="24" height="24"> | `YeastIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/yelp.svg" width="24" height="24"> | `YelpIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/yin-yang.svg" width="24" height="24"> | `YinYangIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-creator-studio.svg" width="24" height="24"> | `YoutubeCreatorStudioIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-gaming.svg" width="24" height="24"> | `YoutubeGamingIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-play.svg" width="24" height="24"> | `YoutubePlayIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/youtube-tv.svg" width="24" height="24"> | `YoutubeTvIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/zip-box.svg" width="24" height="24"> | `ZipBoxIcon`
+<img src="https://raw.githubusercontent.com/at-icons/material/master/svg/index.svg" width="24" height="24"> | `index`
