@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "name": "@icons/material",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "case <case@casesandberg.com>",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/at-icons/material.git"
+    "type": "git",
+    "url": "https://github.com/at-icons/material.git"
   },
   "devDependencies": {
     "@case/eslint-config": "^0.3.3",
