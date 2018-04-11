@@ -79,20 +79,22 @@ fs.readdir(iconsFrom)
       const [match, paths] = content.match(/<svg .+?>(.+?)<\/svg>/)
       const name = `${ changeCase.pascalCase(filename.replace('.svg', '')) }Icon`
 
-      return fs.writeFile(`${ iconsTo }/${ name }.js`, createFileString(name, paths))
+      return fs.writeFile(`${ iconsTo }/${ name.replace('_', '') }.js`, createFileString(name, paths))
     })
   ))
   .then(() =>
     fs.readdir(iconsTo)
       .then((files) => {
-        const file = files.map((fileName) => createMarkdownString(fileName))
+        const filteredFiles = files.filter((file) => file !== 'index.js')
+        const file = filteredFiles.map((fileName) => createMarkdownString(fileName))
         return fs.writeFile(README, `${ README_HEADER }${ file.join('\n') }\n`)
       })
   )
   .then(() =>
     fs.readdir(iconsTo)
       .then((files) => {
-        const file = files.map((fileName) => createIndexString(fileName))
+        const filteredFiles = files.filter((file) => file !== 'index.js')
+        const file = filteredFiles.map((fileName) => createIndexString(fileName))
         return fs.writeFile(`${ iconsTo }/index.js`, `${ file.join('\n') }\n`)
       })
   )
