@@ -8,7 +8,7 @@
     "build": "babel icons -d .",
     "prepublishOnly": "npm run build",
     "storybook": "start-storybook -p 6006",
-    "snapshot": "build-storybook && percy-storybook --widths=1120",
+    "snapshot": "build-storybook && percy-storybook --widths=1136",
     "build-storybook": "build-storybook"
   },
   "author": "case <case@casesandberg.com>",

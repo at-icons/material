@@ -4,11 +4,6 @@ import createPercyAddon from '@percy-io/percy-storybook'
 
 const { percyAddon, serializeStories } = createPercyAddon()
 setAddon(percyAddon)
-serializeStories(getStorybook)
-setOptions({
-  goFullScreen: true,
-})
-
 
 const req = require.context('../stories', true, /.js$/)
 function loadStories() { // eslint-disable-line
@@ -16,3 +11,8 @@ function loadStories() { // eslint-disable-line
 }
 
 configure(loadStories, module)
+
+serializeStories(getStorybook)
+setOptions({
+  goFullScreen: true,
+})
