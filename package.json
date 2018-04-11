@@ -6,7 +6,7 @@
     "text": "npm run snapshot",
     "transform": "node transform.js",
     "build": "babel icons -d .",
-    "prepublish": "npm run build",
+    "prepublishOnly": "npm run build",
     "storybook": "start-storybook -p 6006",
     "snapshot": "build-storybook && percy-storybook --widths=1120",
     "build-storybook": "build-storybook"
