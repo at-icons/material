@@ -5,7 +5,9 @@
   "scripts": {
     "transform": "node transform.js",
     "build": "babel icons -d .",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "author": "case <case@casesandberg.com>",
   "license": "MIT",
@@ -15,7 +17,14 @@
   },
   "devDependencies": {
     "@case/eslint-config": "^0.3.3",
+    "@storybook/addon-actions": "^3.4.1",
+    "@storybook/addon-links": "^3.4.1",
+    "@storybook/addon-options": "^3.4.1",
+    "@storybook/addons": "^3.4.1",
+    "@storybook/react": "^3.4.1",
     "babel-cli": "^6.24.0",
+    "babel-core": "^6.26.0",
+    "babel-runtime": "^6.26.0",
     "babel-plugin-transform-class-properties": "^6.23.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-preset-env": "^1.2.2",
@@ -41,5 +50,6 @@
       "flow",
       "react"
     ]
-  }
+  },
+  "dependencies": {}
 }
