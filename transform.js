@@ -79,7 +79,7 @@ fs.readdir(iconsFrom)
       const [match, paths] = content.match(/<svg .+?>(.+?)<\/svg>/)
       const name = `${ changeCase.pascalCase(filename.replace('.svg', '')) }Icon`
 
-      return fs.writeFile(`${ iconsTo }/${ name }.js`, createFileString(name, paths))
+      return fs.writeFile(`${ iconsTo }/${ name.replace('_', '') }.js`, createFileString(name, paths))
     })
   ))
   .then(() =>
