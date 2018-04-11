@@ -3,7 +3,7 @@
   "name": "@icons/material",
   "main": "index.js",
   "scripts": {
-    "text": "npm run snapshot",
+    "test": "npm run snapshot",
     "transform": "node transform.js",
     "build": "babel icons -d .",
     "prepublishOnly": "npm run build",
