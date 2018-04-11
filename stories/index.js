@@ -9,7 +9,7 @@ storiesOf('Icons', module)
       <h1>@icons/material</h1>
 
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-        { Object.entries({ ...icons }).map(([name, Icon]) => (Icon ? (
+        { Object.entries({ ...icons }).map(([name, Icon]) => (
           <div
             key={ name }
             style={{
@@ -41,7 +41,7 @@ storiesOf('Icons', module)
             >{ name }
             </div>
           </div>
-        ) : null)) }
+        )) }
       </div>
     </div>
   ))

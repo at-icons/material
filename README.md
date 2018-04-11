@@ -2255,4 +2255,3 @@ import { AccountCheckIcon } from '@icons/material'
 <img src="https://unpkg.com/@icons/material/svg/youtube-play.svg" width="24" height="24"> | `YoutubePlayIcon`
 <img src="https://unpkg.com/@icons/material/svg/youtube-tv.svg" width="24" height="24"> | `YoutubeTvIcon`
 <img src="https://unpkg.com/@icons/material/svg/zip-box.svg" width="24" height="24"> | `ZipBoxIcon`
-<img src="https://unpkg.com/@icons/material/svg/index.svg" width="24" height="24"> | `index`
