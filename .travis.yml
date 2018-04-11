@@ -5,6 +5,8 @@ notifications:
 node_js:
   - "9"
 script: npm test
+before_install:
+  - "npm install react"
 cache:
   directories:
     - node_modules
