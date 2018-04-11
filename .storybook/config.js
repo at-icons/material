@@ -1,12 +1,17 @@
-import { configure } from '@storybook/react'
+import { configure, getStorybook, setAddon } from '@storybook/react'
 import { setOptions } from '@storybook/addon-options'
+import createPercyAddon from '@percy-io/percy-storybook'
 
+const { percyAddon, serializeStories } = createPercyAddon()
+setAddon(percyAddon)
+serializeStories(getStorybook)
 setOptions({
   goFullScreen: true,
 })
 
+
 const req = require.context('../stories', true, /.js$/)
-function loadStories() {
+function loadStories() { // eslint-disable-line
   req.keys().forEach((filename) => req(filename))
 }
 

@@ -3,10 +3,12 @@
   "name": "@icons/material",
   "main": "index.js",
   "scripts": {
+    "text": "npm run snapshot",
     "transform": "node transform.js",
     "build": "babel icons -d .",
     "prepublish": "npm run build",
     "storybook": "start-storybook -p 6006",
+    "snapshot": "build-storybook && percy-storybook --widths=1120",
     "build-storybook": "build-storybook"
   },
   "author": "case <case@casesandberg.com>",
