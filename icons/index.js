@@ -1,6 +1,5 @@
 export { default as AccessPointIcon } from './AccessPointIcon.js'
 export { default as AccessPointNetworkIcon } from './AccessPointNetworkIcon.js'
-export { default as AccountAlertIcon } from './AccountAlertIcon.js'
 export { default as AccountBoxIcon } from './AccountBoxIcon.js'
 export { default as AccountBoxOutlineIcon } from './AccountBoxOutlineIcon.js'
 export { default as AccountCardDetailsIcon } from './AccountCardDetailsIcon.js'
