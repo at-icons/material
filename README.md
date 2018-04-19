@@ -1,7 +1,5 @@
 # Material Icons
 
-> materialdesignicons.com
-
 ```sh
 npm install @icons/material --save
 ```
