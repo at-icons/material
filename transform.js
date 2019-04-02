@@ -57,7 +57,7 @@ fs.writeFileSync(README, '')
 
 fs.removeSync(iconsFrom)
 fs.ensureDirSync(iconsFrom)
-fs.copySync('./node_modules/mdi-svg/svg', iconsFrom)
+fs.copySync('./node_modules/@mdi/svg/svg', iconsFrom)
 
 fs.removeSync(iconsTo)
 fs.ensureDirSync(iconsTo)
