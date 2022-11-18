@@ -24,7 +24,7 @@
     "@storybook/addon-links": "^3.4.1",
     "@storybook/addon-options": "^3.4.1",
     "@storybook/addons": "^3.4.1",
-    "@storybook/react": "^3.4.1",
+    "@storybook/react": "^6.5.13",
     "babel-cli": "^6.24.0",
     "babel-core": "^6.26.0",
     "babel-plugin-transform-class-properties": "^6.23.0",
